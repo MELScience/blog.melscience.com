@@ -1,0 +1,85 @@
+﻿{% include top.html %}
+    <title>{{ page.reagent_name | capitalize }} ({{ page.formula }}) - Reagents - MEL Science ChemGit</title>
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">MEL Science ChemGit</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/">Experiments</a></li>
+            <li class="active"><a href="/reagents">Reagents</a></li>
+            <li><a href="/edit">Edit</a></li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </div><!-- /.navbar -->
+
+    <div class="container">
+
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/reagents/">Reagents</a></li>
+  <li class="active"><span style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">{{ page.reagent_name | capitalize }} ({{ page.formula }})</span></li>
+  <span class="pull-right">
+    <a href="https://github.com/MELScience/melscience.github.io/edit/master/reagents/{{ page.name }}" class="btn btn-default btn-xs">Edit</a>
+    <a href="/edit/update_reagent.html" class="btn btn-default btn-xs">How to Edit</a>
+  </span>
+</ol>
+
+      <div class="row row-offcanvas row-offcanvas-right">
+
+
+<h1>{{ page.reagent_name | capitalize }} ({{ page.formula }})</h1>
+
+<p>
+  <a href="{{ page.wikipedia }}">Wikipedia article about {{ page.reagent_name }}</a><br>
+  Substance: {{ page.substance_name }}<br>
+  Also known as: 
+  {% for another_name in page.other_names %}
+    {{ another_name }}, 
+  {% endfor %}
+</p>
+
+<p>
+{% assign reagent_page = page %}
+{% include nfpa_sign.html %}
+</p>
+
+<h2>Risk Phrases</h2>
+<ul>
+{% for rphrase_code in page.risk_phrases %}
+<li>{{ rphrase_code }}: {% include rphrase.html %}</li>
+{% endfor %}
+</ul>
+
+<h2>Safity Phrases</h2>
+<ul>
+{% for sphrase_code in page.safity_phrases %}
+<li>{{ sphrase_code }}: {% include sphrase.html %}</li>
+{% endfor %}
+</ul>
+
+<h2>Download MSDS</h2>
+<ul>
+{% for msds_link in page.msds %}
+  <li><a href="{{ msds_link }}">{{ msds_link }}</a></li>
+{% endfor %}
+
+</ul>
+
+{{ content }}
+
+
+      </div><!--/row-->
+
+{% include bottom.html %}

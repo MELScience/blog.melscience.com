@@ -1,0 +1,97 @@
+﻿{% include top.html %}
+    <title>{{ page.experiment_name }} - MEL Science ChemGit</title>
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">MEL Science ChemGit</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/">Experiments</a></li>
+            <li><a href="/reagents">Reagents</a></li>
+            <li><a href="/edit">Edit</a></li>
+          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </div><!-- /.navbar -->
+
+    <div class="container">
+
+{% assign category_name = page.category %}
+{% for c in site.pages %}
+  {% if c.type == "category" %}
+    {% if c.id == page.category %}
+      {% assign category_name = c.category_name %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+  <li><a href="/experiments/">Experiments</a></li>
+  <li><a href="/categories/{{ page.category }}.html">{{ category_name | capitalize }}</a></li>
+  <li class="active"><span style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">{{ page.experiment_name }}</span></li>
+  <span class="pull-right">
+    <a href="https://github.com/MELScience/melscience.github.io/edit/master/experiments/{{ page.name }}" class="btn btn-primary btn-xs"> <span class="glyphicon glyphicon-pencil"></span> Edit</a>
+    <a href="/edit/update_experiment.html" class="btn btn-default btn-xs">How to Edit</a>
+  </span>
+</ol>
+
+      <div class="row row-offcanvas row-offcanvas-right">
+
+<h1>{{ page.experiment_name }}</h1>
+
+<h2>Description</h2>
+<p>
+{{ page.description | markdownify  }}
+</p>
+
+<h2>Reaction Formula</h2>
+<p>
+{{ page.reaction }}
+</p>
+
+{% if page.safety != null %}
+<h2>Safety</h2>
+<p>
+{{ page.safety | markdownify }}
+</p>
+{% endif %}
+
+<h2>Reagents</h2>
+<ol>
+{% for reagent in page.reagents %}
+{% for reagent_page in site.pages %}
+{% if reagent_page.id == reagent %}
+  <li><a href="../reagents/{{ reagent_page.id }}.html">{{ reagent_page.reagent_name }} ({{ reagent_page.formula }})</a></li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ol>
+
+<h2>Read More</h2>
+<ul>
+{% for link in page.links %}
+  <li><a href="{{ link.link }}">{{ link.title }}</a></li>
+{% endfor %}
+</ul>
+
+<h2>YouTube Videos</h2>
+{% for video in page.youtube_videos %}
+<iframe width="560" height="315" src="//www.youtube.com/embed/{{ video.link | replace:'https://www.youtube.com/watch?v=','' | replace:'http://www.youtube.com/watch?v=','' }}?showinfo=1&modestbranding=1&controls=1&autohide=1" frameborder="0" allowfullscreen></iframe>
+{% endfor %}
+
+{{ content }}
+
+      </div><!--/row-->
+
+{% include bottom.html %}
