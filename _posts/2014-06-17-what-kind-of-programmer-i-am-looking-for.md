@@ -2,10 +2,9 @@
 layout: blog-post
 title: What kind of programmer I am looking for
 type: blog-post
+author: Vassili Philippov
+post-image: <img src="images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 ---
-
-# {{ page.title }}
-
 About our restricting principles, such as "we never partner up with anyone ", "no bonuses", "we don’t buy anyone and don’t sell ourselves to anyone ", 
 "no bullshit", "no discounts ", "we turn down any state support ", "we don’t hire non-scientific people (even designers and marketing managers)", 
 and many others; a dev-lead position who will have to create an entire set of our programs: a library for 
@@ -23,7 +22,7 @@ interviews I have arranged is simply uncountable. However, it doesn’t make it 
 
 ## About geniuses developers
 
-<img src="/images/blog/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone"></a>
+<img src="/images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 
 I guess, the most amazing and unusual thing about developers is the colossal difference between good programmers and geniuses. 
 Many have heard that good and bad developers are as different as day and night. The magnitude of this difference is not a few 
@@ -36,7 +35,7 @@ Sometimes, we ended up not hiring anyone after 20-30 personal interviews (with c
 Why am I telling you this? Because even in a team as strong as ours, there were geniuses whose productivity was 3-5 times 
 higher than that of anybody else.
 
-<a href="https://flic.kr/p/2B5gvZ"><img src="/images/blog/outsourcing.gif" width="600" height="421" alt="Outsourcing"></a>
+<a href="https://flic.kr/p/2B5gvZ"><img src="/images/outsourcing.gif" width="600" height="421" alt="Outsourcing"></a>
 
 If you are in the consulting/outsourcing business, custom development or internal development for your company, you don’t really 
 need the best developers. I have never seen a client willing to pay for a developer who works 3 times more than the rest of the
@@ -50,7 +49,7 @@ How much better will it be in terms of sales, users, profit? The answer is – n
 Why would a user purchase a product that is worse than the other? Users don’t care how much you’ve invested into development. 
 They are just trying to find a solution that works best for them.
 
-<img src="/images/blog/productsituation.png" width="600" height="400" alt="Product situation"></a>
+<img src="/images/productsituation.png" width="600" height="400" alt="Product situation">
 
 That is why it’s so important for product companies to hire geniuses. This isn’t some kind of breakthrough idea, 
 <a href="http://www.joelonsoftware.com/articles/HighNotes.html">Joel wrote</a> about the main problem of looking for development 

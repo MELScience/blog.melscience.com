@@ -2,10 +2,9 @@
 layout: blog-post
 title: Looking for a greenhouse
 type: blog-post
+author: Vassili Philippov
+post-image: <img src="images/greenhouse.jpg" width="600" height="338" alt="Greenhouse">
 ---
-
-# {{ page.title }}
-
 One of the things than you face in smaller companies is that you have to do everything on your own. 
 Small problems that were magically solved in an instant in a large company – travel arrangements, office supplies, computers, 
 contracts and such – become a major pain in the neck here. I want to find a company that I can “outsource” all of 
@@ -42,7 +41,7 @@ a chemist and a developer, and I want to give that the best greenhouse condition
 can concentrate on our product only. I don’t want them to think about a way to buy the necessary reagent 
 instead of contemplating over calculating and visualizing the mechanism of this reaction.
 
-<a href="https://flic.kr/p/79cfEn"><img src="/images/blog/greenhouse2.jpg" width="600" height="399" alt="Greenhouse"></a>
+<a href="https://flic.kr/p/79cfEn"><img src="/images/greenhouse2.jpg" width="600" height="399" alt="Greenhouse"></a>
 
 So the bottom line is that I need a greenhouse. I will either find it or will have to create it. Here’s what I need from it:
 
@@ -83,7 +82,7 @@ Not 10 different people and companies, but a single company with a single dedica
 (two, actually – I will go over it later). Most of these activities will definitely be outsourced to specialized 
 companies, but it’s important to have one primary contractor responsible for everything.
 
-<a href="https://flic.kr/p/e1bxtk"><img src="/images/blog/greenhouse.jpg" width="600" height="338" alt="A greenhouse"></a>
+<a href="https://flic.kr/p/e1bxtk"><img src="/images/greenhouse.jpg" width="600" height="338" alt="A greenhouse"></a>
 
 It would be awesome to have a proper greenhouse with outstanding conditions. So that when I needed a phone, a chair 
 or a chemical reagent, I would simply fill out a form and see it all in my office the next day. So that we would 

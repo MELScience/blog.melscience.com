@@ -1,10 +1,10 @@
 ---
-layout: all-experiments
+layout: blog-post
 title: Here goes! Looking for a quantum chemist
 type: blog-post
+author: Vassili Philippov
+post-image: <img src="images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 ---
-
-# {{ page.title }}
 
 Finally! The company has been registered, a temporary office rented, now it’s time to start looking for people! 
 First of all, I am looking for a quantum chemist in Saint Petersburg. 
@@ -12,7 +12,7 @@ As a bonus, I am sharing an awesome question about laundry and frost.
 
 Today’s view from the office window is great:
 
-<img src="/images/blog/officewindowview.jpg" width="600" height="381" alt="view from the office window">
+<img src="/images/officewindowview.jpg" width="600" height="381" alt="view from the office window">
 
 ----
 
@@ -98,7 +98,7 @@ Our office also has some interesting things: a microscope, a jack-plane, a 3D pr
 
 ## Bonus task about laundry
 
-<a href="https://www.flickr.com/photos/kingstongal/2277441286/in/photostream/"><img src="/images/blog/winterdry.jpg" width="600" height="376" alt="Laundry that dries up in frost"></a>
+<a href="https://www.flickr.com/photos/kingstongal/2277441286/in/photostream/"><img src="/images/winterdry.jpg" width="600" height="376" alt="Laundry that dries up in frost"></a>
 
 It’s a well-known fact fact that wet laundry dries up at subzero temperatures. The question is why? To make things more interesting, ask yourself: 
 why doesn’t a spoon evaporate? What about the table? But ice does. How? What’s the difference?

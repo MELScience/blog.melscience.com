@@ -2,10 +2,9 @@
 layout: blog-post
 title: What we are going to do + 3D designer
 type: blog-post
+author: Vassili Philippov
+post-image: <img src="images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 ---
-
-# {{ page.title }}
-
 On the importance of proper visuals in science and education; position of a 3D designer well-versed in physics and chemistry; 
 answer to the problem about washed clothes drying up in frosty air; and a new problem about a turning train.
 
@@ -77,6 +76,6 @@ And here is a new task with a video answer at the end. We have already found out
 But how does a train, which does not have one, turn? When a train enters a turn, the inner and the outer 
 wheels need to travel different distances, and if there is slipping, the rail will quickly wear out.
 
-<a href="https://www.flickr.com/photos/katsrcool/12573192603"><img src="/images/blog/trainwheels.jpg" width="600" height="367" alt="Train wheels"></a>
+<a href="https://www.flickr.com/photos/katsrcool/12573192603"><img src="/images/trainwheels.jpg" width="600" height="367" alt="Train wheels"></a>
 
 If you have a solution or have given up, you can <a href="http://www.youtube.com/watch?v=y7h4OtFDnYE">watch an explanation</a> by the one of a kind and funny Richard Feynman. Look at how he enjoys explaining it!
