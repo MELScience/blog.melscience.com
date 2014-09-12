@@ -1,37 +1,35 @@
 ﻿{% include top.html %}
     <title>{{ page.title }} - MEL Science Blog</title>
+<style>
+h2 {margin-top: 50px;}
+</style>
   </head>
 
-  <body style="background-color: rgb(240,240,240)">
-    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">MEL Science ChemGit</a>
-        </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="/">Experiments</a></li>
-            <li><a href="/reagents">Reagents</a></li>
-            <li class="active"><a href="/edit">Edit</a></li>
-          </ul>
-        </div><!-- /.nav-collapse -->
-      </div><!-- /.container -->
-    </div><!-- /.navbar -->
-
+  <body>
+{% include top-navigation.html %}
     <div class="container">
 
-      <div class="row row-offcanvas row-offcanvas-right">
+<ol class="breadcrumb">
+  <li><a href="/">Blog</a></li>
+  <li class="active"><span style="text-overflow: ellipsis; white-space: nowrap; overflow: hidden;">{{ page.title }}</span></li>
+</ol>
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
   <h1>{{ page.title }}</h1>
+  <p class="blog-post-meta">{{ page.date | date: "%Y-%m-%d" }} by {{ page.author }}</p>
   {{ content }}
 
-      </div><!--/row-->
-}
-}
+        </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>In MEL Science we want find ways how to pass knowledge about science in more compact way showing the very essence of the processes happening in nature.</p>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
 
 {% include bottom.html %}
