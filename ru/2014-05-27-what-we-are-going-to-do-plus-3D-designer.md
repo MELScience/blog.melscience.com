@@ -1,83 +1,50 @@
 ---
 layout: blog-post
-title: RU What we are going to do + 3D designer
+title: Что будем делать + 3D-дизайнер
 type: blog-post
 author: Vassili Philippov
-post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
+post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="Как работает дифференциал">
 language: ru
 ---
-RU On the importance of proper visuals in science and education; position of a 3D designer well-versed in physics and chemistry; 
-answer to the problem about washed clothes drying up in frosty air; and a new problem about a turning train.
+О важности правильных образов в науке и образовании; вакансия 3D-дизайнера, со знанием физики и химии; ответ на задачу, почему белье на морозе сохнет; и новая задача, про поворачивающий поезд.
 <!-- more -->
 
-Yesterday, I promised to share my thoughts on information transfer and communication. In fact, this is a very complex matter. 
-Why do some people fail to solve a problem and others “see” the solution right away? It largely depends on the presence of 
-the right images in your head. Our brains are almost incapable of thinking in numbers. 
-Try memorizing this sequence: <code>0982163823897202173500728728882636112734908371345</code>. 
-If your life is going to depend on it, you might eventually memorize it, but you will, like it or not, come up with some kind of structure for it.
+Вчера обещал написать свои мысли, как можно компактнее передавать информацию. Вопрос этот очень непростой. Почему одним людям трудно решить задачу, а другие просто "видят" ее ответ? Во многом это зависит он наличия в голове правильных образов. Наши мозги почти не умеют думать цифрами. Попробуйте запомнить вот эти цифры: <code>0982163823897202173500728728882636112734908371345</code>. Если от этого будет зависеть ваша жизнь, то вы их, возможно, сможете запомнить, но для этого вам волей-неволей придется придумаем какую-нибудь структуру. 
 
-We are not really good at memorizing facts until we embed them into some kind of structure. We perceive ideas through images. 
-A good scientist always has good images in his head. These images can be very non-trivial, by the way. 
-For instance, I have a very clear image of an associate operator from linear algebra. I “see” it. 
-However, it will take me several weeks, if not months, to prepare this image for transfer. 
-But I haven’t had time for that. Similarly, many scientists have their own images collected and systemized over years, but no time to transfer them.
+Мы плохо помним факты, пока не уложим их в какую-то структуру. Мы думаем образами. У хорошего ученого в голове хорошие образы. Притом, эти образы могут быть очень нетривиальными, иногда трудно визуализируемыми. Например, у меня есть четкий образ сопряженного оператора из линейной алгебры. Я его "вижу". Но мне займет несколько недель, если не месяцев, чтобы подготовить этот образ к передаче. У меня руки не доходили это сделать. Аналогично, у многих ученых есть свои, годами накопленные, подобные образы в голове, но нет времени их передать.
 
-Here is an example. Task: explain the work of a car differential. Here it is, an honest, beautiful, but useless visualization:
+Приведу пример. Стоит задача: объяснить, как работает дифференциал в автомобиле. Вот она честная, красивая, но бесполезная визуализация:
 
 <iframe width="640" height="480" src="http://www.youtube.com/embed/lN_xGRt_vVY?rel=0" frameborder="0" allowfullscreen></iframe>
 <br/>
 
-Did you get anything? I didn’t :( My imagination fails to derive anything from this video. 
-And here is an example of a proper visualization, which creates a useful image that our mind has no problems working with:
+Вы чего-нибудь поняли? Я нет :( Моего пространственного воображения не хватает, что бы это почувствовать. А вот пример правильной визуализации, когда в голове создается полезный образ, с которым нашему сознанию удобно работать:
 
 <iframe width="640" height="480" src="http://www.youtube.com/embed/yYAw79386WI?rel=0&start=200" frameborder="0" allowfullscreen></iframe>
 <br/>
 
-And this is basically what I want to do. I want to learn to visualize the right images to make physics and chemistry studies easier. 
-When I conduct chemical experiments with my kids, they like it, but they like it in the way they enjoy magic tricks: 
-something changes color, something explodes, something bubbles. However, the amount of knowledge that you get from these 
-experiments is close to what you get from magic shows. Now imagine that you also see an animated demo on the wall showing the 
-motion and interaction of molecules while watching the reaction in the test tube. 
-A demo that explains why the reaction is going exactly like this. This is a completely different level of understanding! 
-In many cases, it enables you to transfer knowledge in a much more compact form. 
-Knowledge that will not be a set of remembered facts, numbers and formulas, but an understanding of what the world is made of.
+Вот, собственно, то, чем я хочу заниматься. Научиться визуализировать правильные образы, что бы было проще понимать физику и химию. Когда я делаю химические эксперименты со своими детьми им это нравится, но нравится, как фокусы нравятся: что-то меняет цвет, что-то взрывается, булькает. А понимания, из-за чего и как это происходит, как от фокусов примерно. Теперь представьте, что параллельно с реакцией в пробирке на стене возникает картина движения и взаимодействуя молекул в этой пробирке. Такая, чтобы было понятно, почему реакция идет так, а не по-другому. Это совсем другой уровень понимания! Во многих случаях это позволяет во много раз компактнее передать знания. Знания, которые будут не набором запомненных фактов, чисел, формул, а пониманием того, как мир устроен. 
 
-## 3D-designer with a solid knowledge of physics and chemistry
+## 3D-дизайнер, знающий физику и химию (150 т. р.)
 
-An important task for us will be to come up with good images and visualize them the right way. And we do need a genius to 
-visualize how a photon is absorbed by a molecule. Unfortunately, even the best designer cannot do that, since he simply 
-doesn’t know what a photon is. That is why we need a designer with a good understanding of physics and chemistry. 
-It could be an infatuation with science in his childhood that went away when he became a 3D designer. 
-But this techie’s nature just can’t go away and calm down – it itches and makes its way from under the designer’s skin. 
-That’s the kind of person we need! He will face a truly monumental task – come up with new images for the most basic things: 
-atoms, molecules and such. He’ll need to work with scientist and developers, making beautiful and scientifically correct animations.
+Важной задачей для нас будет придумать хорошие визуальные образы и их красиво визуализировать. И только гениальный дизайнер сможет придумать, как лучше визуализировать поглощение фотона молекулой. К сожалению, даже самый гениальный дизайнер не сможет сделать это, если он не знает, что такое фотон. Поэтому нужен 3D-дизайнер с хорошим представлением о физике и химии. Возможно, в детстве он был технарем, а потом судьба сложилась так, что стал 3D-дизайнером. Но эта технарская натура не может успокоиться, постоянно чешется и проступает из-под дизайнерской оболочки. Вот это работа для него! Задача монументальная - придумать новые образы для самых базовых вещей: атомов, молекул, и т.д. Придется много работать с учеными и программистами, делая вместе красивые и правильные анимации.
 
-Conditions:
+Условия:
 
-* 150,000 rub per month
-* No moonlighting, it must be the main and the only job
-* Work at the office, south-western part of the city (temporarily, will be moving out this fall)
-* Vacation - 1 month
-* Health insurance
+* Зарплата 150т.р. (до уплаты налога)
+* Никаких совмещений, это должна быть основная и единственная работа
+* Работа в офисе, на юго-западе города (пока офис временный, будем менять осенью)
+* Отпуск - 1 месяц
+* Зарплата белая, ДМС
 
-<a class="btn btn-primary btn-lg active" href="http://www.it-dominanta.ru/ru/resume_applications/new?vacancy_id=325" role="button">Apply to the 3D designer’s position and submit your resume</a>
+<a class="btn btn-primary btn-lg active" href="http://www.it-dominanta.ru/ru/resume_applications/new?vacancy_id=325" role="button">Послать свое резюме на позицию 3D-дизайнера</a>
 
-## Solution for yesterday’s problem about laundry and a new one for today
+## Ответ на вчерашнюю задачу про белье и новая задача
 
-Why does ice evaporate, and a spoon does not? When I went to school, I was told that everything consisted of molecules. 
-However, this is not entirely correct. Take a salt crystal. It does not consist of NaCl molecules. 
-Atoms of chloride and sodium are placed in an atomic grid and are held together by the same forces that keep atoms together in a molecule. 
-So it’s like one big molecule. The binding force between atoms is very strong. The same force in a metallic grid is also very strong. 
-Ice, however, has a different structure. This is a molecular grid. When frozen, water exists in the form of molecules 
-that are bound by weaker intermolecular forces. That is why a molecule of water needs considerably less energy to leave 
-the crystalline grid. There will always be faster molecules with more energy in the chaotic motion of molecules that will 
-be able to break the weak intermolecular forces and escape. Here is a rough description of how ice evaporates and why 
-denser substances with stronger atomic forces do not.
+Почему же лет испаряется, а ложка нет? Мне в школе рассказывали, что все вещество состоит из молекул. Но это не совсем так. Возьмите крупинку поваренной соли. Она не состоит из молекул NaCl. Атомы хлора и натрия расположены в упорядоченной решетке и связаны между собой силами той же природы, как связаны атомы в молекуле. Это как бы одна большая молекула. Связь между атомами очень прочная. Связь атомов в металлической решетке тоже весьма прочная. А вот лед устроен по-другому. Это молекулярная решетка. Во льду вода существует в виде молекул, которые связаны между собой более слабыми межмолекулярными силами. Поэтому молекуле воды нужно намного меньше энергии, чтобы покинуть кристаллическую решетку льда. В хаотическом тепловом колебании молекул всегда найдутся молекулы, которые быстрее, у которых достаточно энергии, чтобы разорвать слабые межмолекулярные силы и улететь. Вот грубое описание того, почему лед испаряется, а твердые вещества с более сильными атомарными связями нет.
 
-And here is a new task with a video answer at the end. We have already found out how a car differential works. 
-But how does a train, which does not have one, turn? When a train enters a turn, the inner and the outer 
-wheels need to travel different distances, and if there is slipping, the rail will quickly wear out.
+И новая задача, прямо с видео-ответом в конце. Выше рассказывалось, как работает дифференциал. А как поворачивает поезд, у которого на колесах нет дифференциала? Ведь внутреннему и внешнему колесу надо проехать разное расстояние, а если будет проскальзывание, то рельс в этом месте быстро сотрется. 
 
-<a href="https://www.flickr.com/photos/katsrcool/12573192603"><img src="/images/trainwheels.jpg" width="600" height="367" alt="Train wheels"></a>
+<a href="https://www.flickr.com/photos/katsrcool/12573192603"><img src="/images/trainwheels.jpg" width="600" height="367" alt="Колеса поезда"></a>
 
-If you have a solution or have given up, you can <a href="http://www.youtube.com/watch?v=y7h4OtFDnYE">watch an explanation</a> by the one of a kind and funny Richard Feynman. Look at how he enjoys explaining it!
+Если вы придумали ответ, или сдались, то можете <a href="http://www.youtube.com/watch?v=y7h4OtFDnYE">посмотреть объяснение в исполнении Фейнмана</a>, как всегда неподражаемого и обаятельного. Посмотрите, как ему нравится это объяснять!
