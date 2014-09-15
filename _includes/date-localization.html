@@ -1,0 +1,43 @@
+﻿{% assign post_year = post_date_array[0] %}
+{% assign post_month = post_date_array[1] %}
+{% assign post_date = post_date_array[2] %}
+
+{% assign post_month_name = post_month %}
+{% if page.language == "ru" %}
+  {% if post_month == "01" %}{% assign post_month_name = "января" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "февраля" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "марта" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "апреля" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "мая" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "июня" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "июля" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "августа" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "сентября" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "октября" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "ноября" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "декабря" %}{% endif %}
+{% endif %}
+{% if page.language == "en" %}
+  {% if post_month == "01" %}{% assign post_month_name = "January" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "February" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "March" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "April" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "May" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "June" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "July" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "August" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "September" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "October" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "November" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "December" %}{% endif %}
+{% endif %}
+
+
+{% case page.language %}
+{% when "ru" %}
+  {{ post_date }} {{ post_month_name }} {{ post_year}}г.
+{% when "en" %}
+  {{ post_month_name }} {{ post_date }}, {{ post_year}}
+{% else %}
+  {{ post_date }}/{{ post_month }}/{{ post_year}}
+{% endcase %}

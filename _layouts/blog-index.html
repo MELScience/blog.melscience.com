@@ -18,7 +18,10 @@
 
 <div class="blog-post">
 <h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<p class="blog-post-meta">{{ post.date | date: "%Y-%m-%d" }} by {{ post.author }}</p>
+<p class="blog-post-meta">
+{% assign post_date_array = post.url | split: "/" | last | split: "-" %}
+{% include date-localization.html %}
+by {{ post.author }}</p>
 <p>
 {{ post.post-image }}
 </p>

@@ -23,7 +23,11 @@ h2 {margin-top: 50px;}
         <div class="col-sm-8 blog-main">
 
   <h1>{{ page.title }}</h1>
-  <p class="blog-post-meta">{{ page.date | date: "%Y-%m-%d" }} by {{ page.author }}</p>
+  <p class="blog-post-meta">
+    {% assign post_date_array = page.url | split: "/" | last | split: "-" %}
+    {% include date-localization.html %}
+    by {{ page.author }}
+  </p>
   {{ content }}
 
         </div><!-- /.blog-main -->
