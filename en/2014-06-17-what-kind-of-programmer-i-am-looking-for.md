@@ -5,6 +5,7 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 language: en
+post-id: 2014-06-17
 ---
 About our restricting principles, such as "we never partner up with anyone ", "no bonuses", "we don’t buy anyone and don’t sell ourselves to anyone ", 
 "no bullshit", "no discounts ", "we turn down any state support ", "we don’t hire non-scientific people (even designers and marketing managers)", 
@@ -13,6 +14,8 @@ emulating chemical reactions, a 3D visualizer of molecular reaction dynamics (mo
 a website with tasks and social mechanics, the entire software package for the tablet to be included with the set; this developer 
 will not be working on all of this alone, but he will be the first one to lay the foundation for all these programs.
 <!-- more -->
+
+---
 
 I have already written about the people I need for visualizing scientific knowledge: 
 a quantum chemist and 
@@ -51,7 +54,7 @@ How much better will it be in terms of sales, users, profit? The answer is – n
 Why would a user purchase a product that is worse than the other? Users don’t care how much you’ve invested into development. 
 They are just trying to find a solution that works best for them.
 
-<img src="/images/productsituation.png" width="600" height="400" alt="Product situation">
+<img src="/images/productsituation_en.png" width="600" height="400" alt="Product situation">
 
 That is why it’s so important for product companies to hire geniuses. This isn’t some kind of breakthrough idea, 
 <a href="http://www.joelonsoftware.com/articles/HighNotes.html">Joel wrote</a> about the main problem of looking for development 

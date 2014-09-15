@@ -5,12 +5,15 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Greenhouse">
 language: en
+post-id: 2014-06-06
 ---
 One of the things than you face in smaller companies is that you have to do everything on your own. 
 Small problems that were magically solved in an instant in a large company – travel arrangements, office supplies, computers, 
 contracts and such – become a major pain in the neck here. I want to find a company that I can “outsource” all of 
 my secondary activities to. And if there is none out there, I’ll create it.
 <!-- more -->
+
+---
 
 Most of my work at SPB Software focused on creating perfect conditions for others. Developers had to write code 
 and not think about anything else. If they needed phones for testing, the phones were there the next day. 

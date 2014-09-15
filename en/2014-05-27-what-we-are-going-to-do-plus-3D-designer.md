@@ -5,10 +5,13 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: en
+post-id: 2014-05-27
 ---
-RU On the importance of proper visuals in science and education; position of a 3D designer well-versed in physics and chemistry; 
+On the importance of proper visuals in science and education; position of a 3D designer well-versed in physics and chemistry; 
 answer to the problem about washed clothes drying up in frosty air; and a new problem about a turning train.
 <!-- more -->
+
+---
 
 Yesterday, I promised to share my thoughts on information transfer and communication. In fact, this is a very complex matter. 
 Why do some people fail to solve a problem and others “see” the solution right away? It largely depends on the presence of 

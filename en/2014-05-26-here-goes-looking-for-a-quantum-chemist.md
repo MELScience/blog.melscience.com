@@ -5,17 +5,18 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: en
+post-id: 2014-05-26
 ---
 Finally! The company has been registered, a temporary office rented, now it’s time to start looking for people! 
 First of all, I am looking for a quantum chemist in Saint Petersburg. 
 As a bonus, I am sharing an awesome question about laundry and frost.
 <!-- more -->
 
+----
+
 Today’s view from the office window is great:
 
 <img src="/images/officewindowview.jpg" width="600" height="381" alt="view from the office window">
-
-----
 
 When I was a child, I thought I would become a scientist when I grew up. However, my discontent about politics in 
 science and the unique, dizzying feeling of creating something new (in science, you discover something that’s been 
@@ -52,8 +53,8 @@ This one video explained more to me than a half a year in my biology class. Tomo
 Well, I am looking for three people now:
 
 * Quantum chemist with solid development skills
-* <a href="20140527.html">3D designer</a>
-* <a href="20140617.html">A dev lead with knowledge of physics and chemistry</a>
+* 3D designer
+* A dev lead with knowledge of physics and chemistry
 
 Today, I will describe the type of chemist I am looking for. Tomorrow’s post will be about a 3D designer, and the next one – about a dev lead.
 

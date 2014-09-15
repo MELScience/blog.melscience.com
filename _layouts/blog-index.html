@@ -1,5 +1,9 @@
 ﻿{% include top.html %}
     <title>MEL Science Blog</title>
+{% assign index_pages = (site.pages | where: "type" , "blog-index") %}
+{% for index_page in index_pages %}
+  <link rel="alternate" hreflang="{{index_page.language}}" href="{{index_page.url}}" />
+{% endfor %}
   </head>
 
   <body>
