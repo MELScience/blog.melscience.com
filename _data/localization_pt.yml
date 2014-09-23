@@ -1,18 +1,18 @@
 ---
 blog: Blog
-chemistry: Chemistry
-about: About
+chemistry: Química
+about: Sobre
 about-text: In MEL Science we want find ways how to pass knowledge about science in more compact way showing the very essence of the processes happening in nature.
-other-languages: Other languages
+other-languages: Outros idiomas
 language-name:
-  en: English
-  de: German
+  en: Inglês
+  de: Alemão
   ru: Russian
-  it: Italian
-  jp: Japanese
-  es: Spanish
-  pt: Portuguese
-  fr: French
+  it: Italiano
+  jp: Japonês
+  es: Espanhol
+  pt: Português
+  fr: Francês
   cn: Chinese
-  tr: Turkish
+  tr: Turco
 ---
