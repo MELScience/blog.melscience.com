@@ -1,18 +1,18 @@
 ---
 blog: ブログ
 chemistry: 化学
-about: 約
-about-text: In MEL Science we want find ways how to pass knowledge about science in more compact way showing the very essence of the processes happening in nature.
+about: ブログについて
+about-text: MEL Scienceでは我々は科学に関する知識を、自然界で発生するプロセスの正にその本質を示しながら、よりコンパクトな方法でそれを伝える方法を追求したいと考えています。
 other-languages: その他の言語
 language-name:
   en: 英語
   de: ドイツ語
   ru: ロシア語
   it: イタリア語
-  jp: 日本の
+  jp: 日本語
   es: スペイン語
-  pt: ポルトガル語の
+  pt: ポルトガル語
   fr: フランス語
-  cn: 中国の
+  cn: 中国語
   tr: トルコ語
 ---
