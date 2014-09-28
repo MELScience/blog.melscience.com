@@ -20,8 +20,8 @@
 <h2 class="blog-post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <p class="blog-post-meta">
 {% assign post_date_array = post.url | split: "/" | last | split: "-" %}
-{% include date-localization.html %}
-by {{ post.author }}</p>
+{% include date-localization.html %},
+{{ post.author }}</p>
 <p>
 {{ post.post-image }}
 </p>
@@ -52,6 +52,8 @@ by {{ post.author }}</p>
 {% endfor %}          
             </ul>
           </div>
+{% include follow-us.html %}
+
         </div><!-- /.blog-sidebar -->
 
       </div><!-- /.row -->

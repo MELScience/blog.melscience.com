@@ -2,6 +2,7 @@
 {% assign post_month = post_date_array[1] %}
 {% assign post_date = post_date_array[2] %}
 
+<!-- Date localization is based on http://meta.wikimedia.org/wiki/Date_formats_in_various_languages -->
 {% assign post_month_name = post_month %}
 {% if page.language == "ru" %}
   {% if post_month == "01" %}{% assign post_month_name = "января" %}{% endif %}
@@ -31,6 +32,90 @@
   {% if post_month == "11" %}{% assign post_month_name = "November" %}{% endif %}
   {% if post_month == "12" %}{% assign post_month_name = "December" %}{% endif %}
 {% endif %}
+{% if page.language == "de" %}
+  {% if post_month == "01" %}{% assign post_month_name = "Januar" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "Februar" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "März" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "April" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "Mai" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "Juni" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "Juli" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "August" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "September" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "Oktober" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "November" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "Dezember" %}{% endif %}
+{% endif %}
+{% if page.language == "fr" %}
+  {% if post_month == "01" %}{% assign post_month_name = "janvier" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "février" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "mars" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "avril" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "mai" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "juin" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "juillet" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "août" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "septembre" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "octobre" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "novembre" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "décembre" %}{% endif %}
+{% endif %}
+{% if page.language == "tr" %}
+  {% if post_month == "01" %}{% assign post_month_name = "Ocak" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "Şubat" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "Mart" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "Nisan" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "Mayıs" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "Haziran" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "Temmuz" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "Ağustos" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "Eylül" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "Ekim" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "Kasım" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "Aralık" %}{% endif %}
+{% endif %}
+{% if page.language == "it" %}
+  {% if post_month == "01" %}{% assign post_month_name = "gennaio" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "febbraio" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "marzo" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "aprile" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "maggio" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "giugno" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "luglio" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "agosto" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "settembre" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "ottobre" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "novembre" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "dicembre" %}{% endif %}
+{% endif %}
+{% if page.language == "es" %}
+  {% if post_month == "01" %}{% assign post_month_name = "enero" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "febrero" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "marzo" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "abril" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "mayo" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "junio" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "julio" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "agosto" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "septiembre" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "octubre" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "noviembre" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "diciembre" %}{% endif %}
+{% endif %}
+{% if page.language == "pt" %}
+  {% if post_month == "01" %}{% assign post_month_name = "Janeiro" %}{% endif %}
+  {% if post_month == "02" %}{% assign post_month_name = "Fevereiro" %}{% endif %}
+  {% if post_month == "03" %}{% assign post_month_name = "Março" %}{% endif %}
+  {% if post_month == "04" %}{% assign post_month_name = "Abril" %}{% endif %}
+  {% if post_month == "05" %}{% assign post_month_name = "Maio" %}{% endif %}
+  {% if post_month == "06" %}{% assign post_month_name = "Junho" %}{% endif %}
+  {% if post_month == "07" %}{% assign post_month_name = "Julho" %}{% endif %}
+  {% if post_month == "08" %}{% assign post_month_name = "Agosto" %}{% endif %}
+  {% if post_month == "09" %}{% assign post_month_name = "Setembro" %}{% endif %}
+  {% if post_month == "10" %}{% assign post_month_name = "Outubro" %}{% endif %}
+  {% if post_month == "11" %}{% assign post_month_name = "Novembro" %}{% endif %}
+  {% if post_month == "12" %}{% assign post_month_name = "Dezembro" %}{% endif %}
+{% endif %}
 
 
 {% case page.language %}
@@ -38,6 +123,22 @@
   {{ post_date }} {{ post_month_name }} {{ post_year}}г.
 {% when "en" %}
   {{ post_month_name }} {{ post_date }}, {{ post_year}}
+{% when "de" %}
+  {{ post_date }}. {{ post_month_name }} {{ post_year}}
+{% when "fr" %}
+  {{ post_date }} {{ post_month_name }} {{ post_year}}
+{% when "jp" %}
+  {{ post_year}}年{{ post_month_name }}月{{ post_date }}日
+{% when "tr" %}
+  {{ post_date }} {{ post_month_name }} {{ post_year}}
+{% when "cn" %}
+  {{ post_year}}年{{ post_month_name }}月{{ post_date }}日
+{% when "it" %}
+  {{ post_date }} {{ post_month_name }} {{ post_year}}
+{% when "es" %}
+  {{ post_date }} de {{ post_month_name }} de {{ post_year}}
+{% when "pt" %}
+  {{ post_date }} de {{ post_month_name }} de {{ post_year}}
 {% else %}
   {{ post_date }}/{{ post_month }}/{{ post_year}}
 {% endcase %}
