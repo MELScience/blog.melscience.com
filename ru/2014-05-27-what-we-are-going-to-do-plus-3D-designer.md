@@ -2,7 +2,7 @@
 layout: blog-post
 title: Что будем делать + 3D-дизайнер
 type: blog-post
-author: Vassili Philippov
+author: Василий Филиппов
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="Как работает дифференциал">
 language: ru
 post-id: 2014-05-27

@@ -2,13 +2,17 @@
             <h4>{{ loc.stay-in-touch }}</h4>
             <p>{{ loc.email-purpose-promise }}</p>
 <!-- Begin MailChimp Signup Form -->
+{% assign mailchimp_form_url = "//melscience.us9.list-manage.com/subscribe/post?u=3ca4501078be89ba1aed9904c&amp;id=7575b811ab"%}
+{% if page.language == "cn" %}
+  {% assign mailchimp_form_url = "//melscience.us9.list-manage.com/subscribe/post?u=3ca4501078be89ba1aed9904c&amp;id=8d2fa86455"%}
+{% endif %}
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
   /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="//melscience.us9.list-manage.com/subscribe/post?u=3ca4501078be89ba1aed9904c&amp;id=7575b811ab" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="{{ mailchimp_form_url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 <div class="mc-field-group">
   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">

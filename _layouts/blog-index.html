@@ -2,7 +2,7 @@
     <title>MEL Science Blog</title>
 {% assign index_pages = (site.pages | where: "type" , "blog-index") %}
 {% for index_page in index_pages %}
-  <link rel="alternate" hreflang="{{index_page.language}}" href="{{index_page.url}}" />
+  <link rel="alternate" hreflang="{{index_page.language}}" href="/{{ index_page.language }}/" />
 {% endfor %}
   </head>
 
@@ -48,7 +48,7 @@
 {% assign post_localization_filename = "localization_" | append:post.language %}
 {% assign post_loc = site.data[post_localization_filename] %}
 {% assign en_loc = site.data["localization_en"] %}
-<li><a href="{{ post.url }}">{{ en_loc.language-name[post.language] }} ({{ post_loc.language-name[post.language] }})</a></li>
+<li><a href="/{{ post.language }}/">{{ en_loc.language-name[post.language] }} ({{ post_loc.language-name[post.language] }})</a></li>
 {% endfor %}          
             </ul>
           </div>

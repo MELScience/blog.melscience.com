@@ -2,7 +2,7 @@
 layout: blog-post
 title: Поехали! Ищу квантового химика
 type: blog-post
-author: Vassili Philippov
+author: Василий Филиппов
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: ru
 post-id: 2014-05-26

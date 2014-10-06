@@ -2,7 +2,7 @@
 layout: blog-post
 title: Какого программиста я ищу
 type: blog-post
-author: Vassili Philippov
+author: Василий Филиппов
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Quake более чем на половину был написан одним Джоном Кармаком">
 language: ru
 post-id: 2014-06-17
