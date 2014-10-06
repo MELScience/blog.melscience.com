@@ -41,7 +41,7 @@ Fakat inorganik kimya hakkında neredeyse hiç video yok. Bir video güzel bir d
 
 100,000,000x büyütme kapasitesine sahip bir mikroskobumuzun olduğunu düşünelim. Çünkü atomları tek tek görebilmemiz için böyle bir mikroskobumuzun olması gerekiyor. Şimdi bu mikroskobumuzla olaylara daha yakından göz atalım: 
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/B_zD3NxSsD8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cz87YmRYwhU?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 Bu, bir hafta sonunda çocuklarımla birlikte yaptığımız ilk deneydi ve onlara kimyasal reaksiyonların gerçekte nasıl olduğunu göstermeye çalıştım. Bu tür deneyler, kimyayı herhangi bir formülden daha iyi anlamanıza yardım eder. Sanal mikroskobumuzla gerçekleştirdiğimiz yeni deneylerle ilgili daha fazla şey öğrenmek için <a href="">Güncellemelerimize abone olun</a> ve <a href="https://twitter.com/MelScienceTR">Twitter'dan bizi takip edin</a>.

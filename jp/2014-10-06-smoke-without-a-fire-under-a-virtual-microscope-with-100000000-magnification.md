@@ -42,7 +42,7 @@ post-id: 2014-10-06
 
 さてそこで、1億倍の拡大が可能な顕微鏡があるとしよう。つまり一つ一つの原子を観察するために必要な倍率ということだ。さて、その顕微鏡で精査してみることにしよう。
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/B_zD3NxSsD8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cz87YmRYwhU?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 私は初めて、週末に自分の子供に実験を教え、内部で何が起こっているのか示してみた。こうすることは他のやり方よりも化学を理解される方法としてに適している。<a href="">更新を購読</a>して<a href="https://twitter.com/MelScienceJP">twitterをフォロー</a>し、バーチャル顕微鏡による新しい化学実験を学ぼう。

@@ -41,7 +41,7 @@ Contudo, quase não existem vídeos sobre química inorgânica: quer dizer, refi
 
 Vamos, portanto, imaginar que temos um microscópio que permite um aumento de 100.000.000 x. É este o aumento que precisamos para ver átomos. Usamos assim este microscópiio e vamos ver mais de perto:
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/B_zD3NxSsD8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cz87YmRYwhU?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 Esta foi a primeira vez que conduzi uma experiência com os meus filhas num fim de semana e consegui mostrar-lhes o que de facto estava a acontecer no interior da reacção. Isto ajuda a perceber melhora química, melhor do que recorrendo a quaisquer fórmulas.<a href="">Subscreva as nossas actualizações</a> e <a href="https://twitter.com/MelSciencePT">siga-nos no Twitter</a> para aprender sobre as novas experiências de química ao nosso microscópio virtual.

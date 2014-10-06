@@ -41,7 +41,7 @@ Pero en la química inorgánica apenas hay vídeos de este tipo. Me refiero no s
 
 Así que imaginemos que tenemos un microscopio que permite la ampliación de 100 000 000x. Es el aumento que necesitamos ver los átomos por separado. Así que tomemos el microscopio y echemos un vistazo más de cerca:
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/B_zD3NxSsD8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cz87YmRYwhU?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 Esta fue la primera vez que estuve llevando a cabo experimentos con mis hijos durante un fin de semana y conseguí mostrarles lo que realmente estaba pasando en el interior. Esto ayuda a entender la química mejor que cualquier fórmula. <a href="">Suscríbete a nuestras actualizaciones</a> y <a href="https://twitter.com/MelScienceES">síguenos en Twitter</a> para aprender sobre los nuevos experimentos químicos con nuestro microscopio virtual.

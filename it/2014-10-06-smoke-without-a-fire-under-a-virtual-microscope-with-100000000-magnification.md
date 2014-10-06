@@ -41,7 +41,7 @@ Tuttavia sono pochissimi i video dedicati alla  chimica inorganica. Intendo dire
 
 Per cui, immaginiamoci di disporre di un microscopio che consente un ingrandimento pari a 100,000,000x. Si tratta dell'ingrandimento che ci serve per vedere gli atomi separati. Per cui prendiamo questo microscopio e diamo un'occhiata da vicino:
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/B_zD3NxSsD8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cz87YmRYwhU?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 E' stata la prima volta che ho deciso di condurre un esperimento con i miei figli durante il fine settimana e che sono riuscito a mostrare cosa stesse effettivamente accadendo all'interno. Ciò aiuta a comprendere la chimica meglio di qualsiasi altra formula. <a href="">Iscrivetevi ai nostri aggiornamenti</a> e <a href="https://twitter.com/MelScienceIT">seguiteci su Twitter</a> per apprendere nuovi esperimenti chimici sotto il nostro microscopio virtuale.

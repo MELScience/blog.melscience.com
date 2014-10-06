@@ -43,7 +43,7 @@ Mais il n'existe à peu près aucune vidéo sur la chimie inorganique. Je ne veu
 
 Alors imaginons que nous avons un microscope permettant un grossissement de x 100000000. C'est le genre de grossissement dont nous avons besoin pour voir les atomes séparés. Alors prenons ce microscope et regardons de plus près:
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/B_zD3NxSsD8?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/cz87YmRYwhU?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 C'était la première fois que je menais des expériences avec mes enfants pendant un week-end et que je réussissais à leur montrer ce qu'il se passait réellement à l'intérieur. Cela aide à mieux comprendre la chimie plutôt qu'avec des formules. <a href="">Abonnez-vous à nos mises à jour</a> et <a href="https://twitter.com/MelScienceFR">suivez-nous sur Twitter</a> pour en apprendre plus sur les nouvelles expériences chimiques sous notre microscope virtuel.
