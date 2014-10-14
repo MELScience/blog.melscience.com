@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Разбор наших ошибок в предыдушем видео + задача о переваривании пищи
+title: Разбор ошибок в нашем предыдущем видео + задача о переваривании пищи
 type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hydrogen nuclear transfer in crystal">
