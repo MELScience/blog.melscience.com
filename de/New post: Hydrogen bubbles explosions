@@ -1,0 +1,23 @@
++--- 
+ 2 +layout: blog-post 
+ 3 +title: Explosion der Wasserstoffbläschen
+ 4 +type: blog-post  
+ 5 +author: Vassili Philippov 
+ 6 +post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Explosion der Wasserstoffbläschen"> 
+ 7 +language: en 
+ 8 +post-id: 2014-11-18 
+ 9 +--- 
+ 10 +Wir arbeiten an einem Video, das die Wasserstoffverbrennung erklärt. Das Video beginnt mit der Explosion eines Wasserstoffbläschens und zeigt dann die tiefere Molekularstruktur, in der Sie einzelne Moleküle und Atome erkennen können und verstehen, wie sich der Verbrennungsprozess abspielt. Beim Erstellen des Videos haben wir viele Explosionen der Wasserstoffbläschen mit einer Hochgeschwindigkeitskamera aufgenommen. Hier ist eine Auswahl der schönsten Explosionen. Viel Spaß! Keine Wissenschaft, einfach die Schönheit des Feuers :)  
+ 11 +<!-- more --> 
+ 12 + 
+ 13 +--- 
+ 14 + 
+ 15 +<iframe width="640" height="360" src="http://www.youtube.com/embed/RuXXLjpc67c?rel=0" frameborder="0" allowfullscreen></iframe> 
+ 16 +<br/> 
+ 17 + 
+ 18 +<a href="https://twitter.com/mel_science">Abonnieren Sie unseren Twitter</a> und verpassen Sie das nächste Video nicht, das die Wasserstoffverbrennung erklärt!
+ 19 + 
+ 20 +<!-- Begin Twitter follow --> 
+ 21 +<a href="https://twitter.com/MelScienceDE" class="twitter-follow-button" data-show-count="false" data-lang="de" data-size="large">@MelScienceDE folgen</a> 
+ 22 +<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script> 
+ 23 +<!-- End Twitter follow --> 
