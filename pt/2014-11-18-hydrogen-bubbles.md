@@ -15,7 +15,7 @@ Estamos trabalhando em um vídeo que explica o processo de queima de hidrogênio
 <iframe width="640" height="360" src="http://www.youtube.com/embed/RuXXLjpc67c?rel=0" frameborder="0" allowfullscreen></iframe>
 <br/>
 
-<a href="https://twitter.com/MelSciencePT">Registre-se no nosso Twitter</a> não perca nosso próximo vídeo que explica o processo de queima de hidrogênio!<a href="https://twitter.com/MelScienceIT">Seguiteci su Twitter</a> per non perdere il nostro prossimo video che illustra il processo con il quale brucia l'idrogeno!
+<a href="https://twitter.com/MelSciencePT">Registre-se no nosso Twitter</a> não perca nosso próximo vídeo que explica o processo de queima de hidrogênio!
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/MelSciencePT" class="twitter-follow-button" data-show-count="false" data-lang="pt" data-size="large">Seguir @MelSciencePT</a>
