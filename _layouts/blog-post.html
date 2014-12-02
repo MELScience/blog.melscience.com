@@ -1,4 +1,5 @@
 ﻿{% include top.html %}
+    <meta property="og:image" content="/images/roentgenium.png" />
     <title>{{ page.title }} - MEL Science Blog</title>
 {% assign posts = (site.pages | where: "post-id" , page.post-id | where: "type" , "blog-post") %}
 {% for post in posts %}
