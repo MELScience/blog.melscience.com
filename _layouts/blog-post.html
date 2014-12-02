@@ -1,6 +1,11 @@
 ﻿{% include top.html %}
     <title>{{ page.title }} - MEL Science Blog</title>
+
+{% if page.og-image %}
     <meta property="og:image" content="{{ page.og-image }}" />
+{% endif %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
 {% assign posts = (site.pages | where: "post-id" , page.post-id | where: "type" , "blog-post") %}
 {% for post in posts %}
   <link rel="alternate" hreflang="{{post.language}}" href="{{post.url}}" />
