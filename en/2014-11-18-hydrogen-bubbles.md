@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Hydrogen bubbles explosions">
 language: en
 post-id: 2014-11-18
+publish-status: published
 ---
 We are workin on a video that explains hydrogen burning process. The video will start with a hydrogen bubble explosion and then go deeper to the molecular level where you can see separate molecules and atoms and understand how the burning process happen. While we prepared the video we shoot a lot of hydrogen bubble explosions using a high speed camera. Here is a compilation of the best explosions. Enjoy! No science, just heavenly beauty of fire :) 
 <!-- more -->

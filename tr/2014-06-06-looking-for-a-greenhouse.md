@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Greenhouse">
 language: tr
 post-id: 2014-06-06
+publish-status: published
 ---
 Küçük şirketlerde karşılaşacağınız sorunlardan birisi de, her şeyi kendiniz yapmak zorunda olmanızdır. Büyük şirketlerde küçük sorunlar sanki sihirli bir el dokunuyormuşçasına hızlı bir şekilde çözülür – yani seyahat düzenlemeleri, ofis malzemeleri, bilgisayarlar, sözleşmeler ve buna benzer şeyler. Burada ise çalışmaktan sırtım ağrıyor. Bu nedenle de benim ikincil işlerimi yürütecek "taşeron" bir firmaya ihtiyacım var. Ve eğer bu firmayı bulamazsam, onu kendim oluşturacağım.
 <!-- more -->

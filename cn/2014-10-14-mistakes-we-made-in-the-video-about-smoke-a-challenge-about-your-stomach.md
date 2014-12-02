@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hydrogen nuclear transfer in crystal">
 language: cn
 post-id: 2014-10-14
+publish-status: published
 ---
 上周我们发布了第一个视频。可能你还记得最后我们要求你们找到视频中的错误。今天我们将探讨视频中所犯的错误。一些错误是为了艺术效果。有些化学家指出的一些错误并不是真正的错误-视频中的一些细节很违反常规，很多人不相信这个过程完全像我们描述的那样发生的。我还将展示科学家如何发现分子结构的。
 <!-- more -->

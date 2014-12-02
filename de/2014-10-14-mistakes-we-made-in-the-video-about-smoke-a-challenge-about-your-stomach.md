@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Wasserstoffkerntransfer im Kristall">
 language: de
 post-id: 2014-10-14
+publish-status: published
 ---
 In der vergangenen Woche veröffentlichten wir unser erstes Video. Sicher erinnern Sie sich, dass wir Sie gebeten hatten, die Fehler im Video zu finden. Heute sehen wir uns die Fehler, die wir gemacht haben, genauer an. Uns sind einige künstlerische Fehler unterlaufen. Fehler, die uns andere Chemiker nannten, sind in Wirklichkeit keine Fehler. Es ist einfach so, dass viele Details der Intuition widersprechen. Es fällt schwer, zu glauben, dass sich der Vorgang exakt so abspielt, wie wir ihn beschrieben haben. Ich werde auch zeigen, wie die Wissenschaftler molekulare Strukturen finden.
 

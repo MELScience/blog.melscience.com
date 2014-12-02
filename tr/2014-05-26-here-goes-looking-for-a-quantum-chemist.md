@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: tr
 post-id: 2014-05-26
+publish-status: published
 ---
 Nihayet şirketimizi tescil ettirdik, geçici ofisimizi kiraladık ve artık sıra geldi birlikte çalışacağımız takım arkadaşlarımızı bulmaya!
 Öncelikle Saint Petersburg’da bir kuantum kimyageri aradığımdan bahsedeceğim.

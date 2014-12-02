@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Estufa">
 language: pt
 post-id: 2014-06-06
+publish-status: published
 ---
 Um dos desafios numa empresa pequena é que temos de fazer tudo sozinhos.  Pequenos problemas resolvidos como que por magia, num instante, numa grande empresa - agilização de viagens,  consumíveis de escritório, computadores, contratos e outros - tornam-se numa enorme dor de cabeça. Quero encontrar uma empresa com a qual possa fazer o  “outsource” de todas as minhas actividades secundárias. E caso não exista, criá-la-ei.
 <!-- more -->

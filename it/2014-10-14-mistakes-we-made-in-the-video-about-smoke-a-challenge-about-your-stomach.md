@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Trasferimento nucleare dell'idrogeno in cristallo">
 language: it
 post-id: 2014-10-14
+publish-status: published
 ---
 La settimana scorsa abbiamo pubblicato il nostro primo video. Come ricorderete, alla fine vi abbiamo chiesto di trovare gli errori in questo video. Oggi, esamineremo gli errori che abbiamo fatto. Alcuni errori erano intenzionali e sono stati fatti per motivi artistici. Alcune sezioni che ci hanno fatto notare gli altri chimici non contenevano affatto errori; molti dettagli di questo esperimento erano così contro-intuitivi che molti dubitavano che la reazione verificatasi corrispondesse esattamente al processo da noi descritto. Illustrerò anche il procedimento usato dagli scienziati per trovare le strutture delle molecole.
 <!-- more -->

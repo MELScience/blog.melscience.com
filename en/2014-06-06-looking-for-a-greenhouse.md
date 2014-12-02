@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Greenhouse">
 language: en
 post-id: 2014-06-06
+publish-status: published
 ---
 One of the things than you face in smaller companies is that you have to do everything on your own. 
 Small problems that were magically solved in an instant in a large company – travel arrangements, office supplies, computers, 

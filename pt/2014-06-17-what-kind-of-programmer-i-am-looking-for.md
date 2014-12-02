@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Mais de metade de Quake foi escrito por John Carmack sozinho">
 language: pt
 post-id: 2014-06-17
+publish-status: published
 ---
 Sobre os nossos princípios restritos, tais como "nunca fazer parcerias com ninguém", "sem bónus","não compramos ninguém nem nos vendemos a ninguém","sem tretas","sem descontos","não aceitamos apoios estatais","não contratamos pessoal não científico (nem mesmo designers ou gestores de marketing)", e muitos outros; uma posição de programador principal que terá de criar um conjunto completo dos nossos programas: uma biblioteca para emulação de reacções químicas, um visualizados 3D de dinâmicas de reacções moleculares (muito provavelmente, usando o Unity 3D), um laboratório virtual de química, um website com tarefas e mecânicas sociais, o pacote de software completo para o tablet a ser incluído no pacote; este programador não irá trabalhar em tudo sozinho, mas será o primeiro a construir as fundações de todos estes programas.
 <!-- more -->

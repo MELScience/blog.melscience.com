@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Plus de la moitié de Quake a été écrit par John Carmack seul">
 language: fr
 post-id: 2014-06-17
+publish-status: published
 ---
 À propos de nos principes de restriction, tels que "nous ne nous associons jamais avec quiconque", "pas de bonus", "nous n'achetons personne et ne nous vendons à personne",  
 "pas de bla-bla", "pas de réductions", "nous refusons les aides publiques", "nous ne recrutons pas de personnes non-scientifiques (même des designers et des marketing managers)", 

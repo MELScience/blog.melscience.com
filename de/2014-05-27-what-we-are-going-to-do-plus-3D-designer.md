@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: de
 post-id: 2014-05-27
+publish-status: published
 ---
 Über die Bedeutung guter Visuals in der Wissenschaft und in der Bildung; Stelle eines 3D-Designers, der in Physik und Chemie versiert ist; 
 Antwort auf die Frage nach der Wäsche, die in frostiger Luft trocknet; und eine neue Frage zum Abbiegen eines Zuges.

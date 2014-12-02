@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Transferencia de núcleo de hidrógeno en un cristal">
 language: es
 post-id: 2014-10-14
+publish-status: published
 ---
 La semana pasada lanzamos nuestro primer vídeo. Como te recordarás, al final te pedimos que encontraras los errores en ese vídeo. Hoy veremos los errores que cometimos. Algunos de ellos los cometimos a propósito por razones artísticas. Hay algunos momentos que nos señalaron otros químicos como erróneos, pero que en realidad no lo eran: varios detalles aquí chocaban tanto con la intuición que muchas personas no creían que el proceso ocurría precisamente tal y como lo describíamos. También voy a mostrar cómo los científicos determinan las estructuras moleculares.
 <!-- more -->

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 language: tr
 post-id: 2014-06-17
+publish-status: published
 ---
 Bugünkü yazım da kısıtlayıcı ilkelerimizden bahsetmek istiyorum; "asla hiç kimseyle ortaklık kurmayacağız", "prim ödemesi yapmayacağız", "hiçbir şirketi satın almayacak ve şirketimizi de asla satmayacağız", "boş işler yapmayacağız", "tüm devlet desteklerini geri çevireceğiz", "bilimle ilgisi olmayan kişileri işe almayacağız (tasarımcılar ve pazarlama müdürleri de dâhil)"; yazılım geliştirme pozisyonuna alınacak kişinin programlarımızın tüm setlerini oluşturması gerekiyor: kimyasal reaksiyonları taklit edecek bir kütüphane, molekül reaksiyon hareketlerini 3 boyutlu olarak gösteren bir görselleştirici (muhtemelen Unity3D ile oluşturulacak), sanal bir kimya laboratuvarı, görevler ve sosyal mekanizmalarla ilgili bir web sitesi, tabletler için setlerle desteklenecek komple yazılım paketleri; elbette bu geliştirme uzmanı tüm bu işleri tek başına gerçekleştirmeyecek fakat tüm bu programların oluşturulmasına zemin hazırlayacak ilk kişi olacaktır.
 <!-- more -->

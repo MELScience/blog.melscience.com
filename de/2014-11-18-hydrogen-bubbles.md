@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Explosion der Wasserstoffbläschen">
 language: de
 post-id: 2014-11-18
+publish-status: published
 ---
 Wir arbeiten an einem Video, das die Wasserstoffverbrennung erklärt. Das Video beginnt mit der Explosion eines Wasserstoffbläschens und zeigt dann die tiefere Molekularstruktur, in der Sie einzelne Moleküle und Atome erkennen können und verstehen, wie sich der Verbrennungsprozess abspielt. Beim Erstellen des Videos haben wir viele Explosionen der Wasserstoffbläschen mit einer Hochgeschwindigkeitskamera aufgenommen. Hier ist eine Auswahl der schönsten Explosionen. Viel Spaß! Keine Wissenschaft, einfach die Schönheit des Feuers :)<!-- more -->
 

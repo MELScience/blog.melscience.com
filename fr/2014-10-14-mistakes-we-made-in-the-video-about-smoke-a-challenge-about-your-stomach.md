@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Nourriture dans l'acide chlorhydrique">
 language: fr
 post-id: 2014-10-14
+publish-status: published
 ---
 Nous avons publié la semaine dernière notre première vidéo. Comme vous vous en souvenez peut-être, nous vous demandions à la fin de retrouver les erreurs contenues dans cette vidéo. Nous examinerons aujourd'hui les erreurs que nous avons commises. Certaines d'entre elles ont été commises pour des raisons artistiques. Certains moments que les autres chimistes ont pointés comme étant des erreurs n'en étaient pas vraiment – plusieurs détails étaient si contre-intuitifs que de nombreuses personnes ne pensaient pas que le processus d'action se déroule comme nous le décrivions. Je montrerai également comment les scientifiques découvrent les structures de molécules.
 <!-- more -->

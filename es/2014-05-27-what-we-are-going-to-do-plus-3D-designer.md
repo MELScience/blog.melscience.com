@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: es
 post-id: 2014-05-27
+publish-status: published
 ---
 Sobre la importancia de medios visuales apropiadas en la ciencia y la educación; puesto de diseñador 3D con conocimientos en física y química;
 respuesta al problema de secado de ropa lavada en aire helado; y un nuevo problema sobre un tren que gira.

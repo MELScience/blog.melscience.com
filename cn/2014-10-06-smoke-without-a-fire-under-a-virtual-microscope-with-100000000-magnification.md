@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="氯化铵气体">
 language: cn
 post-id: 2014-10-06
+publish-status: published
 ---
 有一个古老的化学魔术，讲的是如何把房间一角的烟移到另一个房间。我们将要解开这个秘密，在分子水平上用放大100000000倍的虚拟显微镜展示魔术背后的化学反应。最后是我们为什么选择这个化学实验来拍摄第一个视频的想法。
 <!-- more -->

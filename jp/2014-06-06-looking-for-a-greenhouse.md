@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="温室">
 language: jp
 post-id: 2014-06-06
+publish-status: published
 ---
 零細企業で直面する事の一つとして、あなたは自分で何でもやらなければならないという事実があります。
 小さな問題は大企業においてはたちどころに即座に解消されていました - 旅行の手配、事務用品、コンピュータ

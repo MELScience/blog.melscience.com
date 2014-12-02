@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Serra">
 language: it
 post-id: 2014-06-06
+publish-status: published
 ---
 Una delle sfide più comuni delle società di piccole dimensioni è il fatto di dover fare tutto da soli. 
 I piccoli problemi che venivano magicamente risolti in un istante in una grande azienda (organizzazione dei viaggi, forniture per ufficio, computer, 

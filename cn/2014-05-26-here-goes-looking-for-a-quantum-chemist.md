@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: cn
 post-id: 2014-05-26
+publish-status: published
 ---
 终于到了这一步！公司已经注册完毕，也租了一间临时办公室，是时候招聘人才了！ 首先，我要在圣彼得堡寻找一位量子化学家。作为奖励，我会分享一些关于洗衣和寒冷天气的问题。
 <!-- more -->

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: fr
 post-id: 2014-05-27
+publish-status: published
 ---
 Sur l'importance de véritables visuels dans la science et l'éducation; poste de designer 3D à l'aise en physique et en chimie; 
 réponse au problème sur le linge séchant à l'air givré; et un nouveau problème à propos d'un train qui tourne.

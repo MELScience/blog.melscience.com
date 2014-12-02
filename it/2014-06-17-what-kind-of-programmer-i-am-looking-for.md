@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="John Carmack ha scritto da solo più della metà di Quake">
 language: it
 post-id: 2014-06-17
+publish-status: published
 ---
 Informazioni sui nostri principi di esclusione, come "non stabiliamo partnership", "niente bonus", "non compriamo nessuno e non ci facciamo comprare da nessuno", 
 "niente balle", "nessuno sconto", "non accettiamo sovvenzioni statali", "non assumiamo personale privo di basi scientifiche (anche designer e responsabili marketing)", 

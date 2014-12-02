@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: en
 post-id: 2014-05-27
+publish-status: published
 ---
 On the importance of proper visuals in science and education; position of a 3D designer well-versed in physics and chemistry; 
 answer to the problem about washed clothes drying up in frosty air; and a new problem about a turning train.

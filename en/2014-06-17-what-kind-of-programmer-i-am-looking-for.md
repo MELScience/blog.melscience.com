@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 language: en
 post-id: 2014-06-17
+publish-status: published
 ---
 About our restricting principles, such as "we never partner up with anyone ", "no bonuses", "we don’t buy anyone and don’t sell ourselves to anyone ", 
 "no bullshit", "no discounts ", "we turn down any state support ", "we don’t hire non-scientific people (even designers and marketing managers)", 

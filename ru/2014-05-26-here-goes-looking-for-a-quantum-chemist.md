@@ -6,6 +6,7 @@ author: Василий Филиппов
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: ru
 post-id: 2014-05-26
+publish-status: published
 ---
 
 Наконец-то! Компания открыта, временный офис снят, можно начинать искать людей! Первым ищу квантового химика в Петербурге (ЗП 120&#151;150 т.р.). В виде бонуса в конце прелюбопытнейшая задача про белье на морозе.

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hydrogen nuclear transfer in crystal">
 language: en
 post-id: 2014-10-14
+publish-status: published
 ---
 Last week we released our first video. As you may remember, in the end we asked you to find mistakes in this video. Today, we will look into the mistakes we made. Some of them we made on purpose for artistic reasons. Some moments that other chemists pointed out to us as mistakes were not mistakes indeed – several details here were so counterintuitive that many people did not believe that the action process happened exactly as we described it. I will also show how scientists find molecule structures.
 <!-- more -->

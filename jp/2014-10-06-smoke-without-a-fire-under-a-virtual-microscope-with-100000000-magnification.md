@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Smoke of ammonium chloride">
 language: jp
 post-id: 2014-10-06
+publish-status: published
 ---
 煙を部屋の一角から別の端に動かすトリックについての古典的な化学について述べたいと思う。このトリックにおいて、1億倍率の顕微鏡を用いて分子レベルでの化学反応を説明し秘密を暴いていこう。終わりに、なぜこの実験を、我々の最初の動画として選んだか思いのたけを述べたい。
 <!-- more -->

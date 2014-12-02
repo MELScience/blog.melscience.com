@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="温室">
 language: cn
 post-id: 2014-06-06
+publish-status: published
 ---
 你在小公司里面对的事情之一是一切事情必须自己做。
 在大公司里快速解决的小问题，包括旅行安排、办公用品、电脑、合同之类的事情，在这里变得非常令人苦不堪言。我想找一家公司，可以把我的所有次要工作“外包”出去。如果没有这样的公司，我将自己创办这种公司。

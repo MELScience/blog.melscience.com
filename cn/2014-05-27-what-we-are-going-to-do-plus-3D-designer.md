@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: cn
 post-id: 2014-05-27
+publish-status: published
 ---
 介绍了在科学与教育中可视化的重要性；精通物理与化学的3D设计师职位； 
 回答了在冷空气中晾干衣服的问题；关于火车拐弯的新问题。

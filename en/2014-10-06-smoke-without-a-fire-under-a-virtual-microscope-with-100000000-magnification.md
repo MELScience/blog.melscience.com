@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Smoke of ammonium chloride">
 language: en
 post-id: 2014-10-06
+publish-status: published
 ---
 This is about an old chemical trick regarding how to move smoke from one corner of a room to another. We’ll unveil the secret and explain the chemistry reaction behind this trick on the molecular level using a virtual microscope with 100,000,000x magnification. And finally our thoughts as to why we have chosen this chemistry experiment for our first video.
 <!-- more -->

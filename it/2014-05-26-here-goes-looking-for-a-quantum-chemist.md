@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: it
 post-id: 2014-05-26
+publish-status: published
 ---
 Finalmente! La società è stata costituita, abbiamo affittato un ufficio temporaneo; è arrivato il momento di iniziare a cercare il personale! 
 Prima di tutto, sto cercando un chimico quantistico a San Pietroburgo. 

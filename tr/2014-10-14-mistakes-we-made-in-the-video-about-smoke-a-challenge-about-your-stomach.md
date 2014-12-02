@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hidroklorik asit içindeki besin">
 language: tr
 post-id: 2014-10-14
+publish-status: published
 ---
 Geçtiğimiz hafta ilk videomuzu yayınladık. Hatırlayacağınız gibi, yazımızın en sonunda da, sizden bu videoda yaptığımız hataları bulmanızı istedik. Bugünkü yazımızda, bu videoda ne gibi hatalar yaptığımızdan bahsedeceğiz. Yaptığımız hatalardan bazılarını görsel nedenlerden dolayı bilerek yaptık. Hata yapmadığımız yerleri dahi hatalı olarak değerlendiren bazı kimyacılar oldu – hatta tuhaf bir şekilde çoğu kişi açıkladığımız duman olayındaki bazı süreçlerin tam olarak bu şekilde gerçekleştiğine bile inanmadı. Yazımın bir bölümünde de bilim adamlarının molekül yapılarını nasıl bulduklarından bahsedeceğim.
 <!-- more -->

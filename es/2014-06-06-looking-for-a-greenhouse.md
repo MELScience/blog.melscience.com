@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Invernadero">
 language: es
 post-id: 2014-06-06
+publish-status: published
 ---
 Una de las cosas a las que hay que hacer frente en las pequeñas empresas es hacerlo todo por tu cuenta. 
 Los pequeños problemas que se resuelven en un instante por arte de magia en una gran empresa (los viajes, provisiones para oficina, equipos informáticos, contratos, etc.) se convierten en un gran dolor de cabeza. Me gustaría encontrar una empresa a la que pueda externalizar todas las actividades secundarias. Y si no hay ninguna empresa que pueda subcontratar, la crearé.

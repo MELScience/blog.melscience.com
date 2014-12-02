@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Fumo di cloruro di ammonio">
 language: it
 post-id: 2014-10-06
+publish-status: published
 ---
 A proposito di un vecchio trucco chimico su come spostare il fumo da un angolo di una stanza ad un altro. Sveleremo il segreto e spiegheremo la reazione chimica di questo trucco impiegando un microscopio virtuale ad ingrandimento pari a 100,000,000x. Ed infine, i nostri pensieri su perchè abbiamo scelto questo esperimento chimico per il nostro primo 
 <!-- more -->

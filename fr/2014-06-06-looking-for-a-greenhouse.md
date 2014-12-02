@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Serre">
 language: fr
 post-id: 2014-06-06
+publish-status: published
 ---
 L'un des aspects propres aux petites entreprises, c'est que vous devez tout faire vous-même. 
 Les petits problèmes qui étaient réglés comme par magie dans une grande entreprise - voyages, fournitures de bureau, ordinateurs, 

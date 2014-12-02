@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: tr
 post-id: 2014-05-27
+publish-status: published
 ---
 Bilim ve eğitimde doğru görselleştirme yapabilmenin önemi; fizik ve kimya alanında iyi bir donanıma sahip 3D tasarımcının sahip olması gereken özellikler; soğuk havada çamaşırların nasıl kuruduğu konusundaki sorunun cevabı ve son olarak ta bir trenin nasıl dönüş yaptığı ile ilgili yeni bir problem.
 <!-- more -->

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Fumée de chlorure d'ammonium">
 language: fr
 post-id: 2014-10-06
+publish-status: published
 ---
 À propos d'un vieux truc de chimie sur la manière de déplacer la fumée d'un coin à l'autre d'une pièce. Nous dévoilerons le secret et expliquerons la réaction chimique derrière ce truc au niveau moléculaire en utilisant un microscope virtuel avec un grossissement x 100,000,000. Et enfin nous en dirons un peu plus sur la raison du choix de cette expérience chimique pour notre première vidéo.
 <!-- more -->

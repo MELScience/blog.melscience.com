@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 language: de
 post-id: 2014-06-17
+publish-status: published
 ---
 Über unsere Grundprinzipien wie "wir schließen keine Partnerschaften ab", "keine Boni", wir kaufen niemanden und verkaufen uns nicht", 
 "kein Mist", "keine Rabatte", "wir lehnen jede Unterstützung ab", "wir stellen kein unwissenschaftliches Personal ein (selbst Designer und Marketing-Manager)", 

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: es
 post-id: 2014-05-26
+publish-status: published
 ---
 ¡Por fin! La empresa ha sido registrada y se alquilado una oficina temporal ¡Ahora es el momento de empezar a buscar a los empleados!
 En primer lugar, estoy buscando a un químico cuántico en San Petersburgo.

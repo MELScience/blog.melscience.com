@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Fumo de cloreto de hidrogénio">
 language: pt
 post-id: 2014-10-06
+publish-status: published
 ---
 Falo de um antigo truque de química sobre como mover fumo de um um canto de uma sala para outro. Vamos revelar o segredo e explicar  a reacção química por detrás deste truque a um nível molecular usando um microscópio virtual com um aumento de 100.000.000 x. E finalmente a razão pela qual escolhemos esta experiência química para nosso primeiro vídeo.
 <!-- more -->

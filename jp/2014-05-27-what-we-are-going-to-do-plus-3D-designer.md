@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: jp
 post-id: 2014-05-27
+publish-status: published
 ---
 科学および教育における適切な資格資料の重要性において; 物理と化学に精通した3Dデザイナーのポジション;
 凍結した空気中での洗濯衣料の乾燥に関する問題への解決策; 曲がり角に入る列車に関する新たな問題。

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Humo de cloruro de amonio">
 language: es
 post-id: 2014-10-06
+publish-status: published
 ---
 Sobre un viejo truco químico de cómo mover el humo de una esquina de la habitación a otra. Desvelaremos el secreto y explicaremos qué reacción química hay detrás de este truco a nivel molecular utilizando un microscopio virtual con ampliación 100 000 000x. Y por último, expondremos nuestros pensamientos de por qué hemos elegido este experimento de química para nuestro primer video.
 <!-- more -->

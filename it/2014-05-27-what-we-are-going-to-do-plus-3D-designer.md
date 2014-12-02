@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: it
 post-id: 2014-05-27
+publish-status: published
 ---
 L'importanza di contenuti visivi adeguati nella scienza e nell'educazione; posizione per un designer 3D versato nel campo della fisica e della chimica; 
 risposta al problema della biancheria bagnata che si asciuga all'aria gelida; nuovo problema su un treno in curva.

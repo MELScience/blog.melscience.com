@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Esplosioni di bolle di idrogeno">
 language: it
 post-id: 2014-11-18
+publish-status: published
 ---
 Stiamo lavorando su un video che illustra il processo con il quale brucia l'idrogeno. Il video inizierà con l'esplosione di una bolla di idrogeno, per poi approfondire a livello molecolare, dove è possibile osservare molecole e atomi distinti e comprendere il processo con il quale brucia l'idrogeno. Durante la preparazione del video, abbiamo filmato un gran numero di esplosioni di bolle di idrogeno utilizzando una fotocamera ad alta velocità. Di seguito troverete una compilation delle migliori esplosioni. Buon divertimento! Dimenticatevi della scienza, e godetevi la bellezza ultraterrena del fuoco :) 
 <!-- more -->

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: pt
 post-id: 2014-05-27
+publish-status: published
 ---
 Sobre a importância das imagens apropriadas na ciência e educação;  vaga para um Designer 3D com experiência em física e química;
 responda ao problema sobre roupas lavadas a secar ao ar gelado; e um novo problema sobre um comboio em viragem.

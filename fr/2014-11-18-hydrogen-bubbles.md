@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Explosions de bulles d'hydrogène">
 language: fr
 post-id: 2014-11-18
+publish-status: published
 ---
 Nous réalisons une vidéo explicative sur le procédé de combustion de l'hydrogène. La vidéo démarrera avec une explosion de bulle d'hydrogène, puis ira plus loin jusqu'au niveau moléculaire où il sera possible d'observer les molécules et atomes séparés et de comprendre le déroulement du processus de combustion. Pour réaliser cette vidéo nous avons dû filmer de nombreuses explosions de bulle d'hydrogène à l'aide d'une caméra ultra rapide. Voici une compilation des meilleures d'entre elles. Profitez ! Pas de science, juste la divine beauté du feu :) 
 <!-- more -->

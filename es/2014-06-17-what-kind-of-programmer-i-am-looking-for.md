@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Más de la mitad de Quake fue escrita por John Carmack">
 language: es
 post-id: 2014-06-17
+publish-status: published
 ---
 Sobre nuestros principios como "nunca seremos socios de nadie", "sin bonificaciones", "no compramos a nadie ni vendemos a nosotros mismos a nadie", "nada de estupideces", "sin descuentos", "rechazamos cualquier apoyo del estado", "no contratamos a gente que no son científicos (incluidos los diseñadores y los directores de marketing)" y  muchos otros; un puesto de director de desarrollo que tendrá que crear todo un conjunto de programas: una biblioteca para simular reacciones químicas, un visualizador 3D de la dinámica de las reacciones moleculares (muy probablemente, usando Unity3D), un laboratorio de química virtual, un sitio web con tareas y un entorno social, todo un paquete de software para tablet para incluirlo en el juego; el desarrollador no trabajará en todo esto solo, sino que será el primero en establecer las bases de todos estos programas.
 <!-- more -->

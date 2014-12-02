@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Greenhouse">
 language: de
 post-id: 2014-06-06
+publish-status: published
 ---
 Eines der größten Probleme für kleine Unternehmen ist, dass man alles selber machen muss. 
 Kleine Aufgaben, die sich in großen Unternehmen sofort wie von selbst lösen wie Reisevorbereitungen, Büroausstattung, Computer, 

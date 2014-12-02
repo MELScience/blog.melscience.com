@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: en
 post-id: 2014-05-26
+publish-status: published
 ---
 Finally! The company has been registered, a temporary office rented, now it’s time to start looking for people! 
 First of all, I am looking for a quantum chemist in Saint Petersburg. 

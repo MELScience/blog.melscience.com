@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: jp
 post-id: 2014-05-26
+publish-status: published
 ---
 さあ、ついに来た! 会社の登録と臨時事務所の賃貸契約は完了。次は従業員だ!
 最初に募集するのはサンクト・ペテルブルク勤務の量子(クアンタム)科学者だ。今日はおまけとして洗濯物と極寒についての問題についても述べたいと思う。

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Explosões de bolhas de hidrogênio">
 language: pt
 post-id: 2014-11-18
+publish-status: published
 ---
 Estamos trabalhando em um vídeo que explica o processo de queima de hidrogênio. O vídeo começa apresentando uma explosão de bolhas de hidrogênio, em seguida, aprofunda-se até o nível molecular onde é possível ver moléculas e átomos separados e entender como o processo de queima acontece. Enquanto preparamos o vídeo, filmamos muitas explosões de bolhas de hidrogênio usando uma câmera de alta velocidade. Aqui está uma compilação das melhores explosões. Aproveite! Sem ciência, só a beleza do fogo celeste :) 
 <!-- more -->

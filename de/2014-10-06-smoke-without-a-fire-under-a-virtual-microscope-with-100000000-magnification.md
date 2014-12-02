@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Ammoniakchloridrauch">
 language: de
 post-id: 2014-10-06
+publish-status: published
 ---
 Das ist der uralte Trick der Chemiker. Wie bewegt man Rauch von einer Zimmerecke in die andere. Wir enthüllen das Geheimnis und erklären die chemische Reaktion, die hinter dem Trick steckt, auf der Molekularebene mit einem virtuellen Mikroskop und 100.000.000 Vergrößerung. Außerdem erkläre ich, warum ich dieses chemische Experiment für unser erstes Video ausgesucht habe.
 <!-- more -->

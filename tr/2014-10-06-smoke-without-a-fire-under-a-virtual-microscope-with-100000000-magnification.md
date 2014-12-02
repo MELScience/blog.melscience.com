@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Amonyum klorür dumanı">
 language: tr
 post-id: 2014-10-06
+publish-status: published
 ---
 Bugün, odanın bir köşesindeki sigara dumanın diğer bir köşeye doğru nasıl hareket ettiği ile ilgili eski bir kimyasal numarayı açıklayacağız. Bu olayın ardındaki sır perdesini aralayacak ve 100,000,000x yakınlaştırmalı sanal bir mikroskobu kullanarak moleküler seviyede bu bilmecenin arkasındaki kimyasal reaksiyonun nasıl gerçekleştiğine açıklık getireceğiz. Ve son olarak ta, ilk videomuz için neden bu kimyasal deneyi seçtiğimiz ile ilgili düşüncelerimizi paylaşacağız.
 <!-- more -->

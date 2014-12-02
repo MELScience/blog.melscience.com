@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Transferência de hidrogénio nuclear num cristal">
 language: pt
 post-id: 2014-10-14
+publish-status: published
 ---
 Na semana passada lançámos os nosso primeiro vídeo. Como se deve recordar, no final pedimos que encontrasse erros neste vídeo. Alguns foram cometidos de propósito, por razões artísticas. Alguns momentos que outros químicos nos apontaram como erros, não foram, de facto, erros - vários detalhes eram tão contra contra intuitivos que as pessoas não acreditaram que a acção se processasse exactamente como a descrevemos. Irei ainda mostrar como de que forma os cientistas vêm as estruturas moleculares
 <!-- more -->

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Quake超过半数的代码都是由John Carmack独自完成的">
 language: cn
 post-id: 2014-06-17
+publish-status: published
 ---
 关于我们的限制原则，诸如“我们不与任何人合作”、“无业务”、“我们不会并购或出售公司”、 “不讲废话”、“不提供折扣”、“我们拒绝国家扶持”、“我们不雇佣没有科学背景的员工（甚至是设计师与市场经理）”等等 
 ；开发组组长需要为我们创建一整套项目，包括：用于模拟化学反应的库、可以观察分子反应动态的3D观察仪（最好使用Unity3D创建）、虚拟化学实验室、 
