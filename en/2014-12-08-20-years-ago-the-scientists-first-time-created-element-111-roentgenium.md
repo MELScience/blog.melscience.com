@@ -4,6 +4,7 @@ title: 20 years ago the scientists first time created element number 111 - Roent
 type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/roentgenium.png" width="600" height="439" alt="Roentgenium">
+og-image: /images/facebook/roentgenium-thumbnail.png
 language: en
 post-id: 2014-11-18
 hidden: yes
