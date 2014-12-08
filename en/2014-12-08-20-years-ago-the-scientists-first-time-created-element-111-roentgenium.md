@@ -21,11 +21,11 @@ That is what they did in the GSI Helmholtz Centre for Heavy Ion Research near Da
 
 When you create a new element, you have to wait until independent experts could reproduce your experiment before the new element is officially accepted by IUPAC and a name is given. It took ten years for Roentgenium to be officially recognized. Before that, the element was known under a temporary name "Unununium". Which is based on its number 111: un (one) un (one) un (one) ium. There are five elements now that do not have their names yet and are known under their temporary names:
 
-* Ununtrium
-* Ununpentium
-* Ununseptium
-* Ununoctium
-* Ununennium
+* Ununtrium (#113)
+* Ununpentium (#115)
+* Ununseptium (#117)
+* Ununoctium (#118)
+* Ununennium (#119)
 
 Almost all of them were first created by the Joint Institute for Nuclear Research in Dubna, Russia.
 
