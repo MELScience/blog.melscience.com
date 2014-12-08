@@ -6,8 +6,8 @@ author: Vassili Philippov
 post-image: <img src="/images/roentgenium.png" width="600" height="314" alt="Roentgenium">
 og-image: /images/facebook/roentgenium-thumbnail.png
 language: en
-post-id: 2014-11-18
-hidden: yes
+post-id: 2014-12-08
+publish-status: published
 ---
 20 years ago, scientists created the element #111. Who would care about an element that lived less than one second? Read how our life is obligated to another element whose life is billions of times shorter.
 <!-- more -->
