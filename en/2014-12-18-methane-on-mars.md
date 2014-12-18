@@ -19,18 +19,18 @@ On December 16th an article containing information about huge amounts of methane
 
 <img src="/images/mars.jpg" width="600" height="510" alt="Mars">
 
-Let’s consider the news in a more detailed way. So the Curiosity found 0.69±0.25 ppb (parts per billion) methane in the air of Mars. This figure is much higher than the one reported before – in 1999 the Hawaii France-Canadian telescope indicated a global average 10 ppb of methane in the atmosphere of  Mars. So what’s new in the discovery of Curiosity? The main sensation is that Mars does not only contain methane, but produces more of it. Here come up with 3 questions: 
+Letâ€™s consider the news in a more detailed way. So the Curiosity found 0.69Â±0.25 ppb (parts per billion) methane in the air of Mars. This figure is much higher than the one reported before â€“ in 1999 the Hawaii France-Canadian telescope indicated a global average 10 ppb of methane in the atmosphere of  Mars. So whatâ€™s new in the discovery of Curiosity? The main sensation is that Mars does not only contain methane, but produces more of it. Here come up with 3 questions: 
 1.	What is methane and why is it important for life on the planet? 
 2.	How is new methane produced?
 3.	Is the concentration of methane on Mars huge compared to other planets? Is the concentration of methane higher than of other gases on Mars. Can it help create or support life on the planet?
 
-Let’s consider these 3 questions one by one.
+Letâ€™s consider these 3 questions one by one.
 Methane is a gaseous substance with the formulae CH4 which means that the molecule contains 1 carbon and 4 hydrogen atoms. It is common knowledge that carbon is the key component of life on Earth. It is the reason to search for carbon-containing substances in space and on other planets. Moreover, methane is a greenhouse gas. Greenhouse gases can absorb infrared irradiation emitted by warm objects on the surface of the planet and stop this irradiation from going out to space. This is a way to support a constant temperature on the planet surface.
  
 
 <img src="/images/1-methane.gif" width="600" height="605" alt="Methane">
 
-What are possible ways of producing methane? We all know that methane occurs naturally in geological processes (that’s why it is called natural gas). Also we know that methane can be produced by agriculture – and it’s the main point to claim that methane can be evidence of life on any planet.
+What are possible ways of producing methane? We all know that methane occurs naturally in geological processes (thatâ€™s why it is called natural gas). Also we know that methane can be produced by agriculture â€“ and itâ€™s the main point to claim that methane can be evidence of life on any planet.
 
 <img src="/images/2-methane sources.gif" width="600" height="399" alt="Picture from NASA website">
 
@@ -45,7 +45,7 @@ D)	Release from subsurface substances called clathrates
 E)	Gas absorbed by the mineral regolith
 F)	Erosion of basalt with methane inclusions
 G)	Geothermal production (similar to processes on Earth)
-So here we see many options and only one of them involves existence of life on a Mars. So obviously we cannot be sure or even hope that life exists on Red planet. However, the increase of methane in the atmosphere of Mars can be good for Mars colonization: if the greenhouse effect will occur on Mars, we can hope to use it to increase Mars’ temperature to make living condition for colonists closer to Earth conditions
+So here we see many options and only one of them involves existence of life on a Mars. So obviously we cannot be sure or even hope that life exists on Red planet. However, the increase of methane in the atmosphere of Mars can be good for Mars colonization: if the greenhouse effect will occur on Mars, we can hope to use it to increase Marsâ€™ temperature to make living condition for colonists closer to Earth conditions
 
 
 <br/>
