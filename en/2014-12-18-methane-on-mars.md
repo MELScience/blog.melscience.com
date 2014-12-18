@@ -19,7 +19,7 @@ Science journal published an article containing information about huge amounts o
 
 <img src="/images/mars.jpg" width="600" height="584" alt="Mars">
 
-Let’s consider the news in a more detailed way. So the Curiosity found 0.69±0.25 ppb (parts per billion) methane in the air of Mars. This figure is much higher than the one reported before – in 1999 the Hawaii France-Canadian telescope indicated a global average 10 ppb of methane in the atmosphere of  Mars. So what’s new in the discovery of Curiosity? The main sensation is that Mars does not only contain methane, but produces more of it. Here come up with 3 questions: 
+Let's consider the news in a more detailed way. So the Curiosity found 0.7 ppb (parts per billion) methane on the average in the air of Mars. Additionally, scientists observed elevated levels of methane - 10 times more - implying that Mars is episodically producing methane from unknown source. Here we come up with 3 questions: 
 
 1. What is methane and why it is important for life on the planet? 
 2. How is new methane produced?
