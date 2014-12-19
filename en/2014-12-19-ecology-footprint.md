@@ -23,6 +23,7 @@ How many people can sustain life on Earth for infinite period of time?
 Ecologists developed special measure called “Ecological Footprint” to measure our impact on the planet ecology. This measure evaluates all your living expenses connected with ecology – from food and transport to bathing habits. You can pass a test on website
 http://footprint.wwf.org.uk/ 
 After you will get results of your spending habits. Sometimes results can be astounding
+
 <img src="/images/footprint.png" width="600" height="258" alt="footprint">
 
 
