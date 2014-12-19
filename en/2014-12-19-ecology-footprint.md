@@ -3,7 +3,7 @@ layout: blog-post
 title: How many people can live on Earth?
 type: blog-post
 author:  Sergey Safonov
-post-image: <img src="/images/ecology.jpg" width="600" height="584" alt="Mars">
+post-image: <img src="/images/ecology.jpg" width="600" height="319" alt="Ecology">
 og-image: /images/facebook/ecology.jpg
 language: en
 post-id: 2014-12-19
@@ -16,7 +16,7 @@ Everyday we spend some amount of natural resources. All humanity spends resource
 ---
 
 
-<img src="/images/ecology.jpg" width="600" height="584" alt="Mars">
+<img src="/images/ecology.jpg" width="600" height="319" alt="Ecology">
 
 Our civilization is developing fast. We look forward to get new technologies and wait for our life to become better and more convenient. However, we seldom think what impact does our life have on the planet’s resources. What is the speed of spending resources for all humanity? 
 How many people can sustain life on Earth for infinite period of time? 
