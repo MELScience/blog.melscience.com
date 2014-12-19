@@ -34,8 +34,8 @@ What is the impact for all humanity? How many years do we have in advance? How m
 And if we would like to support our current lifestyle, we should have diminish amount of population down to 500 millions – 14 times less than now. 
 What will the humanity choose? Colonization of other planets or shortening our demands?
 
-See how this impact is calculated here:
-http://www.footprintnetwork.org/images/uploads/National_Footprint_Accounts_Method_Paper_2010.pdf  
+See how this impact is calculated <a href="http://www.footprintnetwork.org/images/uploads/National_Footprint_Accounts_Method_Paper_2010.pdf  ">here:</a>
+
 
 <br/>
 
