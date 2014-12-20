@@ -29,7 +29,7 @@ Why is this important for aging? Many tissues in our organs gradually regenerate
 
 Another important mechanism of aging is related to the action of some organic compounds and their products. One example of such compound is aromatic amino acid tryptophan. Tryptophan -- amino acid having important role in aging.
 
-<img src="/images/tryptophan.png" width="600" height="493" alt="Telomere">
+<img src="/images/tryptophan.png" width="600" height="350" alt="Tryptophan">
 
 Its role in aging is not entirely clear. We know that increased degradation of tryptophan in cells speeds up aging. On the other hand, block of tryptophan uptake by the cells may prevent aging. And this is where Ibuprofen comes into action. The article in PLOS Genetics demonstrates that it decreases the uptake of tryptophan by moderately inhibiting special proteins that transport this amino acid to the cells. 
 Although very promising, these results <a href="http://www.nhs.uk/news/2014/12December/Pages/ibuprofen-painkiller-hangover-cure-longevity.aspx">should be treated with caution</a>. Effect of Ibuprofen was tested on yeasts, worms and flies and it still requires validation on vertebrates and humans in particular. 
