@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Обездоливающее продлевает жизнь?
+title: Обезболивающее продлевает жизнь?
 type: blog-post
 author: Anton Nikolaev
 post-image: <img src="/images/telomere.png" width="600" height="360" alt="Telomere">
