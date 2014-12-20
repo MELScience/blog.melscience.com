@@ -3,7 +3,7 @@ layout: blog-post
 title: Painkillers prevent aging?
 type: blog-post
 author: Anton Nikolaev
-post-image: <img src="/images/telomere.png" width="300" height="180" alt="Telomere">
+post-image: <img src="/images/telomere.png" width="600" height="360" alt="Telomere">
 og-image: /images/telomere.png
 language: en
 post-id: 2014-12-20
@@ -20,7 +20,7 @@ Biologists define aging as a progressive damage to cells and tissues in living o
 
 One widely known reason of aging is the fact that our cells are allowed to divide only limited number of times. When cell divides, a part of its DNA located at the end of each chromosome, called telomere, is chopped off. When cells divide certain number (typically 50-60) of times, the telomeres become too short and this prevents additional cell divisions. However, some cells need to divide more times than others. These cells express special protein, called telomerase. It adds a bit of DNA to each telomere, which allows cells to divide more times.  
 
-<img src="/images/telomere.png" width="300" height="180" alt="Telomere">
+<img src="/images/telomere.png" width="600" height="360" alt="Telomere">
 
 Telomeres are located at the ends of each chromosome.
 
