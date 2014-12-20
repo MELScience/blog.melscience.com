@@ -22,9 +22,10 @@ One widely known reason of aging is the fact that our cells are allowed to divid
 
 <img src="/images/telomere.png" width="600" height="360" alt="Telomere">
 
-Telomeres are located at the ends of each chromosome.
-
 Why is this important for aging? Many tissues in our organs gradually regenerate their cells. A classic example is skin: epidermal stem cells underneath the skin constantly divide and differentiate into multiple types of cells forming our epidermis. With aging, these cells divide less, which slows down the regeneration of the skin and causes its deformation. 
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/8_bNfQd7Smc?rel=0" frameborder="0" allowfullscreen></iframe>
+<br><br>
 
 Another important mechanism of aging is related to the action of some organic compounds and their products. One example of such compound is aromatic amino acid tryptophan. Tryptophan -- amino acid having important role in aging.
 
