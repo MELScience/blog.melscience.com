@@ -142,6 +142,30 @@ h6, .h6 {
 }
 
 /*
+ * See also posts
+ */
+
+.seealso-post {
+  margin-top: 5px;
+}
+.seealso-image-link img {
+  width: 100px;
+  height: auto;
+}
+.seealso-image-link {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+.seealso-post-text {
+  color: rgb(85, 85, 85);
+}
+.seealso-post-text:hover {
+  color: rgb(85, 85, 85);
+  text-decoration: none;
+}
+
+/*
  * Blog posts
  */
 
