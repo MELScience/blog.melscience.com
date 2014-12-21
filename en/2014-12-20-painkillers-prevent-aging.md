@@ -20,7 +20,7 @@ Biologists define aging as a progressive damage to cells and tissues in living o
 
 One widely known reason of aging is the fact that our cells are allowed to divide only limited number of times. When cell divides, a part of its DNA located at the end of each chromosome, called telomere, is chopped off. When cells divide certain number (typically 50-60) of times, the telomeres become too short and this prevents additional cell divisions. However, some cells need to divide more times than others. These cells express special protein, called telomerase. It adds a bit of DNA to each telomere, which allows cells to divide more times.  
 
-<img src="/images/telomere.png" width="600" alt="Telomere" class="post-image">
+<img src="/images/telomere.png" width="600" alt="Telomere">
 
 Why is this important for aging? Many tissues in our organs gradually regenerate their cells. A classic example is skin: epidermal stem cells underneath the skin constantly divide and differentiate into multiple types of cells forming our epidermis. With aging, these cells divide less, which slows down the regeneration of the skin and causes its deformation. 
 
