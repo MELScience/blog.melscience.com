@@ -23,7 +23,7 @@ On your tongue, you have taste buds, which are chemical sensors for specific mol
 <img src="/images/sweeteners-en.jpg" width="600" height="324" alt="sweeteners">
 
 The sweet receptors try to catch sucrose molecule 
-<img src="/images/sucrose-3d.gif" width="336" height="220" alt="sucrose">
+<img src="/images/Sucrose-rodmodel.png" width="336" height="220" alt="sucrose">
 
 Your brain can be cheated by sweeteners but is it for good? The brain have to count its feeling of consumption of calories. When you taste sweet candy, your brains waits for calories to come and serve brain and body with its energy. With artificial sweeteners calories never come – and you may reprogram your brain. Consuming many sweeteners, you stop associating sweet taste with calories, which may lead in future to overfeeding. The overfeeding effect due to sweeteners observed on rats.  This may be the danger of sweeteners.
 Some claims about cancer and diabetes was given to sweeteners but they was not proved experimentally. So physiologically, sweeteners are safe but may be harmful psychologically due to reprogramming your sweet-energy perception. 
