@@ -4,10 +4,9 @@ title: Why sweeteners are not as tasty as a real sugar?
 type: blog-post
 author:  Sergey Safonov
 post-image: <img src="/images/sweeteners-en.jpg" width="600" height="324" alt="sweeteners">
-og-image: /images/facebook/ecology.jpg
+og-image: /images/facebook/sweeteners-en.jpg
 language: en
 post-id: 2014-12-22-sweeteners
-publish-status: published
 ---
 Why sweeteners are not as tasty as a real sugar? 
 <!-- more -->
@@ -20,15 +19,17 @@ Let us get inside the chemistry of sweetness.
 On your tongue, you have taste buds, which are chemical sensors for specific molecules. Taste is a signal from such sensor. Every sensor gives its own taste – one gives bitter, another one – sour, third type – sweet, also there is a sensor for salty substances.
 
 
-<img src="/images/sweeteners-en.jpg" width="600" height="324" alt="sweeteners">
+The sweet receptors try to catch sucrose molecule:
 
-The sweet receptors try to catch sucrose molecule 
 <img src="/images/Sucrose-rodmodel.png" width="336" height="220" alt="sucrose">
 
 Your brain can be cheated by sweeteners but is it for good? The brain have to count its feeling of consumption of calories. When you taste sweet candy, your brains waits for calories to come and serve brain and body with its energy. With artificial sweeteners calories never come – and you may reprogram your brain. Consuming many sweeteners, you stop associating sweet taste with calories, which may lead in future to overfeeding. The overfeeding effect due to sweeteners observed on rats.  This may be the danger of sweeteners.
 Some claims about cancer and diabetes was given to sweeteners but they was not proved experimentally. So physiologically, sweeteners are safe but may be harmful psychologically due to reprogramming your sweet-energy perception. 
+
 Interesting fact is that cats have no sweet receptors. They eat meat and do not need sugar. 
+
 What do we also know about human taste?
+
 1. Salted tast is similar for diffirent tipes of salts
 2. Sour taste is needed to detect spoied food. 
 3. Bitter tastes are different (total about 20), and they are needed to detect poisonous substances. It is the evolution which detected every new poison with new kind of bitter taste. 
@@ -37,13 +38,11 @@ What do we also know about human taste?
 
 So what is the answer for a question with sweeteners? The sweeteners which have bad taste act on several different receptors (including bitter taste) while sugar act only on the sweet receptor. That is the reason for sweeteners to be not so tasty as real sugar.
 
-
 What interesting facts do you know about taste?  Comment on our pages on Twitter, Facebook or VK and we will include your answers in our next tasty post.
-
 
 <br/>
 
-<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a> not to miss our next video explaining hydrogen burning process!
+<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
