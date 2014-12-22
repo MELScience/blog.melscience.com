@@ -37,7 +37,7 @@ h2 {margin-top: 50px;}
   {{ content }}
 
           <div class="more-articles">
-<h4 style="margin-top: 30px">See also</h4>        
+<h4 style="margin-top: 30px">{{ loc.see-also }}</h4>        
 {% assign posts = (site.pages | sort: 'url' | where: "language" , page.language | where: "type" , "blog-post" | where: "publish-status", "published") %}
 {% assign n = 0 %}
 {% for post in posts reversed %}
