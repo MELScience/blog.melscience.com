@@ -6,7 +6,7 @@ author:  Sergey Safonov
 post-image: <img src="/images/sweeteners-en.jpg" width="600" height="324" alt="sweeteners">
 og-image: /images/facebook/ecology.jpg
 language: en
-post-id: 2014-12-22
+post-id: 2014-12-22-sweeteners
 publish-status: published
 ---
 Why sweeteners are not as tasty as a real sugar? 
