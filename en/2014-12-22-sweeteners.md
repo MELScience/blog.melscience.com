@@ -1,40 +1,44 @@
 ---
 layout: blog-post
-title: How many people can live on Earth?
+title: Why sweeteners are not as tasty as a real sugar? 
 type: blog-post
 author:  Sergey Safonov
-post-image: <img src="/images/ecology.jpg" width="600" height="319" alt="Ecology">
+post-image: <img src="/images/sweeteners-en.jpg" width="600" height="324" alt="sweeteners">
 og-image: /images/facebook/ecology.jpg
 language: en
-post-id: 2014-12-19
+post-id: 2014-12-22
 publish-status: published
 ---
-How many people can live on Earth?
-Everyday we spend some amount of natural resources. All humanity spends resources faster than nature can restore them. How many people should live on Earth for it resources should never end? 
+Why sweeteners are not as tasty as a real sugar? 
 <!-- more -->
 
 ---
 
-
-<img src="/images/ecology.jpg" width="600" height="319" alt="Ecology">
-
-Our civilization is developing fast. We look forward to get new technologies and wait for our life to become better and more convenient. However, we seldom think what impact does our life have on the planet’s resources. What is the speed of spending resources for all humanity? 
-How many people can sustain life on Earth for infinite period of time? 
-Ecologists developed special measure called “Ecological Footprint” to measure our impact on the planet ecology. This measure evaluates all your living expenses connected with ecology – from food and transport to bathing habits. You can pass a test on website
-http://footprint.wwf.org.uk/ 
-After you will get results of your spending habits. Sometimes results can be astounding
-
-<img src="/images/footprint.png" width="600" height="258" alt="footprint">
+Today is 22 of December, the day when Constantin Fahlberg was born. C.Fahlberg is the  inventor of saccharine, the most popular sweetener. Saccharine is 300 times more sweet that sugar but it has no food energy (calories) and hence do not lead to obesity. 
+Why do we need sweeteners? It is clear for everybody. But why don’t we use sweeteners everywhere instead of sugar? The healthy choice with the same taste should have won fight against sugar. If it has not, that something is wrong with sweeteners. Many people do not like sweeteners because they have bad taste. What does it mean?
+Let us get inside the chemistry of sweetness.
+On your tongue, you have taste buds, which are chemical sensors for specific molecules. Taste is a signal from such sensor. Every sensor gives its own taste – one gives bitter, another one – sour, third type – sweet, also there is a sensor for salty substances.
 
 
-What is the impact for all humanity? How many years do we have in advance? How many people should have lived on Earth to make our humanity sustainable forever?
+<img src="/images/sweeteners-en.jpg" width="600" height="324" alt="sweeteners">
 
- For 2007, humanity's total ecological footprint was estimated at 1.5 planet Earths; that is, humanity uses ecological services 1.5 times as quickly as Earth can renew them. Why should we care about the resources now? The World Health Organization (WHO) says 3 million people are killed worldwide by outdoor air pollution annually from vehicles and industrial emissions – so we are all in danger.
+The sweet receptors try to catch sucrose molecule 
+<img src="/images/sucrose-3d.gif" width="336" height="220" alt="sucrose">
 
-And if we would like to support our current lifestyle, we should have diminish amount of population down to 500 millions – 14 times less than now. 
-What will the humanity choose? Colonization of other planets or shortening our demands?
+Your brain can be cheated by sweeteners but is it for good? The brain have to count its feeling of consumption of calories. When you taste sweet candy, your brains waits for calories to come and serve brain and body with its energy. With artificial sweeteners calories never come – and you may reprogram your brain. Consuming many sweeteners, you stop associating sweet taste with calories, which may lead in future to overfeeding. The overfeeding effect due to sweeteners observed on rats.  This may be the danger of sweeteners.
+Some claims about cancer and diabetes was given to sweeteners but they was not proved experimentally. So physiologically, sweeteners are safe but may be harmful psychologically due to reprogramming your sweet-energy perception. 
+Interesting fact is that cats have no sweet receptors. They eat meat and do not need sugar. 
+What do we also know about human taste?
+* Salted tast is similar for diffirent tipes of salts
+*Sour taste is needed to detect spoied food. 
+*Bitter tastes are different (total about 20), and they are needed to detect poisonous substances. It is the evolution which detected every new poison with new kind of bitter taste. 
+*Hot taste is not a taste at all. It is a tricking of your receptors responsible for hot temperature. 
+*Taste of menthol is not a taste. It is also trick of your receptors responsible for cold. 
 
-See how this impact is calculated <a href="http://www.footprintnetwork.org/images/uploads/National_Footprint_Accounts_Method_Paper_2010.pdf  ">here:</a>
+So what is the answer for a question with sweeteners? The sweeteners which have bad taste act on several different receptors (including bitter taste) while sugar act only on the sweet receptor. That is the reason for sweeteners to be not so tasty as real sugar.
+
+
+What interesting facts do you know about taste?  Comment on our pages on Twitter, Facebook or VK and we will include your answers in our next tasty post.
 
 
 <br/>
