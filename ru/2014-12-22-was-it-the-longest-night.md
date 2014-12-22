@@ -6,7 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/moon.jpg" width="600" height="587" alt="Луна">
 og-image: /images/telomere.png
 language: ru
-post-id: 2014-12-22
+post-id: 2014-12-22-night
 publish-status: published
 ---
 Эта ночь с 21-го на 22-ое декабря была самая длинная ночь в этом году. А была ли она самой длинной ночью в истории Земли?
