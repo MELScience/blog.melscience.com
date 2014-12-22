@@ -29,7 +29,7 @@ Your brain can be cheated by sweeteners but is it for good? The brain have to co
 Some claims about cancer and diabetes was given to sweeteners but they was not proved experimentally. So physiologically, sweeteners are safe but may be harmful psychologically due to reprogramming your sweet-energy perception. 
 Interesting fact is that cats have no sweet receptors. They eat meat and do not need sugar. 
 What do we also know about human taste?
-* Salted tast is similar for diffirent tipes of salts
+*Salted tast is similar for diffirent tipes of salts
 *Sour taste is needed to detect spoied food. 
 *Bitter tastes are different (total about 20), and they are needed to detect poisonous substances. It is the evolution which detected every new poison with new kind of bitter taste. 
 *Hot taste is not a taste at all. It is a tricking of your receptors responsible for hot temperature. 
