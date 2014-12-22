@@ -23,9 +23,9 @@
 {% include date-localization.html %},
 {{ post.author }}</p>
 <p>
-{{ post.post-image }}
+<a href="{{ post.url }}">{{ post.post-image }}</a>
 </p>
-{{ post.content | split:"<!-- more -->" | first }}
+<a href="{{ post.url }}" class="blog-post-text">{{ post.content | split:"<!-- more -->" | first }}</a>
 <hr>
 </div><!-- /.blog-post -->
 
