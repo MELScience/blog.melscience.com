@@ -9,8 +9,7 @@ language: en
 post-id: 2014-12-23-microscope
 publish-status: published
 ---
-A microscope allows you to see very small species. Is there a resolution limit of a microscope, which no device can overcome? 
-Nobel Prize in Chemistry 2014: how can we see the hidden depth with an optical microscope?
+A microscope allows you to see very small species. the microscope has its limitations – if you try to look at an object that is less than 1/5000 of a millimeter, you cannot achieve a contrasting picture. See how scientist developed new tool to overcome this limitation and won the Nobel Prize
 <!-- more -->
 
 ---
