@@ -39,7 +39,7 @@ See how this impact is calculated <a href="http://www.footprintnetwork.org/image
 
 <br/>
 
-<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a> not to miss our next video explaining hydrogen burning process!
+<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>

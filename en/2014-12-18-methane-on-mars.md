@@ -31,7 +31,6 @@ Let’s consider these 3 questions one by one.
 
 Methane is a gaseous substance with the formulae CH4 which means that the molecule contains one carbon and four hydrogen atoms. It is common knowledge that carbon is the key component of life on Earth. It is the reason to search for carbon-containing substances in space and on other planets. Moreover, methane is a greenhouse gas. Greenhouse gases can absorb infrared irradiation emitted by warm objects on the surface of the planet and stop this irradiation from going out to space. This is a way to support a constant temperature on the planet surface.
  
-
 <img src="/images/1-methane.png" width="600" height="605" alt="Methane">
 
 
