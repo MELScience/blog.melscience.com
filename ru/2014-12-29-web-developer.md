@@ -50,7 +50,7 @@ publish-status: published
 * Отдельной строкой стоит задача локализации всего, что мы делаем, на много стран и много языков
 * Сайт "новый опыт каждую неделю": сайт с информацией, интеграция оплаты, логистики, личного кабинета
 
-<a class="btn btn-primary btn-lg active" href="mailto:vassili@melscience.com" role="button">Послать свое резюме на позицию web программиста</a>
+<a class="btn btn-primary btn-lg active" href="http://www.it-dominanta.ru/ru/resume_applications/new?vacancy_id=382" role="button">Послать свое резюме на позицию web программиста</a>
 
 Если вакансия вам понравилась, но она не по вашей специальности - поделитесь ей в социальных сетях. Может быть, вы измените судьбу кого-то из ваших друзей.
 
