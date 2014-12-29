@@ -3,8 +3,8 @@ layout: blog-post
 title: Удивительные свойства резины и удивительная история ее изобретения  
 type: blog-post
 author: Vassili Philippov
-post-image: <img src="/images/pythondeveloper.jpg" width="600" height="471" alt="Python Developer">
-og-image: /images/greenhouse01.jpg
+post-image: <img src="/images/isoprene.png" width="296" height="232" alt="isoprene">
+og-image: /images/isoprene.png
 language: ru
 post-id: 2014-12-29-rubber
 publish-status: published
@@ -19,7 +19,7 @@ publish-status: published
 
 Каучук - один из самых простых природных полимеров. Он состоит из длинных молекул-цепочек, составленных из повторяющихся блоков 
 
-<img src="/images/isoprene.png" width="300" height="232" alt="isoprene">
+<img src="/images/isoprene.png" width="296" height="232" alt="isoprene">
 
 
 В одной молекуле могут быть десятки тысяч таких блоков. 
