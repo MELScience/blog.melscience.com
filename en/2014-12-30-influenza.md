@@ -7,7 +7,7 @@ post-image: <img src="/images/influenza.jpg" width="600" height="600" alt="sted"
 og-image: /images/facebook/influenza.jpg
 language: en
 post-id: 2014-12-30-influenza
-publish-status: published
+
 ---
 Exactly 17 years ago Hong Kong government ordered the entire population of 1.4 million chickens to be killed. The reason for their action was the spread of novel and potentially pandemic and deadly new type of bird flu, termed H5N1.  What is influenza and why we still cannot find effective treatment against it?
 <!-- more -->
