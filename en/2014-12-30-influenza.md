@@ -31,6 +31,7 @@ Why our immune system does not fight influenza effectively and why haven’t we 
 2.	Second mechanism is related to the exchange of two different parts of the viral genome between two viral types if both infect the same organism. This mechanism is particularly dangerous because it can generate a new type that can be transmitted from human to human. Currently humans can catch bird flu mostly from other animals and rarely from other humans.
 
 Watch the video about influenza 
+
 <iframe width="640" height="360" src="http://www.youtube.com/embed/7Omi0IPkNpY?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
