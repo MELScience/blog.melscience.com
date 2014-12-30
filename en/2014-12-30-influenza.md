@@ -7,6 +7,7 @@ post-image: <img src="/images/influenza.jpg" width="600" height="600" alt="sted"
 og-image: /images/facebook/influenza.jpg
 language: en
 post-id: 2014-12-30-influenza
+publish-status: published
 
 ---
 Exactly 17 years ago Hong Kong government ordered the entire population of 1.4 million chickens to be killed. The reason for their action was the spread of novel and potentially pandemic and deadly new type of bird flu, termed H5N1.  What is influenza and why we still cannot find effective treatment against it?
@@ -29,10 +30,11 @@ Why our immune system does not fight influenza effectively and why haven’t we 
 1.	Single nucleotide changes frequently occur when the virus’s genome replicates inside the host cells. 
 2.	Second mechanism is related to the exchange of two different parts of the viral genome between two viral types if both infect the same organism. This mechanism is particularly dangerous because it can generate a new type that can be transmitted from human to human. Currently humans can catch bird flu mostly from other animals and rarely from other humans.
 
-
+Watch video about influenza 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/7Omi0IPkNpY?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
+## Figth the flu
 This may sound spooky but we should not worry too much. Virologists and immunologists are working on the problem of increasing the effectiveness of the flu vaccines. How can this be achieved? While some parts of the virus genome are highly variable, others are more conserved. Typically they encode functionally important parts of the viral proteins that are required for the virus to enter the host cells and being released. These parts of the proteins can be used as a basis for immunisation. Another way to fight the viral variability is to use mathematical modelling to PREDICT the evolution of the virus and generate vaccines against types that have not appeared yet but will likely appear in the nearest future. This may sound surprising but recent progress in DNA sequencing methods and bioinformatics made this strategy feasible.
 
 
