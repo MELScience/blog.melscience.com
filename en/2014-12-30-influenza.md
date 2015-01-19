@@ -23,7 +23,7 @@ There are three types of Influenza: A, B and C. While B and C are annoying but n
 
 You have probably heard the term “H5N1” but do you know what does this actually mean? Influenza A virus is a complex of proteins, lipids and nucleic acid. This complex consists of a capsule containing proteins helping the virus to enter to and release from the host cell and the genetic material kept inside:
 
-<img src="/images/hemagglutinin.jpg" width="600" height="536" alt="virus">
+<img src="/images/flu.jpg" width="600" height="358" alt="virus">
 
 In case of Influenza viruses, the genetic material is stored in form of RNA, rather than DNA, more common for other species.
 
