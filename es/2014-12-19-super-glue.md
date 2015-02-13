@@ -59,9 +59,6 @@ Colocamos todo dentro de nuestra caja, la cerramos y esperamos 15 minutos. El s�
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/l9Ovq4lq-9M?rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
-```
-WARNING! Superglue sticks to your fingers and is difficult to remove. Be careful!
-```
 
 ```
 ¡ATENCIÓN! ¡El súper pegamento se pega a tus dedos y es muy difícil de quitar! ¡Ten cuidado!
@@ -113,7 +110,7 @@ Y ahora empecemos con el experimento. Es posible usar el súper pegamento para d
 * un cristal con agua caliente (para aumentar la humedad del aire)
 * una base con súper pegamento (puedes hacer una con papel de aluminio)
 
-Colocamos todo dentro de nuestra caja, la cerramos y esperamos 15 minutos. El súper pegamento se evapora y los gases se condensan en las huellas dactilares. Al condensarse, polimeriza inmediatamente y empezamos a ver las huellas dactilares como una película blanca. Los piratas usan el súper pegamento <a href="http://www.youtube.com/watch?v=5wSuKXjk2x8"> para descubrir el código dactilar del iPhone 5S</a>.
+Colocamos todo dentro de nuestra caja, la cerramos y esperamos 15 minutos. El súper pegamento se evapora y los gases se condensan en las huellas dactilares. Al condensarse, polimeriza inmediatamente y empezamos a ver las huellas dactilares como una película blanca. Los piratas usan el súper pegamento <a href="http://www.youtube.com/watch?v=5wSuKXjk2x8"> para descubrir el código dactilar del iPhone 5S </a>.
 
 
 <video>
