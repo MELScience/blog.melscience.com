@@ -34,7 +34,7 @@ The moment he saw it, he knew it was a revolution or a profitable business at th
 After learning about the discovery, however, Hofmann famously shrugged his disapproving “Purple sludge!” and turned away. That did not stop stubborn Perkin from moving forward and building a successful enterprise that brought him fame and lots of money, and the world — fashionable and affordable purple fabrics. He called the dye aniline purple, or mauveine
 
 
-<img src="/images/queen3.jpg" width="600" height="748" alt="queen3">
+<img src="/images/queen3.png" width="600" height="748" alt="queen3">
 
 <a href="http://commons.wikimedia.org/wiki/File:Purpur-mit-Ausfaerbung.png">Image </a> by Boonekamp. 
 
@@ -42,7 +42,7 @@ After learning about the discovery, however, Hofmann famously shrugged his disap
 
 Same reason why carrots are orange and tomatoes are red. The origin of the color is in the structure — or in the bonds and electrons, to be precise.
 
-<img src="/images/queen4.jpg" width="600" height="380" alt="queen4">
+<img src="/images/queen4.png" width="600" height="380" alt="queen4">
 
 <a href="http://upload.wikimedia.org/wikipedia/commons/b/b0/Mauveine-A-3D-balls.png">Image </a> by Benjah-bmm27. 
 
