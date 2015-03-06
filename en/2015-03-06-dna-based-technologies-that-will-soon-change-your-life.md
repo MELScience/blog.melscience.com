@@ -10,7 +10,7 @@ post-id: 2015-03-06
 publish-status: published
 
 ---
-“Tomorrow will mark 62 years since the day Watson and Crick built the model of DNA, shortly following the announcement that they had solved “the secret of life”. What if the structure of DNA was never discovered? Would the world be any different? What did the discovery lead to? And now, after years of scientific revolution fueled by it, are there more DNA-based technologies to come?
+Tomorrow will mark 62 years since the day Watson and Crick built the model of DNA, shortly following the announcement that they had solved “the secret of life”. What if the structure of DNA was never discovered? Would the world be any different? What did the discovery lead to? And now, after years of scientific revolution fueled by it, are there more DNA-based technologies to come?
 <!-- more -->
 
 ---
