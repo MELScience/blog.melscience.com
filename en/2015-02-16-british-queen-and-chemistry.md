@@ -49,6 +49,7 @@ Same reason why carrots are orange and tomatoes are red. The origin of the color
 
 See the dash lines in the molecule of mauveine? This is what chemists use to indicate the promiscuous electrons that spread over a number of adjacent atoms. The bonds, over which the electrons are spread, are called conjugated. And the more there are, the more freely the electrons can move. As a result, it takes less effort to excite them and they can absorb low-energy light. Mauveine looks purple because his promiscuous electrons absorb the yellow-green portion of the visible light. The reflected red and blue, when processed by our eyes and brain, become color-coded as purple. You can learn more about light and color in this video:
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UZ5UGnU7oOI" frameborder="0" allowfullscreen></iframe>
 
 <br>
