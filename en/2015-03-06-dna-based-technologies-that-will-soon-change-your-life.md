@@ -27,7 +27,7 @@ We’d live in a pretty lame world, if that were the case. Even if we still land
 
 <a href="https://www.flickr.com/photos/x-ray_delta_one/4083171263/sizes/l">Photo </a> by x-ray delta one. 
 
-##What are antimony and copper added for?
+##What did the discovery lead to?
 
 To many things that were previously deemed impossible. Scientists have cracked human genome, understood the passage of inherited traits, found cure for many genetic disorders, and learned to prevent them. They’ve explained how proteins came forth, developed antibiotics and antivirals, and tracked down our geographic origins. They’ve improved crops to better feed the world, advanced forensic and parenting analyses, and even put the British Royals in a very uncomfortable situation questioning their noble origins. Missed the story? Read about it here and watch this video to catch up:
 
@@ -58,7 +58,7 @@ With an eye on the nearest future, Global Alliance for Genomics and Health, Pers
 
 ## DNA-based data storage
 
-We live in the age of Big Data, which is hard to appreciate unless we look at the numbers. By 2012, we’ve generated 2.7 Zettabytes of digital information (2,700,000,000,000 Gb), 90% of which — over the course of just 2 years. Crazy, huh? Not really, if you compare it with the projected speed of 35 Zb per year starting 2020. 
+We live in the age of Big Data, which is hard to appreciate unless we look at the numbers. According to IMB, by 2012, we’ve generated 2.7 Zettabytes of digital information (2,700,000,000,000 Gb), 90% of which — over the course of just 2 years. Crazy, huh? Not really, if you compare it with the projected speed of 35 Zb per year starting 2020. 
 
 
 
@@ -74,7 +74,7 @@ Image by Armen Ilikchyan
 
 To store so much data we need a high capacity storage. And DNA can be the one. The first person to suggest that was a Soviet physicist Mikhail Neiman, back in the late 1960s. But it wasn’t until 2012, when <a href="http://wyss.harvard.edu/viewpressrelease/93/">Harvard scientists successfully encoded 700Tb of data in a gram of DNA.  </a>. Another group then quickly topped their success by <a href="http://www.nature.com/news/synthetic-double-helix-faithfully-stores-shakespeare-s-sonnets-1.12279">encoding  154 of Shakespeare’s sonnets on small DNA segments. </a>.  And last month, Swiss researchers have claimed to have a way of <a href="https://www.ethz.ch/en/news-and-events/eth-news/news/2015/02/data-storage-for-eternity.html">preserving all the world’s data for nearly eternity in just 4 g of fossilized DNA </a> . What about data retrieval? They also say they can do it error-free.
 
-Deoxyribonucleic acid is a full name of the mighty molecule. Watson and Crick have rightly called the “secret of life”. Enjoy watching the video and appreciate its beauty and might:
+Deoxyribonucleic acid is a full name of the mighty molecule. Watson and Crick have rightly called it the “secret of life”. Enjoy watching the video and appreciate its beauty and might:
 
 <iframe src="https://player.vimeo.com/video/60747882?color=ffcd1e&title=0&byline=0" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/60747882">BBC Knowledge Explainer DNA</a> from <a href="https://vimeo.com/territorystudio">Territory</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
