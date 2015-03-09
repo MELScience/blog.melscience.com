@@ -10,7 +10,7 @@ post-id: 2015-02-26
 publish-status: published
 
 ---
-The winners of the 87th Academy Awards have been finally announced. Carefully crafted Oscar statuettes have been handled to the talented bunch that pleased movie critics the most and made the audience happy. Do you know what the Oscars are made of? How are they made? And, to stir imagination and bring some physics in, what if they were actually made of antimatter?
+The winners of the 87th Academy Awards have been finally announced. Carefully crafted Oscar statuettes have been handed out to the talented bunch that pleased movie critics the most and made the audience happy. Do you know what the Oscars are made of? How are they made? And, to stir imagination and bring some physics in, what if they were actually made of antimatter?
 <!-- more -->
 
 ---
