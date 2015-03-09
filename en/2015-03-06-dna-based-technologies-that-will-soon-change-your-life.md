@@ -58,7 +58,7 @@ With an eye on the nearest future, Global Alliance for Genomics and Health, Pers
 
 ## DNA-based data storage
 
-We live in the age of Big Data, which is hard to appreciate unless we look at the numbers. According to IMB, by 2012, we’ve generated 2.7 Zettabytes of digital information (2,700,000,000,000 Gb), 90% of which — over the course of just 2 years. Crazy, huh? Not really, if you compare it with the projected speed of 35 Zb per year starting 2020. 
+We live in the age of Big Data, which is hard to appreciate unless we look at the numbers. According to IMB, by 2012 we’ve generated 2.7 Zettabytes of digital information (2,700,000,000,000 Gb), 90% of which — over the course of just 2 years. Crazy, huh? Not really, if you compare it with the projected speed of 35 Zb per year starting 2020. 
 
 
 
