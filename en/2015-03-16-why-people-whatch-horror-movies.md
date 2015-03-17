@@ -2,7 +2,7 @@
 layout: blog-post
 title: Why people watch horror movies?
 type: blog-post
-author:  Zviagin Ievgen
+author: Ievgen Zviagin
 post-image: <img src="/images/fear1_1.jpg" width="600" height="480" alt="fear">
 og-image: /images/micr.jpg
 language: en
@@ -25,7 +25,7 @@ As you may know, fear is a natural reaction to anything external that might seem
 <img src="/images/fear2.jpg" width="600" height="509" alt="fear">
 
 ##Biochemistry of fear
-So, what happens, when you see, or hear, or sense otherwise the threat? The signal of the death possibility  goes into the special section of your brain, called amigdala. The amigdala injects into blood special compounds – neurotransmitters , which carry the electric signal between nerve cells, and that starts a whole cascade of reactions in your body
+So, what happens, when you see, or hear, or sense otherwise the threat? The signal of the death possibility  goes into the special section of your brain, called amigdala. The amigdala injects into blood special compounds – neurotransmitters , which carry the electric signal between nerve cells, and that starts a whole cascade of reactions in your body.
 
 <img src="/images/fear3.gif" width="600" height="600" alt="fear">
 
@@ -34,7 +34,7 @@ The signal from your brain goes to the adrenal glands, which produce an enormous
 
 <img src="/images/fear6.png" width="600" height="405" alt="fear">
 
-In the cinema you can actually feel only the first two of these possibilities: you can be frozen and you can flee from the scary things, just closing your eyes and ears. Do not fight in cinemas 
+In the cinema you can actually feel only the first two of these possibilities: you can be frozen and you can flee from the scary things, just closing your eyes and ears. Do not fight in cinemas! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e5jA2b9eEpE" frameborder="0" allowfullscreen></iframe>
 
