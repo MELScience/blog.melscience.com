@@ -44,6 +44,7 @@ There is a molecule, called dopamine, which can also be released in bigger amoun
 
 <img src="/images/fear7_2.png" width="600" height="559" alt="fear">
 
+red = oxygen , blue = nitrogen, black = carbon, grey = hydrogen
 
 <br/>
 
