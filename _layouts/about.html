@@ -1,0 +1,45 @@
+﻿{% include top.html %}
+    <title>{{ page.title }} - MEL Science Blog</title>
+
+<style>
+h2 {margin-top: 50px;}
+</style>
+  </head>
+
+  <body>
+{% include top-navigation.html %}
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+<br><br>
+  {{ content }}
+
+        </div><!-- /.blog-main -->
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>{{ loc.about }}</h4>
+            <p>{{ loc.about-text }}</p>
+          </div>
+
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>{{ loc.other-languages }}</h4>
+            <ul>
+{% assign other_language_posts = (site.pages | sort: 'language' | where: "post-id" , page.post-id | where: "type" , "blog-post") %}
+{% for post in other_language_posts %}
+{% assign post_localization_filename = "localization_" | append:post.language %}
+{% assign post_loc = site.data[post_localization_filename] %}
+{% assign en_loc = site.data["localization_en"] %}
+<li><a href="{{ post.url }}">{{ en_loc.language-name[post.language] }} ({{ post_loc.language-name[post.language] }})</a></li>
+{% endfor %}          
+            </ul>
+          </div>
+{% include follow-us.html %}
+        </div><!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+{% include bottom.html %}

@@ -9,6 +9,7 @@ post-id: 2014-11-18
 publish-status: published
 ---
 Estamos trabajando en un vídeo que explica el proceso de quemado del hidrógeno. El vídeo comienza con la explosión de una burbuja de hidrógeno y después profundiza hasta un nivel molecular, para ver las moléculas y los átomos separándose, y comprender así cómo se produce el proceso de quemado. Durante el rodaje del vídeo, filmamos gran cantidad de burbujas de hidrógeno explotando, usando una cámara de gran velocidad. ¡Aquí le presentamos una compilación de las mejores explosiones, esperamos que lo disfrute! Nada de ciencia, solo la pura belleza celestial del fuego :)
+<!-- more -->
 
 ---
 
