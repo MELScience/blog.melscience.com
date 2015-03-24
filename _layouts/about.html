@@ -28,12 +28,12 @@ h2 {margin-top: 50px;}
           <div class="sidebar-module sidebar-module-inset">
             <h4>{{ loc.other-languages }}</h4>
             <ul>
-{% assign other_language_posts = (site.pages | sort: 'language' | where: "post-id" , page.post-id | where: "type" , "blog-post") %}
-{% for post in other_language_posts %}
-{% assign post_localization_filename = "localization_" | append:post.language %}
-{% assign post_loc = site.data[post_localization_filename] %}
+{% assign other_language_abouts = (site.pages | sort: 'language' | where: "layout" , "about") %}
+{% for about in other_language_abouts %}
+{% assign about_localization_filename = "localization_" | append:about.language %}
+{% assign about_loc = site.data[about_localization_filename] %}
 {% assign en_loc = site.data["localization_en"] %}
-<li><a href="{{ post.url }}">{{ en_loc.language-name[post.language] }} ({{ post_loc.language-name[post.language] }})</a></li>
+<li><a href="{{ about.url }}">{{ en_loc.language-name[about.language] }} ({{ about_loc.language-name[about.language] }})</a></li>
 {% endfor %}          
             </ul>
           </div>
