@@ -9,7 +9,7 @@ language: de
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---
-Alle kennen die chemische Formel des Wassers: H<sub>2</sub>0. Die meisten können die Gleichung für die Reaktion, bei der Wasser entsteht, aufschreiben: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. 
+Alle kennen die chemische Formel des Wassers: H<sub>2</sub>O. Die meisten können die Gleichung für die Reaktion, bei der Wasser entsteht, aufschreiben: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. 
 Aber die wenigsten können erklären, wie diese Reaktion wirklich vor sich geht. Sehen Sie sich hier das Video an, das alles erklärt.
 
 <!-- more -->

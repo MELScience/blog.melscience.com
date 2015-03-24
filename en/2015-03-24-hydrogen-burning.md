@@ -9,7 +9,7 @@ language: en
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---
-We all know the chemical formula of water: H<sub>2</sub>0. And most of us will be able to write the equation of the chemical reaction that produces water: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. 
+We all know the chemical formula of water: H<sub>2</sub>O. And most of us will be able to write the equation of the chemical reaction that produces water: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. 
 But only a few people out of every million can explain how this reaction occurs in reality. Watch the video that explains everything.
 <!-- more -->
 

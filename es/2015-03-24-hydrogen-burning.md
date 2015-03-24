@@ -9,7 +9,7 @@ language: es
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---
-Todos conocemos la fórmula química del agua: H<sub>2</sub>0. La mayoría pueden escribir la ecuación de la reacción en la que se obtiene el agua: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O.
+Todos conocemos la fórmula química del agua: H<sub>2</sub>O. La mayoría pueden escribir la ecuación de la reacción en la que se obtiene el agua: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O.
 Pero solo unos pocos pueden explicar cómo se produce esta reacción en realidad. Vea el vídeo en el que se explica todo.
 
 <!-- more -->

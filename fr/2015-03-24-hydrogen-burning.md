@@ -9,7 +9,7 @@ language: fr
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---
-Nous connaissons tous la formule chimique de l’eau : H<sub>2</sub>0. La plupart d’entre nous sauront écrire l'équation de la réaction de formation de l'eau : 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. Mais seulement quelques personnes sur million sauront expliquer comment cette réaction se produit en réalité.  Voici une vidéo qui explique tout.
+Nous connaissons tous la formule chimique de l’eau : H<sub>2</sub>O. La plupart d’entre nous sauront écrire l'équation de la réaction de formation de l'eau : 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. Mais seulement quelques personnes sur million sauront expliquer comment cette réaction se produit en réalité.  Voici une vidéo qui explique tout.
 
 <!-- more -->
 

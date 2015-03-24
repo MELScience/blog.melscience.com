@@ -9,7 +9,7 @@ language: cn
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---
-所有人都知道水的化学式：H<sub>2</sub>0. 大多数人都能写出来得到水的化学方程式：2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O
+所有人都知道水的化学式：H<sub>2</sub>O. 大多数人都能写出来得到水的化学方程式：2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O
 但是只有极少数人能解释，实际上这个反应是怎么进行的。请看这个视频，其将解释一切。
 
 <!-- more -->

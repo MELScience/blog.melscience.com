@@ -9,7 +9,7 @@ language: jp
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---
-水の元素記号を知らない者はいないでしょう: H<sub>2</sub>0. また多くの者は水が生成される化学式を書けるでしょう: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. 
+水の元素記号を知らない者はいないでしょう: H<sub>2</sub>O. また多くの者は水が生成される化学式を書けるでしょう: 2H<sub>2</sub> + O<sub>2</sub> = 2H<sub>2</sub>O. 
 しかしこの化学反応の過程を説明できる者は果たして何百万分の1いるのでしょうか。すべてを説明する動画を ご覧ください。
 <!-- more -->
 
