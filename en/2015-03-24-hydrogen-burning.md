@@ -4,7 +4,7 @@ title: Secrets of Hydrogen Combustion
 type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/hydrogen-burning.jpg" width="600" height="369" alt="Hydrogen Combustion">
-og-image: /images/images/hydrogen-burning.jpg
+og-image: /images/facebook/hydrogen-burning.jpg
 language: en
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
