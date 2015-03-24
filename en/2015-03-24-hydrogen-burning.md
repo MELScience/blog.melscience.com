@@ -63,7 +63,7 @@ Now we will keep our promise and explain to you how hydrogen actually burns. In 
 
 <a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
 
-<img src="/images/hydrogen-burning.jpg" width="2" height="2" alt="">
+<img src="/images/facebook/hydrogen-burning.jpg" width="2" height="2" alt="">
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
