@@ -8,22 +8,18 @@ og-image: /images/facebook/weekly-box-photo.jpg
 language: en
 post-id: 2015-04-13-chemistry-set
 ---
-We are finally ready to tell what our first product will look like. It will be a chemistry experimental set but not as traditional chemistry sets. Read what three problems we see in the existing chemistry sets and how we will fix them in our set. You can also subscribe to be notified when the product is released. 
+We are finally ready to tell what our first product will look like. It will be a chemistry experimental set you can use at home but not a traditional chemistry set. Read what three problems we see in the existing chemistry sets and how we will fix them in our set. You can also subscribe to be notified when the product is released. 
 <!-- more -->
 
 ---
 
 ## Why chemistry
 
-Chemistry is fun. Chemistry is visual. You can touch it, you can see it, you can smell it. And there is a lot of science in chemistry. If you dig dipper it could be a good introduction to many physics topics like quantum physics, optics, thermodynamics, and many others. 
-
-I do not believe chemistry is the most important science and every child should try to be a chemist. But I believe everyone will benefit from understanding how matter is built and how it works. 
-
-It makes chemistry a perfect subject for children to start with science.
+Chemistry is fun. Chemistry is visual. You can touch it, you can see it, you can smell it. And there is a lot of science in chemistry. If you dig dipper it could be a good introduction to many physics topics like quantum physics, optics, thermodynamics, and many others. It makes chemistry a perfect subject for children to start with science.
 
 ## Three problems of the existing chemistry sets
 
-The existing chemistry sets have three problems:
+We dream about a product that will be interesting for children and will explain science in a good way. The existing chemistry sets have three problems:
 
 1. You buy it in a store, use once, and then store on a shelf for the next decade
 2. They are games: they are fun but do not teach much; children do not understand science behind the experiments
@@ -51,7 +47,7 @@ Each weekly experimental set costs just $10 and this price includes shipment.
 
 MEL Chemistry is not ready yet. However, it will be ready soon. You can leave a preorder request and we will contact you as soon as it is ready.
 
-<iframe src="https://docs.google.com/forms/d/1AryJEQ5og55c5f97LT2iH57AytvtjhbYZqsn6K7duOg/viewform?embedded=true" width="600" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1AryJEQ5og55c5f97LT2iH57AytvtjhbYZqsn6K7duOg/viewform?embedded=true" width="600" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
 
