@@ -7,48 +7,49 @@ post-image: <img src="/images/weekly-box-photo.jpg" width="600" height="459" alt
 og-image: /images/facebook/weekly-box-photo.jpg
 language: en
 post-id: 2015-04-14-chemistry-set
+publish-status: published
 ---
-We are finally ready to describe what our first product will look like. It will be a chemistry experimental set that you can use at home but it is not a traditional chemistry set. Read what three problems we see in the existing chemistry sets and how we will fix them in our set. You can also subscribe in order to be notified when the product is released. 
+We are finally ready to reveal our first product: a chemistry set that you can use at home! However, this is not a traditional chemistry set. We’ve identified the three main problems we see in existing chemistry sets and have fixed them in our new, innovative offering. You can also sign up to be notified when the product is released.
 
 <!-- more -->
 
 ---
 
-## Why chemistry
+## Why chemistry?
 
 Chemistry is one of the most important science. Everything around us is made frome chemical substances. Chemistry is inside every living cell as well as inside computers, automobiles and clothes.
 
-Chemistry is fun. Chemistry is visual. You can touch it, you can see it, you can smell it. It makes chemistry a perfect subject for children to start with science.
+And chemistry is fun. Chemistry is visual. You can touch it, see it, and smell it. There is a lot of cool science based on chemistry. If you dig deeper into this exciting world, it could be a great introduction to many other topics, including quantum physics, optics, thermodynamics, and many more. In other words, chemistry is a perfect place for children to start their lifelong journey with science.
 
-## Three problems of the existing chemistry sets
+## Three problems with existing chemistry sets
 
-We dream about a product that will be interesting for children and will explain science in a good way. The existing chemistry sets have three problems:
+We all want to find a product that will be interesting for children and also explain science in a clear, enjoyable way. Unfortunately, existing chemistry sets have three main problems:
 
-1. You buy it in a store, use once, and then store on a shelf for the next decade
-2. They are toys: they are fun but do not teach much; children do not understand science behind the experiments
-3. They are very old-school: they are not interactive, there is no way to check your progress, they do not motivate much 
+1.	You buy the set in a store, use it once, and then store it on a shelf for the next decade
+2.	They are basically toys: the “experiments” are fun, but fail to teach much. Children are not guided well to understand the science behind the experiments
+3.	The sets are “old-school”: they are not interactive, there is no way to check your progress or retention, and they are not motivating or particularly engaging
 
-## What we are doing
+## What we are doing instead!
 
-What we do is not a "big box" but a subscription service. By subscribing to MEL Chemistry, you will receive a new chemistry set every week by post. Each weekly chemistry set contains 1-3 interesting experiments that your children can do on the weekend. A typical weekly box content looks like that:
+What we offer is not a “big box,” but a subscription service! By subscribing to MEL Chemistry, you will receive a new chemistry set every week by mail. Each weekly chemistry set contains 1-3 interesting experiments that your children can do on the weekends. A typical weekly box will look something like this:
 
 <img src="/images/weekly-box-photo.jpg" width="600" height="459" alt="Weekly box content">
 
-I don’t know about you, but we are personally concerned about the educational progress of our children. They often spend more time on computer games than science and math, so we are trying to do everything we can to make science as interesting and appealing as possible.
+I don’t know about you, but we’re quite concerned about the educational progress of our children. They often spend more time playing computer games than studying science and math, so we are trying to do everything we can to make science as interesting and appealing as possible.
 
-Many people are afraid of chemistry, particularly what certain reactions can cause, but we have done everything possible to make our experiments extremely safe. There will be no explosions and no harmful substances of any kind. We initially thought that this overly careful approach would limit us too much, but in fact, we have found and designed hundreds of really cool experiments that are completely safe.
+Many people are afraid of chemistry, particularly what certain reactions can cause, but we have ensured that our experiments are extremely safe. There will be no explosions or harmful substances of any kind as a result of our experiments. We initially thought that such a careful approach would limit us, but in fact, we have developed and designed hundreds of unique and exciting experiments that are completely safe for our users.
 
 However, we don’t just create interesting experiments; we also make sure that you thoroughly understand what happens in each experiment. We reveal how nature is structured from the inside out, opening up a world of curiosity and wonderment for your child.
 
-Your child will not only be receiving a chemistry set. We are also developing a mobile app that shows the structural formula and 3D models of molecules and effectively explains how the reaction occurs on a visual and accessible scale. What we do is essentially provide you with a virtual microscope that lets you use your smartphone or tablet to look inside physical matter and understand another fascinating side to the world all around us. From my point of view it is the biggest thing, a way to understand real science behind the chemical tricks.
+Your child will not only be receiving a chemistry set. We are also developing a mobile app showing structural formulas and 3D models of molecules that effectively explains how reactions occur on a visual and accessible scale. What we do is essentially provide you with a virtual microscope that lets you use your smartphone or tablet to look inside physical matter and understand another fascinating side to the world around us. In my opinion, this is the most important part of our system; it provides a way to understand the real science behind the chemical tricks.
 
 ## Price
 
-Each weekly experimental set costs just $10 and this price includes shipment.
+Each weekly experimental set only costs $10. This price includes shipping.
 
-## How to subscribe
+## How do I subscribe?
 
-MEL Chemistry is not ready yet. However, it will be ready soon. You can leave a preorder request and we will contact you as soon as it is ready.
+MEL Chemistry is not ready just yet. However, it will be ready very soon. You can send in a preorder request and we will contact you as soon as our first set is ready to be released!
 
 <iframe src="https://docs.google.com/forms/d/1AryJEQ5og55c5f97LT2iH57AytvtjhbYZqsn6K7duOg/viewform?embedded=true" width="600" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 

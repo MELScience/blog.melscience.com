@@ -85,7 +85,7 @@ Existe un método similar para revelar huellas dactilares usando yodo. Ten en cu
 
 <br/>
 
-<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a> not to miss our next video explaining hydrogen burning process!
+<a href="https://twitter.com/MelScienceES">Suscríbase a nuestro Twitter</a>. ¡No se pierda nuestro próximo vídeo dónde explicamos el proceso de quemado del hidrógeno!
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/MelScienceES" class="twitter-follow-button" data-show-count="false" data-lang="es" data-size="large">Seguir a @MelScienceES</a>
