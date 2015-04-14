@@ -6,23 +6,26 @@ author: Vassili Philippov
 post-image: <img src="/images/weekly-box-photo.jpg" width="600" height="459" alt="Weekly box content">
 og-image: /images/facebook/weekly-box-photo.jpg
 language: en
-post-id: 2015-04-13-chemistry-set
+post-id: 2015-04-14-chemistry-set
 ---
-We are finally ready to tell what our first product will look like. It will be a chemistry experimental set you can use at home but not a traditional chemistry set. Read what three problems we see in the existing chemistry sets and how we will fix them in our set. You can also subscribe to be notified when the product is released. 
+We are finally ready to describe what our first product will look like. It will be a chemistry experimental set that you can use at home but it is not a traditional chemistry set. Read what three problems we see in the existing chemistry sets and how we will fix them in our set. You can also subscribe in order to be notified when the product is released. 
+
 <!-- more -->
 
 ---
 
 ## Why chemistry
 
-Chemistry is fun. Chemistry is visual. You can touch it, you can see it, you can smell it. And there is a lot of science in chemistry. If you dig dipper it could be a good introduction to many physics topics like quantum physics, optics, thermodynamics, and many others. It makes chemistry a perfect subject for children to start with science.
+Chemistry is one of the most important science. Everything around us is made frome chemical substances. Chemistry is inside every living cell as well as inside computers, automobiles and clothes.
+
+Chemistry is fun. Chemistry is visual. You can touch it, you can see it, you can smell it. It makes chemistry a perfect subject for children to start with science.
 
 ## Three problems of the existing chemistry sets
 
 We dream about a product that will be interesting for children and will explain science in a good way. The existing chemistry sets have three problems:
 
 1. You buy it in a store, use once, and then store on a shelf for the next decade
-2. They are games: they are fun but do not teach much; children do not understand science behind the experiments
+2. They are toys: they are fun but do not teach much; children do not understand science behind the experiments
 3. They are very old-school: they are not interactive, there is no way to check your progress, they do not motivate much 
 
 ## What we are doing
