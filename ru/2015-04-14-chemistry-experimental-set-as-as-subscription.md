@@ -49,7 +49,7 @@ publish-status: published
 
 Набор MEL Chemistry пока еще не готов, но будет готов очень скоро. Вы можете оставить заявку на предзаказ, и мы свяжемся с вами, как только будем готовы отправить вам с курьером первую коробку.
 
-<iframe src="https://docs.google.com/forms/d/1jP-gM0dxyKZzf04Iwgzc6pciQyLxjTecM_xECM15aTE/viewform?embedded=true" width="600" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1jP-gM0dxyKZzf04Iwgzc6pciQyLxjTecM_xECM15aTE/viewform?embedded=true" width="600" height="820" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <a href="https://twitter.com/MelScienceRU">Подписывайтесь на наш Твиттер</a>.
 
