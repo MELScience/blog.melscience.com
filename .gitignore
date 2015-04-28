@@ -1,1 +1,12 @@
+.idea
+
 _site
+
+# Node componenets
+node_modules/
+bower_components/
+
+# Static assets
+_staticfiles/css/
+_staticfiles/js/
+static/

@@ -1,0 +1,64 @@
+{
+  "name": "mel",
+  "version": "0.0.1",
+  "authors": [
+    "Serge Pavlyuk <flopss@gmail.com>",
+    "Max Smirnoff <smirnoffmg@gmail.com>"
+  ],
+  "main": "staticfiles/js/app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "build",
+    "public"
+  ],
+  "dependencies": {
+    "almond": "~0.3.1",
+    "jquery": "~1.11.*",
+    "bootstrap-sass": "^3.3.2",
+    "font-awesome": "^4.3.0",
+    "requirejs": "^2.1.15",
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2"
+  },
+  "overrides": {
+    ":root": "_staticfiles/",
+    "js": {
+      "almond": {
+        "filter": "almond.js"
+      },
+      "jquery": {
+        "filter": "dist/jquery.js",
+        "mask": "vendor/{file_name}"
+      },
+      "bootstrap-sass": {
+        "filter": "assets/javascripts/bootstrap/**/*.js",
+        "mask": "vendor/bootstrap/{relative_path}",
+        "relative": "assets/javascripts/bootstrap/"
+      },
+      "requirejs": {
+        "filter": "require.js"
+      },
+      "html5shiv": {
+        "filter": "dist/html5shiv.js",
+        "mask": "vendor/html5shiv.js"
+      },
+      "respond": {
+        "filter": "dest/respond.src.js",
+        "mask": "vendor/respond.js"
+      }
+    },
+    "fonts": {
+      "font-awesome": {
+        "filter": "fonts/*.{otf,oet,svg,ttf,woff,woff2}",
+        "mask": "{package_name}/{file_name}"
+      }
+    }
+  }
+}
