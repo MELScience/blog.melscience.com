@@ -1,0 +1,193 @@
+//* Fonts
+@import "fonts";
+
+//* Variables
+
+// Scaffolding
+$gray-dark: #353535;
+$link-color: #364ce7;
+
+// Typography
+$font-family-fallback: "Geometria", MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+$font-family-sans-serif: "Brown", MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
+$font-family-serif: $font-family-sans-serif;
+
+$line-height-base: 1.428571429;
+
+$font-size-base: 15px;
+$font-size-large: 21px;
+
+$font-size-h2: 34px;
+$font-size-h3: 21px;
+$font-size-h4: 17px;
+
+$headings-font-weight: 700;
+
+$line-height-computed: floor(($font-size-base * $line-height-base));
+
+// Components
+$padding-large-vertical:    16px;
+$padding-large-horizontal:  55px;
+
+$border-radius-large: 40px;
+
+// Buttons
+$btn-default-bg: #f3f3f3;
+$btn-info-bg: #364ce7;
+$btn-default-border: #595959;
+$btn-warning-bg: #ee482a;
+
+  // Navbar
+$navbar-height: 59px;
+$navbar-collapse-max-height: 600px;
+
+$navbar-default-bg: #f3f3f3;
+$navbar-default-border: $navbar-default-bg;
+
+$navbar-default-link-color: #666;
+
+$navbar-font-weight: 300;
+
+// Grid system
+$grid-gutter-width: 30px;
+
+// Container sizes
+$container-default-size: 930px;
+$container-desktop: ($container-default-size + $grid-gutter-width);
+$container-large-desktop: ($container-default-size + $grid-gutter-width);
+
+// Forms
+$input-border-focus: #5228f2;
+$input-color-placeholder: #cbcbcb;
+
+
+// Header
+$navbar-liquid-link-color: #fff;
+$navbar-liquid-link-hover-color: darken($navbar-liquid-link-color, 15%);
+$navbar-liquid-link-hover-bg: transparent;
+$navbar-liquid-link-active-color: darken($navbar-liquid-link-color, 25%);
+$navbar-liquid-link-active-bg:  transparent;
+
+// Footer
+$footer-height: 86px;
+
+$footer-nav-bg: #333;
+$footer-nav-height: 60px;
+$footer-nav-padding-horizontal: floor(($grid-gutter-width / 2));
+$footer-nav-padding-vertical: (($footer-nav-height - $line-height-computed) / 2);
+
+$footer-copy-height: $footer-height - $footer-nav-height;
+$footer-copy-vertical: (($footer-copy-height - $line-height-computed) / 2);
+
+$footer-default-color: #989898;
+
+$footer-default-link-color: #7f7f7f;
+$footer-default-link-color-hover: lighten($footer-default-link-color, 20%);
+
+$footer-font-weight: 300;
+
+// Intro block
+$intro-height: 610px;
+$intro-logo-height: 167px;
+$intro-logo-width: 582px;
+$intro-text-offset: 210px;
+
+// Boxes block
+$boxes-padding-top: 60px;
+$boxes-padding-bottom: 90px;
+
+$boxes-bg: #f3f3f3;
+$boxes-head-color: #343434;
+
+$boxes-figure-height: 605px;
+$boxes-figure-width: 672px;
+
+// How block
+$how-padding-vertical: 30px;
+
+
+
+//* Bootstrap
+// Core variables and mixins
+@import "bootstrap-sass/assets/stylesheets/bootstrap/variables";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/mixins";
+
+// Reset and dependencies
+@import "bootstrap-sass/assets/stylesheets/bootstrap/normalize";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/print";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/glyphicons";
+
+// Core CSS
+@import "bootstrap-sass/assets/stylesheets/bootstrap/scaffolding";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/type";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/code";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/grid";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/tables";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/forms";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/buttons";
+
+// Components
+@import "bootstrap-sass/assets/stylesheets/bootstrap/component-animations";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/dropdowns";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/button-groups";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/input-groups";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/navs";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/navbar";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/breadcrumbs";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/pagination";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/pager";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/labels";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/badges";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/jumbotron";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/thumbnails";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/alerts";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/progress-bars";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/media";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/list-group";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/panels";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/responsive-embed";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/wells";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/close";
+
+// Components w/ JavaScript
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/modals";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/tooltip";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/popovers";
+//@import "bootstrap-sass/assets/stylesheets/bootstrap/carousel";
+
+// Utility classes
+@import "bootstrap-sass/assets/stylesheets/bootstrap/utilities";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/responsive-utilities";
+
+//* Font Awesome
+$fa-font-path: '../fonts/font-awesome';
+@import "font-awesome/scss/variables";
+@import "font-awesome/scss/mixins";
+@import "font-awesome/scss/path";
+@import "font-awesome/scss/core";
+//@import "font-awesome/scss/larger";
+@import "font-awesome/scss/fixed-width";
+//@import "font-awesome/scss/list";
+//@import "font-awesome/scss/bordered-pulled";
+//@import "font-awesome/scss/animated";
+//@import "font-awesome/scss/rotated-flipped";
+//@import "font-awesome/scss/stacked";
+//@import "font-awesome/scss/icons";
+//* Only needed icons
+.#{$fa-css-prefix}-arrow-right:before { content: $fa-var-arrow-right; }
+.#{$fa-css-prefix}-arrow-left:before { content: $fa-var-arrow-left; }
+.#{$fa-css-prefix}-star:before { content: $fa-var-star; }
+.#{$fa-css-prefix}-star-o:before { content: $fa-var-star-o; }
+.#{$fa-css-prefix}-lock:before { content: $fa-var-lock; }
+
+
+//* Project imports
+// Utility
+@import "mixins";
+@import "fixes";
+
+// Base styles
+@import "typography";
+@import "base";
+@import "header";
+@import "blocks";
