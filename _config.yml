@@ -1,11 +1,2 @@
 markdown: kramdown
 encoding: utf-8
-
-exclude:
-- node_modules
-- bower_components
-- gulpfile.js
-- bower.json
-- package.json
-
-encoding: utf-8
