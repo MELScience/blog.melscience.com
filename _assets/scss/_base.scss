@@ -1,0 +1,79 @@
+//* Terms modal
+.ajax-spinner {
+  min-height: 64px;
+  min-width: 32px;
+  height: 100%;
+  width: 100%;
+  background: center center  url("../img/ajax-loader.gif") no-repeat;
+}
+
+//* Main styles for body
+body, html {
+  height: 100%;
+}
+body {
+  overflow-y: scroll;
+}
+.content {
+  position: relative;
+  z-index: 1;
+  min-height: 100%;
+
+  @media (max-width: $screen-xs-max) {
+    min-height: 0;
+  }
+
+  &:after {
+    display: block;
+    content: "";
+    height: $footer-height;
+
+    @media (max-width: $screen-xs-max) {
+      display: none;
+    }
+  }
+}
+
+//* Footer
+footer {
+  position: relative;
+  z-index: 2;
+  min-height: $footer-height;
+  margin-top: -$footer-height;
+
+  @media (max-width: $screen-xs-max) {
+    margin-top: 0;
+  }
+}
+.footer-copyright {
+  min-height: $footer-copy-height;
+  padding: $footer-copy-vertical 0;
+  color: $footer-default-color;
+  font-weight: $footer-font-weight;
+  text-align: center;
+
+  p {
+    margin-bottom: 0;
+    margin-left: -15px;
+  }
+}
+.footer-menu {
+  min-height: $footer-nav-height;
+  text-align: center;
+  background-color: $footer-nav-bg;
+  font-weight: $footer-font-weight;
+  margin: 0;
+  padding: 0;
+
+  > li {
+    > a {
+      color: $footer-default-link-color;
+      display: inline-block;
+      padding: $footer-nav-padding-vertical $footer-nav-padding-horizontal;
+
+      &:hover {
+        color: $footer-default-link-color-hover;
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+//* Buttons
+
+.btn-default {
+  @include button-shadow($btn-default-border);
+}
+.btn-primary {
+  @include button-shadow($btn-primary-border);
+}
+// Success appears as green
+.btn-success {
+  @include button-shadow($btn-success-border);
+}
+// Info appears as blue-green
+.btn-info {
+  @include button-shadow($btn-info-border);
+}
+// Warning appears as orange
+.btn-warning {
+  @include button-shadow($btn-warning-border);
+}
+// Danger and error appear as red
+.btn-danger {
+  @include button-shadow($btn-danger-border);
+}
