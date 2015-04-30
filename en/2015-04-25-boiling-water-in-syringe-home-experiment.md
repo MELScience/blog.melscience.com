@@ -47,7 +47,7 @@ In fact, this way we can get a very low pressure, hundreds of times lower than t
 
 So, why exactly does warm water boil when the pressure decreases? To answer this question, it is reasonable to ask why water boils in general in the first place?
 
-Water evaporates at all temperatures. Among the trillions of water molecules present, there are always some that are faster at evaporation. The speed of these molecules is enough to overcome the attraction of other molecules, and fly away in the form of steam just as they approach the surface. We should note that the fastest molecules fly in the form of steam; so, the average speed of the rest of the molecules decreases. Generally, we say that water gets colder when it is evaporating. For example, if all the best pupils of a class were shifted to another school suddenly, the average class level is bound to decrease a little.
+Water evaporates at all temperatures. Among the trillions of water molecules present, there are always some that are faster. The speed of these molecules is enough to overcome the attraction of other molecules, and fly away in the form of steam just as they approach the surface. We should note that the fastest molecules fly in the form of steam; so, the average speed of the rest of the molecules decreases. Generally, we say that water gets colder when it is evaporating. For example, if all the best pupils of a class were shifted to another school suddenly, the average class level is bound to decrease a little.
 
 Higher the water temperature, faster the molecules fly on average. Greater the percentage of molecules that has sufficient speed to break and fly away while approaching the surface, faster the water evaporates.
 
