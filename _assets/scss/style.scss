@@ -5,7 +5,7 @@
 
 // Scaffolding
 $gray-dark: #353535;
-$link-color: #364ce7;
+$link-color: #2196f3;
 
 // Typography
 $font-family-fallback: "Geometria", MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', Helvetica, Arial, sans-serif;
@@ -133,7 +133,7 @@ $how-padding-vertical: 30px;
 //@import "bootstrap-sass/assets/stylesheets/bootstrap/input-groups";
 @import "bootstrap-sass/assets/stylesheets/bootstrap/navs";
 @import "bootstrap-sass/assets/stylesheets/bootstrap/navbar";
-//@import "bootstrap-sass/assets/stylesheets/bootstrap/breadcrumbs";
+@import "bootstrap-sass/assets/stylesheets/bootstrap/breadcrumbs";
 //@import "bootstrap-sass/assets/stylesheets/bootstrap/pagination";
 //@import "bootstrap-sass/assets/stylesheets/bootstrap/pager";
 @import "bootstrap-sass/assets/stylesheets/bootstrap/labels";

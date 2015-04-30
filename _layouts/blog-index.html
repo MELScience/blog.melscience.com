@@ -66,22 +66,18 @@
                     <li class="active"><span>{{ loc.blog }}</span></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    {% if page.layout == "about" %}
-                    <li class="active"><span>{{ loc.about }}</span></li>
-                    {% else %}
-                    <li><a href="/{{ page.language }}/about.html">{{ loc.about }}</a></li>
-                    {% endif %}
+                    <li><a href="http://melscience.com/about/">{{ loc.about }}</a></li>
                     <li data-toggle="nav" data-target="#user-lang" class="user-dropdown-toggle">
                         <a href="#" onclick="return false;">{{ page.language }}<span class="fa"></span></a>
 
                         <div class="user-dropdown user-dropdown-lang slide" id="user-lang">
                             <ul class="nav">
-                                {% assign other_language_abouts = (site.pages | sort: 'language' | where: "layout" , "about") %}
-                                {% for about in other_language_abouts %}
-                                {% assign about_localization_filename = "localization_" | append:about.language %}
-                                {% assign about_loc = site.data[about_localization_filename] %}
+                                {% assign other_language_posts = (site.pages | sort: 'language' | where: "type" , "blog-index") %}
+                                {% for post in other_language_posts %}
+                                {% assign post_localization_filename = "localization_" | append:post.language %}
+                                {% assign post_loc = site.data[post_localization_filename] %}
                                 {% assign en_loc = site.data["localization_en"] %}
-                                <li><a href="{{ about.url }}">{{ en_loc.language-name[about.language] }}</a></li>
+                                <li><a href="/{{ post.language }}/">{{ en_loc.language-name[post.language] }}</a></li>
                                 {% endfor %}
                             </ul>
                         </div>
@@ -144,4 +140,8 @@
         <p>&copy; MEL Science 2015</p>
     </div>
 </footer>
+<div style="position: absolute; left: -1000px; top: -100px;">
 {% include bottom.html %}
+</div>
+</body>
+</html>

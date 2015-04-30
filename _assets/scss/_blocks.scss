@@ -2,14 +2,6 @@
   margin-bottom: 40px;
 }
 
-.blog-post {
-  a, p {
-    p, a {
-      color: $gray-dark;
-      text-decoration: none;
-    }
-  }
-}
 /*
  * Masthead for nav
  */
@@ -78,8 +70,15 @@
  */
 
 .blog-main {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.5;
+  font-weight: 300;
+
+  p {
+    font-weight: 300;
+    font-size: 17px;
+    margin-bottom: 10px;
+  }
 }
 
 /* Sidebar modules for boxing content */
@@ -98,6 +97,64 @@
   margin-bottom: 0;
 }
 
+
+/* Blog post */
+.blog-post {
+  font-weight: 300;
+
+  a, p {
+    p, a {
+      color: $gray-dark;
+      text-decoration: none;
+    }
+  }
+
+  p {
+    font-weight: 300;
+  }
+
+  h2 {
+    margin-top: 50px;
+  }
+
+  &:first-child  {
+    h2 {
+      margin-top: 0;
+    }
+  }
+
+  img, iframe {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+.seealso-post {
+  font-weight: 300;
+
+  a, p {
+    p, a {
+      color: $gray-dark;
+      text-decoration: none;
+    }
+  }
+
+  p {
+    font-weight: 300;
+  }
+
+  img, iframe {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .seealso-image-link {
+    float: left;
+    max-width: 150px;
+    display: block;
+    margin-right: 20px;
+  }
+}
 
 /*
 * Offcanvas

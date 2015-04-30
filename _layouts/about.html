@@ -68,11 +68,7 @@
                     <li class="active"><span>{{ loc.blog }}</span></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    {% if page.layout == "about" %}
-                    <li class="active"><span>{{ loc.about }}</span></li>
-                    {% else %}
-                    <li><a href="/{{ page.language }}/about.html">{{ loc.about }}</a></li>
-                    {% endif %}
+                    <li><a href="http://melscience.com/about/">{{ loc.about }}</a></li>
                     <li data-toggle="nav" data-target="#user-lang" class="user-dropdown-toggle">
                         <a href="#" onclick="return false;">{{ page.language }}<span class="fa"></span></a>
 
@@ -125,4 +121,8 @@
         <p>&copy; MEL Science 2015</p>
     </div>
 </footer>
+<div style="position: absolute; left: -1000px; top: -100px;">
 {% include bottom.html %}
+</div>
+</body>
+</html>
