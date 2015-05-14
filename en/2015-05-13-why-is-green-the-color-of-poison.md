@@ -10,7 +10,7 @@ post-id: 2015-05-13
 publish-status: published
 
 ---
-Have you ever wondered why poison is so often associated with the color green? Take movies or video games, for example: even the vials containing poison would frequently be made of a green glass. Sure, there are poisonous plants and all, but look no further than the 18^th^ century, when some toxic green pigments forever ruined the reputation of the color.
+Have you ever wondered why poison is so often associated with the color green? Take movies or video games, for example: even the vials containing poison would frequently be made of a green glass. Sure, there are poisonous plants and all, but look no further than the 18th century, when some toxic green pigments forever ruined the reputation of the color.
 
 <!-- more -->
 
