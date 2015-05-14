@@ -10,7 +10,7 @@ post-id: 2015-05-13
 publish-status: published
 
 ---
-Have you ever wondered why poison is so often associated with the color green? Take movies or video games, for example: even the vials containing poison would frequently be made of a green glass. Sure, there are poisonous plants and all, but look no further than the 18<sup>th<sup> century, when some toxic green pigments forever ruined the reputation of the color.
+Have you ever wondered why poison is so often associated with the color green? Take movies or video games, for example: even the vials containing poison would frequently be made of a green glass. Sure, there are poisonous plants and all, but look no further than the 18th century, when some toxic green pigments forever ruined the reputation of the color.
 
 <!-- more -->
 
@@ -42,7 +42,7 @@ Once, a company “Humbug Willie” poisoned 200 people by selling them peppermi
 
 <a href="http://wellcomeimages.org/indexplus/image/V0011589.html">Photo </a> by Wellcome Library / CC BY 4.0
 
-Now, consider clothes, wallpaper, curtains, and candles — all dyed with Scheele’s and Paris green — and you have a recipe for an even more poisonous disaster. The pigments were often poorly applied and would easily flake off producing toxic dust. Ingested or absorbed by the skin, they are quickly metabolized. Arsenic binds to thiol (-SH) groups of enzymes, disrupts their functions and perturbs the machinery of life. Factor in trimethylarsine, (CH<sub>3<sub>)<sub>3<sub>As  — a toxic gas produced by the mold in wallpaper that metabolizes the pigments – and you’ll understand why people were dying like flies.
+Now, consider clothes, wallpaper, curtains, and candles — all dyed with Scheele’s and Paris green — and you have a recipe for an even more poisonous disaster. The pigments were often poorly applied and would easily flake off producing toxic dust. Ingested or absorbed by the skin, they are quickly metabolized. Arsenic binds to thiol (-SH) groups of enzymes, disrupts their functions and perturbs the machinery of life. Factor in trimethylarsine, (CH3)3As  — a toxic gas produced by the mold in wallpaper that metabolizes the pigments – and you’ll understand why people were dying like flies.
 
 <img src="/images/poison5.png" width="600" height="170" alt="poison">
 Reaction of arsenite with thiol groups
