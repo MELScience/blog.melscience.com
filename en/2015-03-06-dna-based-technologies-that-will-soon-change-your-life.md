@@ -21,7 +21,7 @@ Tomorrow will mark 62 years since the day Watson and Crick built the model of DN
 
 ##What if DNA was never discovered?
 
-We’d live in a pretty lame world, if that were the case. Even if we still landed on the moon. People dying of incurable diseases, societies experiencing catastrophic food shortages, screwed justice system and crime perpetrators walking around uncaught. Sounds like the world we currently live in? True, but mind you, ours is a much better version of what it was like 60 years ago. 
+We’d live in a pretty lame world, if that were the case. Even if we still landed on the moon. There'd be people dying of incurable diseases, societies experiencing catastrophic food shortages, screwed justice system and crime perpetrators walking around uncaught. Sounds like the world we currently live in? True, but mind you, ours is a much better version of what it was like 60 years ago. 
 
 <img src="/images/dnatechnologies2.jpg" width="600" height="451" alt="image">
 
