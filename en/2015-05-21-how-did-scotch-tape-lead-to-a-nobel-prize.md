@@ -18,7 +18,7 @@ The two most commonly known forms of carbon that share the same simplest formula
 
 <img src="/images/graphene1.png" width="600" height="300" alt="graphene">
 
-<span style="color: grey;">Image by Sergey Slyusarev</span>
+<span style="color: grey;">Image by Sergey Slyusarev @ MEL Science / CC BY NC-ND </span>
 
 ##How do diamond and graphite differ?
 
