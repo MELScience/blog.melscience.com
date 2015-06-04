@@ -3,6 +3,7 @@ layout: blog-post
 title: Chemie-Experimentierkasten als Abonnement
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/weekly-box-photo.jpg" width="600" height="459" alt="Weekly box content">
 og-image: /images/facebook/weekly-box-photo.jpg
 language: de

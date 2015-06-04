@@ -3,6 +3,7 @@ layout: blog-post
 title: Why are not sweeteners as tasty as a real sugar? 
 type: blog-post
 author:  Sergey Safonov
+author-id: sergey-afonov
 post-image: <img src="/images/sucrose.png" width="600" height="430" alt="Sucrose">
 og-image: /images/sucrose.png
 language: en

@@ -3,6 +3,7 @@ layout: blog-post
 title: Explosions de bulles d'hydrogène
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Explosions de bulles d'hydrogène">
 language: fr
 post-id: 2014-11-18

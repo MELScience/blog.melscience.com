@@ -3,6 +3,7 @@ layout: blog-post
 title: Yanma olmadan oluşan dumanla ilgili videomuzdaki hatalar + midemizle ilgili bir meydan okuma
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hidroklorik asit içindeki besin">
 language: tr
 post-id: 2014-10-14

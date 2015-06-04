@@ -3,6 +3,7 @@ layout: blog-post
 title: Hidrojen kabarcıklarının patlaması
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Hidrojen kabarcıklarının patlaması">
 language: tr
 post-id: 2014-11-18

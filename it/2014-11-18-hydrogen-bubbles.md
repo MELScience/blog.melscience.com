@@ -3,6 +3,7 @@ layout: blog-post
 title: Esplosioni di bolle di idrogeno
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Esplosioni di bolle di idrogeno">
 language: it
 post-id: 2014-11-18

@@ -3,6 +3,7 @@ layout: blog-post
 title: 20 years ago, scientists created the element 111 - Roentgenium
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/roentgenium.png" width="600" height="314" alt="Roentgenium">
 og-image: /images/facebook/roentgenium-thumbnail.png
 language: en

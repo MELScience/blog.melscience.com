@@ -3,6 +3,7 @@ layout: blog-post
 title: В поисках теплицы
 type: blog-post
 author: Василий Филиппов
+author-id: vassili-philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Теплица">
 language: ru
 post-id: 2014-06-06

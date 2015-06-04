@@ -3,6 +3,7 @@ layout: blog-post
 title: What we are going to do + 3D designer
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: en
 post-id: 2014-05-27

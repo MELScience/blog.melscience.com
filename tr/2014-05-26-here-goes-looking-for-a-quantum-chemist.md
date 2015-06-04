@@ -3,6 +3,7 @@ layout: blog-post
 title: İşte başlıyoruz! Bir kuantum kimyageri aranıyor
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: tr
 post-id: 2014-05-26

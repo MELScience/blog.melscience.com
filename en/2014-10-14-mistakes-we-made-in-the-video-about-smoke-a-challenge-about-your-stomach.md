@@ -3,6 +3,7 @@ layout: blog-post
 title: Mistakes we made in the video about smoke + a challenge about your stomach
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hydrogen nuclear transfer in crystal">
 language: en
 post-id: 2014-10-14

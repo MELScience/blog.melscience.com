@@ -3,6 +3,7 @@ layout: blog-post
 title: What kind of programmer I am looking for
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="More than half of Quake was written by John Carmack alone">
 language: en
 post-id: 2014-06-17

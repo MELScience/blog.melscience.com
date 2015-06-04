@@ -3,6 +3,7 @@ layout: blog-post
 title: Segredos de combustão do hidrogênio
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogen-burning.jpg" width="600" height="369" alt="combustão do hidrogênio">
 og-image: /images/images/hydrogen-burning.jpg
 language: pt

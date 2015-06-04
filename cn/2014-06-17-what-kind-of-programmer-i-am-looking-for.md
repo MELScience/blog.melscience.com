@@ -3,6 +3,7 @@ layout: blog-post
 title: 我所需要的程序员类型
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Quake超过半数的代码都是由John Carmack独自完成的">
 language: cn
 post-id: 2014-06-17

@@ -3,6 +3,7 @@ layout: blog-post
 title: How can we improve the effectiveness of vaccines against influenza?
 type: blog-post
 author:  Anton Nikolaev
+author-id: anton-nikolaev
 post-image: <img src="/images/influenza.jpg" width="600" height="600" alt="sted">
 og-image: /images/facebook/influenza.jpg
 language: en

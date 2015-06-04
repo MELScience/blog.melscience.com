@@ -3,6 +3,7 @@ layout: blog-post
 title: Nobel Prize in Chemistry 2014 - how can we see the hidden depth with an optical microscope? 
 type: blog-post
 author:  Sergey Safonov
+author-id: sergey-safonov
 post-image: <img src="/images/sted-example.jpg" width="600" height="627" alt="sted">
 og-image: /images/facebook/sted-example.jpg
 language: en

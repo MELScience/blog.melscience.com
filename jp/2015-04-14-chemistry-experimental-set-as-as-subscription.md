@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/weekly-box-photo.jpg" width="600" height="459" alt="Weekly box content">
 og-image: /images/facebook/weekly-box-photo.jpg
 language: jp
+author-id: vassili-philippov
 post-id: 2015-04-14-chemistry-set
 publish-status: published
 ---

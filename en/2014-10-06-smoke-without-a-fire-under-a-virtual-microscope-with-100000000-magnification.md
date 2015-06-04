@@ -3,6 +3,7 @@ layout: blog-post
 title: Smoke without a fire under a virtual microscope with 100,000,000x magnification
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Smoke of ammonium chloride">
 language: en
 post-id: 2014-10-06

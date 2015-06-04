@@ -3,6 +3,7 @@ layout: blog-post
 title: What Does The British Queen Have To Do With Chemistry? 
 type: blog-post
 author:  Elena Laricheva
+author-id: elena-laricheva
 post-image: <img src="/images/queen1.jpg" width="600" height="365" alt="queen1">
 og-image: /images/queen1.jpg
 language: en

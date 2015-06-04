@@ -3,6 +3,7 @@ layout: blog-post
 title: 氢气气泡爆炸
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="氢气气泡爆炸">
 language: cn
 post-id: 2014-11-18

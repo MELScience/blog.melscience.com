@@ -3,6 +3,7 @@ layout: blog-post
 title: 我们制作视频中的一些错误+关于胃的一个挑战
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hydrogen nuclear transfer in crystal">
 language: cn
 post-id: 2014-10-14

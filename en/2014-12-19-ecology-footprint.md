@@ -3,6 +3,7 @@ layout: blog-post
 title: How many people can live on Earth?
 type: blog-post
 author:  Sergey Safonov
+author-id: sergey-safonov
 post-image: <img src="/images/ecology.jpg" width="600" height="319" alt="Ecology">
 og-image: /images/facebook/ecology.jpg
 language: en

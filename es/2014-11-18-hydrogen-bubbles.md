@@ -3,6 +3,7 @@ layout: blog-post
 title: Burbujas de hidrógeno explotando
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogenbubbles.jpg" width="600" height="325" alt="Burbujas de hidrógeno explotando">
 language: es
 post-id: 2014-11-18

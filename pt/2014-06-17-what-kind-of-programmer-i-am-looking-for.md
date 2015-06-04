@@ -3,6 +3,7 @@ layout: blog-post
 title: Que género de programador procuro
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="Mais de metade de Quake foi escrito por John Carmack sozinho">
 language: pt
 post-id: 2014-06-17

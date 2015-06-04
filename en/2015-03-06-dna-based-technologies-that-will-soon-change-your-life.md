@@ -3,6 +3,7 @@ layout: blog-post
 title: DNA-based technologies that will change your life
 type: blog-post
 author:  Elena Laricheva
+author-id: elena-laricheva
 post-image: <img src="/images/dnatechnologies1.jpg" width="600" height="489" alt="image">
 og-image: /images/oscar1.jpg
 language: en

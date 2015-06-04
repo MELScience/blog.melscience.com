@@ -5,6 +5,7 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="温室">
 language: jp
+author-id: vassili-philippov
 post-id: 2014-06-06
 publish-status: published
 ---

@@ -3,6 +3,7 @@ layout: blog-post
 title: Les erreurs que nous avons commises dans la vidéo à propos de la fumée + un défi concernant votre estomac
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Nourriture dans l'acide chlorhydrique">
 language: fr
 post-id: 2014-10-14

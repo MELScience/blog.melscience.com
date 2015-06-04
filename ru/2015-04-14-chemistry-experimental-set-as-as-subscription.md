@@ -3,6 +3,7 @@ layout: blog-post
 title: Набор химических экспериментов по подписке
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/weekly-box-photo.jpg" width="600" height="459" alt="Weekly box content">
 og-image: /images/facebook/weekly-box-photo.jpg
 language: ru
@@ -51,9 +52,7 @@ publish-status: published
 
 <iframe src="https://docs.google.com/forms/d/1jP-gM0dxyKZzf04Iwgzc6pciQyLxjTecM_xECM15aTE/viewform?embedded=true" width="600" height="820" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-<a href="https://twitter.com/MelScienceRU">Подписывайтесь на наш Твиттер</a>.
-
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Читать @vassiliph</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->

@@ -3,6 +3,7 @@ layout: blog-post
 title: Fumo sem fogo num microscópio virtual com um aumento de 100.000.000 x
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Fumo de cloreto de hidrogénio">
 language: pt
 post-id: 2014-10-06

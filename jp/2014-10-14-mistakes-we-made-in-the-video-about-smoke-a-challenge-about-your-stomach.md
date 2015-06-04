@@ -5,6 +5,7 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="結晶中の水素原子の移動">
 language: jp
+author-id: vassili-philippov
 post-id: 2014-10-14
 publish-status: published
 ---

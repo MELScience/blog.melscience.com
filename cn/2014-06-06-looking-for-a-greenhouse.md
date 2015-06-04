@@ -3,6 +3,7 @@ layout: blog-post
 title: 寻找温室
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="温室">
 language: cn
 post-id: 2014-06-06

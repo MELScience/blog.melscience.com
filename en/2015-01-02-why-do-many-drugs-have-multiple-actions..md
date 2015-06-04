@@ -3,6 +3,7 @@ layout: blog-post
 title: Why do many drugs have multiple actions?
 type: blog-post
 author:  Anton Nikolaev
+author-id: anton-nikolaev
 post-image: <img src="/images/aspirin.jpg" width="600" height="359" alt="Aspirin">
 og-image: /images/facebook/aspirin.jpg
 language: en

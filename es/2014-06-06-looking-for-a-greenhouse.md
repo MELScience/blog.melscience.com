@@ -3,6 +3,7 @@ layout: blog-post
 title: Buscando un invernadero
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Invernadero">
 language: es
 post-id: 2014-06-06

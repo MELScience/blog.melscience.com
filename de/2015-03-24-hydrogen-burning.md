@@ -3,6 +3,7 @@ layout: blog-post
 title: Geheimnisse der Wasserstoffverbrennung
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/hydrogen-burning.jpg" width="600" height="369" alt="Geheimnisse der Wasserstoffverbrennung">
 og-image: /images/images/hydrogen-burning.jpg
 language: de

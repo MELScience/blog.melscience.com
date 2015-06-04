@@ -3,6 +3,7 @@ layout: blog-post
 title: A microscope in your pocket
 type: blog-post
 author:  Timur Bulatov
+author-id: timur-bulatov
 post-image: <img src="/images/micr.jpg" width="600" height="400" alt="microscope">
 og-image: /images/micr.jpg
 language: en

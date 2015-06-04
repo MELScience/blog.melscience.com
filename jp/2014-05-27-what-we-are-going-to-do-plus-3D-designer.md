@@ -5,6 +5,7 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/howdifferentialworks.jpg" width="600" height="400" alt="How differential works">
 language: jp
+author-id: vassili-philippov
 post-id: 2014-05-27
 publish-status: published
 ---

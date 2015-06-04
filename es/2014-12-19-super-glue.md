@@ -3,6 +3,7 @@ layout: blog-post
 title: Revelando huellas dactilares con súper pegamento
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/methyl-cyanoacrylate.png" width="600" height="469" alt="Superglue molecule">
 og-image: /images/methyl-cyanoacrylate.png
 language: es

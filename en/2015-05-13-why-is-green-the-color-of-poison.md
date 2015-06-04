@@ -3,6 +3,7 @@ layout: blog-post
 title: Why is green the color of poison?
 type: blog-post
 author: Elena Laricheva
+author-id: elena-laricheva
 post-image: <img src="/images/poison1.jpg" width="600" height="400" alt="poison">
 og-image: /images/poison1.jpg
 language: en

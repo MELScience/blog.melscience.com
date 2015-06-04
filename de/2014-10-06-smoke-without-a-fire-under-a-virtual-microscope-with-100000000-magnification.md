@@ -3,6 +3,7 @@ layout: blog-post
 title: Rauch ohne Feuer unter einem virtuellen Mikroskop mit 100.000.000-facher Vergrößerung
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Ammoniakchloridrauch">
 language: de
 post-id: 2014-10-06

@@ -3,6 +3,7 @@ layout: blog-post
 title: Schmerzkiller verhindert das Altern?
 type: blog-post
 author: Anton Nikolaev
+author-id: anton-nikolaev
 post-image: <img src="/images/telomere.png" width="600" height="360" alt="Telomere">
 og-image: /images/telomere.png
 language: de

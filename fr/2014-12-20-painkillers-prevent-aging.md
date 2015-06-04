@@ -3,6 +3,7 @@ layout: blog-post
 title: Les analgésiques préviennent ils du vieillissement ?
 type: blog-post
 author: Anton Nikolaev
+author-id: anton-nikolaev
 post-image: <img src="/images/telomere.png" width="600" height="360" alt="Telomere">
 og-image: /images/telomere.png
 language: fr

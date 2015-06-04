@@ -3,6 +3,7 @@ layout: blog-post
 title: Fumare senza un fuoco sotto un microscopio virtuale con ingrandimento pari a 100,000,000x
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Fumo di cloruro di ammonio">
 language: it
 post-id: 2014-10-06

@@ -3,6 +3,7 @@ layout: blog-post
 title: How did scotch tape lead to a Nobel Prize?
 type: blog-post
 author: Ievgen Zviagin
+author-id: ievgen-zviagin
 post-image: <img src="/images/graphene1.png" width="600" height="300" alt="graphene">
 og-image: /images/graphene1.png
 language: en

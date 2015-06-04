@@ -3,6 +3,7 @@ layout: blog-post
 title: Yanma olmadan ortaya çıkan dumanın 100,000,000x büyütmeli sanal bir mikroskopla görüntülenmesi
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Amonyum klorür dumanı">
 language: tr
 post-id: 2014-10-06

@@ -3,6 +3,7 @@ layout: blog-post
 title: Jetzt geht‘s los! Quantenchemiker gesucht
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
 language: de
 post-id: 2014-05-26

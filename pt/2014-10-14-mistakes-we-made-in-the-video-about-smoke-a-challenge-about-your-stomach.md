@@ -3,6 +3,7 @@ layout: blog-post
 title: Erros que cometemos neste vídeo sobre fumo + um desafio sobre o seu estômago
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Transferência de hidrogénio nuclear num cristal">
 language: pt
 post-id: 2014-10-14

@@ -3,6 +3,7 @@ layout: blog-post
 title: Why people watch horror movies?
 type: blog-post
 author: Ievgen Zviagin
+author-id: ievgen-zviagin
 post-image: <img src="/images/fear1_1.jpg" width="600" height="480" alt="fear">
 og-image: /images/micr.jpg
 language: en

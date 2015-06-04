@@ -3,6 +3,7 @@ layout: blog-post
 title: Cercasi serra
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Serra">
 language: it
 post-id: 2014-06-06

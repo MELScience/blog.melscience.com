@@ -3,6 +3,7 @@ layout: blog-post
 title: The amazing properties of rubber and the amazing story of its invention
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/isoprene.png" width="296" height="232" alt="isoprene">
 og-image: /images/isoprene.png
 language: en

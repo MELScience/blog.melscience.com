@@ -3,6 +3,7 @@ layout: blog-post
 title: What if Oscar Awards were made of antimatter?
 type: blog-post
 author:  Elena Laricheva
+author-id: elena-laricheva
 post-image: <img src="/images/oscar1.jpg" width="600" height="372" alt="oscar1">
 og-image: /images/oscar1.jpg
 language: en

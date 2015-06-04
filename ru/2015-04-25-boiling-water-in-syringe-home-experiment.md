@@ -3,6 +3,7 @@ layout: blog-post
 title: Эверест в шприце - опыт, который вы можете сделать дома
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/mount-everest.jpg" width="600" height="310" alt="Everest">
 og-image: /images/mount-everest.jpg
 language: ru
@@ -71,9 +72,7 @@ publish-status: published
 
 Если вам нравится идея делать интересные и нетрудные опыты с детьми, то мы открыли предзаказ на наш новый сервис - <a href="http://www.melscience.com/ru">MEL Chemistry</a>. Каждую неделю вы будете получать небольшой набор с несколькими химическими экспериментами с доставкой на дом. 52 недели в году = <a href="http://www.melscience.com/ru/52topics/">52 интересных опытов</a>. Если вам не безразлично, что делают и чем увлекаются ваши дети - то это для вас.
 
-<a href="https://twitter.com/MelScienceRU">Подписывайтесь на наш Твиттер</a>.
-
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Читать @vassiliph</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->

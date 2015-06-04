@@ -3,6 +3,7 @@ layout: blog-post
 title: Знали ли вы, что в нашем мозгу есть специальные нейроны, ответственные за узнавание Дженнифер Энистон?
 type: blog-post
 author: Anton Nikolaev
+author-id: anton-nikolaev
 post-image: <img src="/images/jenniferaniston.jpg" width="600" height="318" alt="Нейрон Дженнифер Энистон">
 og-image: /images/facebook/jenniferaniston.jpg
 language: ru
@@ -46,9 +47,7 @@ publish-status: published
 
 <br/>
 
-<a href="https://twitter.com/MelScienceRU">Подписывайтесь на наш Твиттер</a>.
-
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Читать @vassiliph</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->

@@ -6,6 +6,7 @@ author: Vassili Philippov
 post-image: <img src="/images/hydrogen-burning.jpg" width="600" height="369" alt="水素燃焼の秘密">
 og-image: /images/images/hydrogen-burning.jpg
 language: jp
+author-id: vassili-philippov
 post-id: 2015-03-24-hydrogen-burning
 publish-status: published
 ---

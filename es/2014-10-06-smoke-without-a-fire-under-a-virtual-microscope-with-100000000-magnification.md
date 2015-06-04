@@ -3,6 +3,7 @@ layout: blog-post
 title: Humo sin fuego en un microscopio virtual con ampliación 100 000 000x
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Humo de cloruro de amonio">
 language: es
 post-id: 2014-10-06

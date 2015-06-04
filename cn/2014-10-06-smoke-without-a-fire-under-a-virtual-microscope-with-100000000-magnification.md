@@ -3,6 +3,7 @@ layout: blog-post
 title: 烟在虚拟显微镜下放大100000000倍
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="氯化铵气体">
 language: cn
 post-id: 2014-10-06

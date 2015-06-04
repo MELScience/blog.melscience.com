@@ -3,6 +3,7 @@ layout: blog-post
 title: A hope to fight antibiotic-resistant infections
 type: blog-post
 author:  Anton Nikolaev
+author-id: anton-nikolaev
 post-image: <img src="/images/ampicillin.jpg" width="600" height="407" alt="Molecule of ampicillin">
 og-image: /images/ampicillin.jpg
 language: en

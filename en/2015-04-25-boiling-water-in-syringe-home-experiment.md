@@ -3,6 +3,7 @@ layout: blog-post
 title: Everest in syringe – an experiment you can make at home
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/mount-everest.jpg" width="600" height="310" alt="Everest">
 og-image: /images/mount-everest.jpg
 language: en

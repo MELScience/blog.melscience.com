@@ -5,6 +5,7 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Smoke of ammonium chloride">
 language: jp
+author-id: vassili-philippov
 post-id: 2014-10-06
 publish-status: published
 ---

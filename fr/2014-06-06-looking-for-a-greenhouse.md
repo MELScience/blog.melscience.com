@@ -3,6 +3,7 @@ layout: blog-post
 title: À la recherche d'une serre
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Serre">
 language: fr
 post-id: 2014-06-06

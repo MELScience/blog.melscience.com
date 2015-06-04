@@ -3,6 +3,7 @@ layout: blog-post
 title: Была ли прошедшая ночь самой длинной ночью в истории Земли?
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/moon.jpg" width="600" height="587" alt="Луна">
 og-image: /images/telomere.png
 language: ru
@@ -40,9 +41,7 @@ publish-status: published
 
 <br/>
 
-<a href="https://twitter.com/MelScienceRU">Подписывайтесь на наш Твиттер</a>.
-
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Читать @vassiliph</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->

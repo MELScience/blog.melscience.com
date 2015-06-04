@@ -5,6 +5,7 @@ type: blog-post
 author: Vassili Philippov
 post-image: <img src="/images/quake.jpg" width="600" height="400" alt="クエイクの過半数はジョン・カーマックによって書かれた">
 language: jp
+author-id: vassili-philippov
 post-id: 2014-06-17
 publish-status: published
 ---

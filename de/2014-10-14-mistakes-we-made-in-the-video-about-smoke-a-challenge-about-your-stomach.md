@@ -3,6 +3,7 @@ layout: blog-post
 title: Fehler in unserem Video über Rauch + Aufgabe über unseren Magen
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Wasserstoffkerntransfer im Kristall">
 language: de
 post-id: 2014-10-14

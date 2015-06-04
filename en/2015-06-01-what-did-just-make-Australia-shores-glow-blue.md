@@ -3,6 +3,7 @@ layout: blog-post
 title: What did just make Australia's shores glow blue?
 type: blog-post
 author: Anton Kozyryev
+author-id: anton-kozyryev
 post-image: <img src="/images/biolum1.jpg" width="600" height="400" alt="biolum">
 og-image: /images/biolum1.jpg
 language: en

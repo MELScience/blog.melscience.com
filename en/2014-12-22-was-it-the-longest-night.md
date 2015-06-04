@@ -3,6 +3,7 @@ layout: blog-post
 title: Was this night the longest night in Earth's history?
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/moon.jpg" width="600" height="587" alt="Moon">
 og-image: /images/telomere.png
 language: en

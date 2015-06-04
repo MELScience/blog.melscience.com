@@ -3,6 +3,7 @@ layout: blog-post
 title: Удивительные свойства резины и удивительная история ее изобретения  
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/isoprene.png" width="296" height="232" alt="isoprene">
 og-image: /images/isoprene.png
 language: ru
@@ -49,9 +50,7 @@ publish-status: published
 
 <br/>
 
-<a href="https://twitter.com/MelScienceRU">Подписывайтесь на наш Твиттер</a>.
-
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Читать @vassiliph</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->

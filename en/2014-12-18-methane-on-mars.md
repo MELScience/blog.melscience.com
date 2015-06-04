@@ -3,6 +3,7 @@ layout: blog-post
 title: Does methane on Mars indicate the presence of life?
 type: blog-post
 author:  Sergey Safonov
+author-id: sergey-safonov
 post-image: <img src="/images/mars.jpg" width="600" height="584" alt="Mars">
 og-image: /images/facebook/mars.jpg
 language: en

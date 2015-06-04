@@ -112,7 +112,7 @@
                 <p class="blog-post-meta">
                     {% assign post_date_array = page.url | split: "/" | last | split: "-" %}
                     {% include date-localization.html %},
-                    {{ page.author }}
+                    <a href="/{{ page.language }}/authors/{{ page.author-id }}.html">{{ page.author }}</a>
                 </p>
                 {{ content }}
 

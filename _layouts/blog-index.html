@@ -103,7 +103,7 @@
                     <p class="blog-post-meta">
                         {% assign post_date_array = post.url | split: "/" | last | split: "-" %}
                         {% include date-localization.html %},
-                        {{ post.author }}</p>
+                        <a style="text-decoration: underline" href="/{{ post.language }}/authors/{{ post.author-id }}.html">{{ post.author }}</a></p>
 
                     <p>
                         <a href="{{ post.url }}">{{ post.post-image }}</a>

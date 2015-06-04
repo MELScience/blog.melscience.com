@@ -3,6 +3,7 @@ layout: blog-post
 title: De la fumée sans feu sous un microscope virtuel avec un grossissement x 100,000,000
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/ammoniumchloridesmoke.jpg" width="600" height="424" alt="Fumée de chlorure d'ammonium">
 language: fr
 post-id: 2014-10-06

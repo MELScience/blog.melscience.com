@@ -3,6 +3,7 @@ layout: blog-post
 title: Looking for a greenhouse
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/greenhouse.jpg" width="600" height="338" alt="Greenhouse">
 language: en
 post-id: 2014-06-06

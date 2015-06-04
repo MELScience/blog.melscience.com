@@ -3,6 +3,7 @@ layout: blog-post
 title: Разбор ошибок в нашем предыдущем видео + задача о переваривании пищи
 type: blog-post
 author: Vassili Philippov
+author-id: vassili-philippov
 post-image: <img src="/images/protontransfer.png" width="600" height="361" alt="Hydrogen nuclear transfer in crystal">
 language: ru
 post-id: 2014-10-14
@@ -79,8 +80,9 @@ publish-status: published
 
 В следующий раз покажу, что получилось с этой едой через сутки. Думаю, результат вас удивит. А  у вас какие мысли?
 
+<br/>
+
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Читать @vassiliph</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->
-
