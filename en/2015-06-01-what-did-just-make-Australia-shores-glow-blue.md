@@ -10,7 +10,7 @@ post-id: 2015-06-01
 publish-status: published
 
 ---
-Recently, the residents of Tasmania — the island located off the Australia’s southern coast — witnessed an <a href="http://www.australiangeographic.com.au/topics/science-environment/2015/05/bioluminescence-sea-sparkles-in-tasmania/1">amazing phenomenon </a>. The water in River Derwent turned brilliant blue, thanks to the millions of dinoflagellates – bioluminescent plankton that glows when disturbed. This article will explain you what bioluminescence is and how living organisms, including dinoflagellates, use it. 
+Recently, the residents of the Australian island Tasmania witnessed an <a href="http://www.australiangeographic.com.au/topics/science-environment/2015/05/bioluminescence-sea-sparkles-in-tasmania/1">amazing phenomenon </a>. The water in River Derwent turned brilliant blue, thanks to the millions of dinoflagellates – bioluminescent plankton that glows when disturbed. This article will explain you what bioluminescence is and how living organisms, including dinoflagellates, use it. 
 
 <!-- more -->
 
