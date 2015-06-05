@@ -29,7 +29,7 @@ To understand bioluminescence, we first need to get a good grasp of what lumines
 
 <a href="https://www.flickr.com/photos/intelfreepress/12838515965">Photo </a> <span style="color: grey;">by IntelFreePress / CC BY-SA 2.0 </span>
 
-Unlike incandescence, luminescence does not need any heat and is, thus, often called “cold”. In both cases, the mechanism of light generation is similar: electrons absorb some form of energy and then release it as photons upon relaxation to their original low-energy state. Yet, in incadescence the atoms are so hot that their energised electrons can break loose and jump from one atom to another before relaxing, while in luminescence they drop back without leaving the atoms. Both processes last until the supply of energy is stopped.
+Unlike incandescence, luminescence does not need any heat to produce light and is, thus, often called “cold”. In both cases, the mechanism of light generation is similar: electrons absorb some form of energy and then release it as photons upon relaxation to their original low-energy state. Yet, in incadescence the atoms are so hot that their energised electrons can break loose and jump from one atom to another before relaxing, while in luminescence they drop back without leaving the atoms. Both processes last until the supply of energy is stopped.
 
 ##What about the “bio” part?
 
@@ -47,13 +47,13 @@ Think of neon billboards or panel lightning in your car: that’s electrolumines
 
 ##Mechanism of bioluminescence
 
-At least two things are needed for bioluminescence to take place: a compound called luciferin and a “helper” molecule luciferase. Both names are actually generic. Derived from the word “Lucifer” which means the light-bearer, they may vary in structure depending on the type of biological organism at work. Luciferins, which define the color of emission, are often rigid, highly conjugated molecules with electrons delocalized over the entire system, while luciferases are enzymes.
+At least two things are needed for bioluminescence to take place: a compound called luciferin and a “helper” molecule luciferase. Both names are actually generic. Derived from the word “Lucifer” which means the light-bearer, they may vary in structure depending on the type of biological organism at work. Luciferins, which define the color of emission, are often rigid, highly conjugated molecules with delocalized electrons, while luciferases are enzymes.
 
 <img src="/images/biolumin5.jpg" width="600" height="500" alt="biolumin">
 
 <span style="color: grey;">"Firefly luciferin (bottom) and luciferase (top)" by Anton K @ MEL Science </span> 
 
-The latter catalyze the oxidation of the former, during which the energy is released, absorbed by the product oxyluciferin thus exciting it to a higher energy level, and then emitted in the form of light when oxyluciferin relaxes back to its normal low-energy state. A simplified reaction is the following:
+The latter catalyzes the oxidation of the former, during which the energy is released, absorbed by the product oxyluciferin thus exciting it to a higher energy level, and then emitted in the form of light when oxyluciferin relaxes back to its normal low-energy state. A simplified reaction is the following:
 
 <br>
 
@@ -69,7 +69,7 @@ The presence of Mg<sup>2+</sup> and Ca<sup>2+</sup>, as well as adenosine tripho
 
 ##Applications
 
-Besides dinoflagellates and fireflies, bioluminescence is widespread in other forms of life: especially among the deep-sea habitants. Living organisms use bioluminescence in defense, attraction, communication, and warning. For example, some squids that live in the deep sea break off their luminous arms that continue to flash to distract the predator. Fireflies use bioluminescence to draw mates, while some marine snails – to scare off predators, as do dinoflagellates. You catch watch this video to learn about top 10 bioluminescent organisms: 
+Besides dinoflagellates and fireflies, bioluminescence is widespread in other forms of life, especially among the deep-sea habitants. Living organisms use bioluminescence in defense, attraction, communication, and warning. For example, some squids that live in the deep sea break off their luminous arms that continue to flash to distract the predator. Fireflies use bioluminescence to draw mates, while some marine snails – to scare off predators, as do dinoflagellates. You can watch this video to learn about top 10 bioluminescent organisms: 
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/5gky11YlGXA" frameborder="0" allowfullscreen></iframe>
 
