@@ -19,7 +19,7 @@ About 12 000 years ago a man found an unknown stone, which melted in fire withou
 
 <img src="/images/metals1.jpg" width="600" height="450" alt="metals">
 
-<a href="https://www.flickr.com/photos/alaig/2596939873/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Graela:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Fire Assay/ CC BY 2.5} </span>
+<a href="https://www.flickr.com/photos/alaig/2596939873/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Graela:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Fire Assay/ CC BY-NC-SA 2.0} </span>
 
 ##”We need to go deeper…”
 
@@ -27,7 +27,7 @@ There is a golden rule in chemistry: the origin of any object’s property is de
 
 <img src="/images/metals2.png" width="600" height="371" alt="metals">
 
-<a href="https://commons.wikimedia.org/wiki/File:Nuvola_di_elettroni.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{ARTE:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Structure of metal/ CC BY 2.5} </span>
+<a href="https://commons.wikimedia.org/wiki/File:Nuvola_di_elettroni.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{ARTE:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Structure of metal/ CC BY-SA 3.0} </span>
 
 This short animation does excellent job in illustrating it:
 
@@ -41,13 +41,13 @@ Metals are beautiful, primarily because of their metallic luster, and, thus, hav
 
 <img src="/images/metals3.jpg" width="600" height="475" alt="metals">
 
-<a href="https://www.flickr.com/photos/serendipitydiamonds/15497560210/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Serendipity Diamonds:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Golden rings/ CC BY 2.5} </span>
+<a href="https://www.flickr.com/photos/serendipitydiamonds/15497560210/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Serendipity Diamonds:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Golden rings/ CC BY-ND 2.0} </span>
 
 ##Remarkable material
 
 <img src="/images/metals4.jpg" width="600" height="450" alt="metals">
 
-<a href="https://www.flickr.com/photos/ennor/175515447/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Barry: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Forging/ CC BY 2.5} </span>
+<a href="https://www.flickr.com/photos/ennor/175515447/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Barry: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Forging/ CC BY-NC-SA 2.0} </span>
 
 Most metals are very ductile. Just imagine: one can roll a gold nugget into a 0,003 mm sheet. This is possible without breaking metallic bonds, since during the deformation flowing electrons of the bonds also move. Although the bonds move, they cannot be easily broken, because of the high bond energy. High energy also explains the strength of metals as well as their high melting and boiling points. 
 
@@ -63,7 +63,7 @@ It is no news that wires are made of metal, because metals conduct electricity. 
 
 <img src="/images/metals6.jpg" width="600" height="400" alt="metals">
 
-<a href="https://www.flickr.com/photos/19779889@N00/10406579666/in/photolist-" style="color:blue; font-family:Helvetica; font-size:0.7em">{arbyreed: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Multi-line telephone cables/ CC BY 2.5} </span> 
+<a href="https://www.flickr.com/photos/19779889@N00/10406579666/in/photolist-" style="color:blue; font-family:Helvetica; font-size:0.7em">{arbyreed: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Multi-line telephone cables/ CC BY-NC-SA 2.0} </span> 
 
 ##Are metals magnets?
 
@@ -71,7 +71,7 @@ Everybody knows, that magnets can attract metal objects. Not all of them, though
 
 <img src="/images/metals7.jpg" width="600" height="398" alt="metals">
 
-<a href="https://www.flickr.com/photos/ssp/6456833263/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Sarnil Prasad:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Fridge magnets/ CC BY 2.5} </span> 
+<a href="https://www.flickr.com/photos/ssp/6456833263/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{Sarnil Prasad:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Fridge magnets/ CC BY 2.0} </span> 
 
 ##Always there for you
 
