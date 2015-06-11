@@ -53,7 +53,7 @@ Most metals are very ductile. Just imagine: one can roll a gold nugget into a 0,
 
 <img src="/images/metals5.png" width="600" height="195" alt="metals">
 
-<span style="color: grey; font-family:Helvetica; font-size:0.7em">"Deformation of metals" </span> 
+<span style="color: grey; font-family:Helvetica; font-size:0.7em">{Deformation of metals} </span> 
 
 Ductility and strength make metals a great material for forging – they are malleable. However, the ease of shaping may change at low temperature under which metals become somewhat brittle.
 
