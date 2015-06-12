@@ -27,7 +27,7 @@ There is a golden rule in chemistry: the origin of any object’s property is de
 
 <img src="/images/metals2.png" width="600" height="371" alt="metals">
 
-<a href="https://commons.wikimedia.org/wiki/File:Nuvola_di_elettroni.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{ARTE:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Structure of metal/ CC BY-SA 3.0} </span>
+<a href="https://commons.wikimedia.org/wiki/File:Nuvola_di_elettroni.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{ARTE:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Structure of metal/ CC0} </span>
 
 This short animation does excellent job in illustrating it:
 
