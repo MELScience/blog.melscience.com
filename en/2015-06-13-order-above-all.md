@@ -41,7 +41,7 @@ Solid objects consist of atoms, molecules or ions, which are located in a certai
 
 <a href="http://de.wikipedia.org/wiki/Datei:NaCl-Ionengitter.png" style="color:blue; font-family:Helvetica; font-size:0.7em">{H. Hoffmeister:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> NaCl ionic lattice/ CC BY-SA 3.0 } </span>
 
-<span style="color:grey; font-family:Helvetica; font-size:0.7em;">(The crystal lattice of salt. Green – Na+-ions, red – Cl—ions. The blue figure is a unit cell).</span>
+<span style="color:grey; font-family:Helvetica; font-size:0.7em;">(The crystal lattice of salt. Green: Na+ ions, red: Cl- ions. The blue figure is a unit cell).</span>
 
 The energy of the particles in a lattice is minimal, as they do not have much freedom to move while being at the lattice sites. The lower the energy of a system, the higher its stability. Thus, we can assume that crystal structure is very stable. Indeed, people use solid objects almost everywhere primarily because of their stability. Liquids and gases do not have an ordered structure, their particles move chaotically, from one place to another. 
 
