@@ -54,7 +54,7 @@ publish-status: published
 
 <img src="/images/metals5.png" width="600" height="195" alt="metals">
 
-<span style="color: grey; font-family:Helvetica; font-size:0.7em">{Deformation of metals} </span> 
+<span style="color: grey; font-family:Helvetica; font-size:0.7em">{Деформируемость металлов} </span> 
 
 Пластичность и прочность делают металлы отличным материалом для кузнеца, ведь они ковки. Правда при низких температурах ковкость может теряться, а металл становиться хрупким.
 
