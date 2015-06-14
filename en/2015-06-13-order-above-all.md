@@ -29,6 +29,8 @@ Every substance can be solid, liquid of gas. The most illustrative example is wa
 
 <a href="http://commons.wikimedia.org/wiki/File:Four_Fundamental_States_of_Matter.png" style="color:blue; font-family:Helvetica; font-size:0.7em">{Spirit469:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Four Fundamental States of Matter/ CC-BY-SA-3.0} </span>
 
+<span style="color:grey; font-family:Helvetica; font-size:0.7em;">(Clockwise from top left, they are solid, liquid, plasma, and gas, represented by an ice sculpture, a drop of water, electrical arcing from a tesla coil and the air around clouds, respectively).</span>
+
 What is the reason of different states of aggregation? As always, it’s the structure.
 
 ##Take a closer look
@@ -39,6 +41,8 @@ Solid objects consist of atoms, molecules or ions, which are located in a certai
 
 <a href="http://de.wikipedia.org/wiki/Datei:NaCl-Ionengitter.png" style="color:blue; font-family:Helvetica; font-size:0.7em">{H. Hoffmeister:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> NaCl ionic lattice/ CC BY-SA 3.0 } </span>
 
+<span style="color:grey; font-family:Helvetica; font-size:0.7em;">(The crystal lattice of salt. Green – Na+-ions, red – Cl—ions. The blue figure is a unit cell).</span>
+
 The energy of the particles in a lattice is minimal, as they do not have much freedom to move while being at the lattice sites. The lower the energy of a system, the higher its stability. Thus, we can assume that crystal structure is very stable. Indeed, people use solid objects almost everywhere primarily because of their stability. Liquids and gases do not have an ordered structure, their particles move chaotically, from one place to another. 
 
 ##Some other types
@@ -48,6 +52,8 @@ There are several types of crystal lattices. An atom lattice has atoms in its si
 <img src="/images/order4.jpg" width="600" height="461" alt="order">
 
 <a href="https://www.flickr.com/photos/opalsson/3773629074/" style="color:blue; font-family:Helvetica; font-size:0.7em">{O Palsson: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> The Atomium/ CC BY 2.0} </span>
+
+<span style="color:grey; font-family:Helvetica; font-size:0.7em;">(The Atomium is a building in Brussels, which represent a unit cell of an iron crystal magnified 165 billion times).</span>
 
 Thus, we see that order plays a significant role in determining any object’s properties. And while a ship like Titanic can freely float on the water surface, the same water molecules in a structured state can form an iceberg, which can be a potential threat to the mentioned ship.
 
