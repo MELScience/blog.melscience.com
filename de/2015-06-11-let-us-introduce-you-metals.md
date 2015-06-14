@@ -53,7 +53,7 @@ Die meisten Metalle sind sehr dehnbar. Stellen Sie sich vor: man kann einen Gold
 
 <img src="/images/metals5.png" width="600" height="195" alt="metals">
 
-<span style="color: grey; font-family:Helvetica; font-size:0.7em">{Деформируемость металлов} </span> 
+<span style="color: grey; font-family:Helvetica; font-size:0.7em">{(Deformation von Metallen)} </span> 
 
 Wegen Dehnbarkeit und Festigkeit sind Metalle ein ausgezeichnetes Material zum Schmieden – sie sind formbar. Allerdings werden Metalle bei niedrigen Temperaturen einigermaßen spröde.
 
