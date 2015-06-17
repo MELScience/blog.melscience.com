@@ -70,6 +70,7 @@ Some alloys have unusual properties. One such example is the shape-memory alloys
 <img src="/images/alloys7.jpg" width="600" height="566" alt="alloys">
 
 <a href="https://www.flickr.com/photos/arselectronica/5494003193/" style="color:blue; font-family:Helvetica; font-size:0.7em">{Ars Electronica: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Animated Lamp V/ a. g. r. a./ CC BY-NC-ND 2.0} </span>
+
 <span style="color:grey; font-family:Helvetica; font-size:0.7em;">(This lamps’ technology is based on shape memory wire. It consists of an alloy that “remembers” its shape and reassumes it as soon as it’s heated up by electrical current)</span>
 
 The whole idea of mixing metals and even nonmetals to make materials with new properties has good prospects in the future. So, do not despair – maybe one day creating adamantium will become possible.
