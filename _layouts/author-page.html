@@ -99,6 +99,9 @@
 
             <div class="col-sm-8 blog-main">
                 <h1>{{ page.author-name }}</h1>
+                {% if page.author-photo %}
+                  <img src="/images/authors/{{ page.author-photo }}" width="150" height="150" alt="" style="float: right; margin-left: 20px; margin-bottom: 20px;">
+                {% endif %}
                 {{ content }}
                 <hr>
                 {% assign posts = (site.pages | sort: 'url' | where: "language" , page.language | where: "type" , "blog-post" | where: "publish-status", "published" | where: "author-id", page.author-id) %}
