@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: СКОТЧ И НОБЕЛЕВСКАЯ ПРЕМИЯ: ПРИМЕНИ ПЕРВОЕ И ПОЛУЧИ ВТОРОЕ
+title: СКОТЧ И НОБЕЛЕВСКАЯ ПРЕМИЯ. ПРИМЕНИ ПЕРВОЕ И ПОЛУЧИ ВТОРОЕ
 type: blog-post
 author: Ievgen Zviagin
 author-id: ievgen-zviagin
