@@ -1,0 +1,62 @@
+---
+layout: blog-post
+title: Physics 2015 Nobel prize: Everything you need to know about neutrinos
+type: blog-post
+author:  Oleg Milyutin
+post-image: <img src="/images/neutrinos1.jpg" width="600" height="450" alt="Weekly box content">
+og-image: /images/neutrinos1.jpg
+language: en
+post-id: 2015-10-12
+publish-status: published
+---
+The Nobel prize is the most prestigious award in scientific world. This year laureates in physics have just recently been announced. Doctors Takaaki Kajita and Arthur McDonald were awarded jointly “for the discovery of neutrino oscillations, which shows that neutrinos have mass", as officially stated. What is it all about? Continue reading and learn more.
+
+<!-- more -->
+
+---
+
+<img src="/images/neutrinos1.jpg" width="600" height="450" alt="neutrinos">
+
+<a href="" style="color:blue; font-family:Helvetica; font-size:0.7em">{Max:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">Wolverine/ CC BY-NC-ND 2.0} </span>
+## What are neutrinos?
+
+First of all, let’s see what are neutrinos. Neutrino is elementary particle, which plays an important role in sub-atomic transformations. It was originally predicted by Wolfgang Pauli when he was working on the problem of beta decay. Beta decay is a type of radioactive decay that involves spontaneous emission of an electron or positron (electron’s anti particle) by an atom’s nucleus. The problem was with the energy of those emitted particles. It seemed that every time it was different! But in the same reaction, it should always be the same, right? Pauli suggested that there must be some other neutrally charged tiny little particle emitted, which carries the rest of the energy - so that the total energy of the reaction would remain constant.
+
+<img src="/images/neutrinos2.png" width="600" height="408" alt="neutrinos">
+
+Beta decay diagram. Neutron within the nucleus transforms into proton, electron and anti-neutrino (not showing on the larger picture). This type of beta decay is called beta minus decay (beta plus decay generates positron and regular neutrino instead of electron and anti-neutrino). 
+
+The concept was adapted by Italian physicist Enrico Fermi, who used it in his fundamental work in particle physics. He called this particle neutrino (that is, in Italian: little neutron, which was discovered few years earlier). Experimental evidence of its existence was obtained only ten years later. Neutrino was extremely hard to detect because of its size.
+
+<img src="/images/neutrinos3.jpg" width="600" height="450" alt="neutrinos">
+
+Hydrogen bubble chamber: lines here represent particles trajectories, but the original neutrino path is invisible because it didn’t interact with the chamber’s environment. However, the consequences of the collision can be observed. 
+
+Time went on, and things get more complicated. In the second half of the 20th century, scientists were developing the Standard Model of particle physics. A whole new range of particles was discovered and a lot of predictions have been made and confirmed. This theory classified all the particles according to their properties. Leptons, that is what we are interested in. These particles don’t take part in the fundamental strong interactions within atoms’ nuclei, but are subjected to the electroweak interactions. The further classification divides leptons into 3 generations.
+
+<img src="/images/neutrinos4.jpg" width="600" height="450" alt="neutrinos">
+
+Leptons’ 3 columns indicate 3 generations. Different generations of leptons interact with other particles identically, but the properties among them are different. Others particle families also present in the table: leptons and quarks (matter particles), gauge bosons and the Higgs boson (“force carrier” particles).
+
+As you can see, the first generation of leptons is represented by our old friend electron and electron neutrino – this is the original neutrino we discussed earlier. So what are those other leptons? Muons and tau lepton are electron analogs, but they are not stable and exist only in particle accelerators. On the other hand, muon neutrino and tau neutrino are more or less stable. That is all because of their size – exactly like the regular neutrino, they are so small, it is hard to detect them. They almost don’t interact with other particles. In fact, millions of different neutrinos are flying through the Earth every second without hitting anything!
+
+Now, we can talk about neutrino oscillations. Oscillations are transformations of neutrinos from one generation to another. The term was firstly used when scientists measured neutrinos travelling around us. Those experiments showed the discrepancy with the theory in two ways. First, the amount of neutrinos we receive from the Sun was approximately 3 times lesser. The second problem was cosmic rays generating muon neutrinos in the Earth’s atmosphere. Around 50% of theoretical amount was missing. The best way to explain this was assuming the existence of neutrino oscillations.
+
+<img src="/images/neutrinos5.jpg" width="600" height="300" alt="neutrinos">
+
+The Earth’s magnetic field is shielding the planet from most of solar radiation, but not from neutrally charged neutrinos.
+
+The goal was to measure neutrinos of all generations around us. And that was successfully done in 2001 by Super-Kamiokande and SNO laboratories in Japan and Canada respectively. The summing flux of neutrinos was exactly equal to the theoretical predictions. The third of all the Sun neutrinos were electron-neutrinos, which also verifies the previous experiments.
+
+<img src="/images/neutrinos6.jpg" width="600" height="425" alt="neutrinos">
+
+Super-Kamiokande detector. The detector consists of a large steel cylinder located 1000 meters underground. It is filled with 50000 tons of ultra pure water, so that when neutrino hits an electron or a nucleus, it produces particles that move faster than light in water (in water, this is possible). Such fast particles emit Cherenkov radiation, which is multiplied first and then caught by photo detectors. SNO system uses similar system, but it is filled with heavy (deuterium) water instead.
+
+Indeed, these results is the first analysis of neutrinos as individual particles. Neutrinos were considered as a “supporting actors” in some other interactions before that. The Super Kamiokande - SNO research provoked many other neutrino experiments. And using all the data, neutrino masses were calculated! After all, we knew nothing about neutrinos. This is a truly important event that certainly is going to clarify or even change the Standard Model. But even more, maybe in future we will learn how to control these particles. Imagine wireless signals at the speed of light… But more realistic usage would be analyzing neutrino flux coming out of nuclear reactors to see what is happening there and predict critical failures.
+
+<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
+
+<!-- Begin Twitter follow -->
+<a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- End Twitter follow -->
