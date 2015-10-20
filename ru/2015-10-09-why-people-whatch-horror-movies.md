@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: ПОЧЕМУ НАМ НРАВЯТСЯ ФИЛЬМЫ УЖАСОВ?
+title: Почему нам нравятся фильмы ужасов?
 type: blog-post
 author: Ievgen Zviagin
 author-id: ievgen-zviagin
@@ -48,8 +48,6 @@ publish-status: published
 red = oxygen , blue = nitrogen, black = carbon, grey = hydrogen
 
 <br/>
-
-<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
