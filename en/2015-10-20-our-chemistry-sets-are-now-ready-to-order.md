@@ -18,7 +18,7 @@ Hurrah! MEL Science chemistry sets are launching today! We're ready to <a href="
 It all started back in 2014 when our founder Vassili Philippov left Russia's largest internet company Yandex and started to excite top science and technology geeks with the idea of reinventing the way teens study chemistry. The challenge was to offer a great solution that would do more than just show curious chemistry tricks, like most similar sets. We want to provide a convenient and playful way for kids to discover what's happening inside a chemical reaction, why reagents interact the way they do, what's the scientific logic behind it, and why everyday processes go the way they go.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GkEeB8vSRyY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/watch?v=MGDwIcuWomo" frameborder="0" allowfullscreen></iframe>
 
 
 MEL Science chemistry sets are bundled with a <a href="https://melscience.com/en/app/"> mobile application</a> for iPad, iPhone, Android smartphones and tablets, which kids and parents can use to see 3D models of reagent molecules as if they were right before their very eyes. To make this experience even more impressive, we use a number of technologies including Google Cardboard, 3D graphics, macro photo and video, gamification.
