@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: СКОТЧ И НОБЕЛЕВСКАЯ ПРЕМИЯ. ПРИМЕНИ ПЕРВОЕ И ПОЛУЧИ ВТОРОЕ
+title: Скотч и Нобелевская премия. Примени первое и получи второе
 type: blog-post
 author: Ievgen Zviagin
 author-id: ievgen-zviagin
@@ -79,10 +79,7 @@ publish-status: published
 
 <br>
 
-
-<a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
-
 <!-- Begin Twitter follow -->
-<a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 <!-- End Twitter follow -->
