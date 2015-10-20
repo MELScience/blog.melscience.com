@@ -3,11 +3,11 @@ layout: blog-post
 title: Our chemistry sets are now ready to order
 type: blog-post
 author:  Vassili Philippov
-post-image: <img src="/images/tin.jpg" width="600" height="400" alt="tin">
+post-image: <img src="/images/tin.png" width="600" height="400" alt="tin">
 og-image: /images/tin.jpg
 language: en
 post-id: 2015-10-20
-publish-status: 
+publish-status: published
 
 ---
 Hurrah! MEL Science chemistry sets are launching today! We're ready to process your orders and ship chemistry sets to the US, UK and Russia.
