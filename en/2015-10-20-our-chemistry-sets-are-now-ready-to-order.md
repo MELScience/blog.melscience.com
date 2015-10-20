@@ -15,8 +15,6 @@ Hurrah! MEL Science chemistry sets are launching today! We're ready to <a href="
 
 ---
 
-<a href="https://melscience.com/en/chemistry-sets/"> 38 chemistry sets</a>
-
 It all started back in 2014 when our founder Vassili Philippov left Russia's largest internet company Yandex and started to excite top science and technology geeks with the idea of reinventing the way teens study chemistry. The challenge was to offer a great solution that would do more than just show curious chemistry tricks, like most similar sets. We want to provide a convenient and playful way for kids to discover what's happening inside a chemical reaction, why reagents interact the way they do, what's the scientific logic behind it, and why everyday processes go the way they go.
 
 
