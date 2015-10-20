@@ -3,7 +3,7 @@ layout: blog-post
 title: К старту готовы! Поехали!
 type: blog-post
 author:  Vassili Philippov
-post-image: <img src="/images/tin.png" width="600" height="400" alt="tin">
+post-image: <iframe width="560" height="315" src="https://www.youtube.com/embed/GkEeB8vSRyY" frameborder="0" allowfullscreen></iframe>
 og-image: /images/tin.png
 language: ru
 post-id: 2015-10-20
