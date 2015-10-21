@@ -81,7 +81,11 @@ MEL Science гарантирует своим подписчикам доста�
 нашего сайта. Пишите нам о своих впечатлениях от наборов, а также об идеях по их 
 улучшению на support@melscience.com. Мы будем признательны за ваши отзывы!
 
+<br>
+<br>
 <a href="https://melscience.com/ru" class="btn btn-primary btn-lg">Подробнее о MEL Chemistry</a>
+<br>
+<br>
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>

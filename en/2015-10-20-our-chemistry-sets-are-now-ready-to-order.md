@@ -25,7 +25,11 @@ MEL Science chemistry sets are bundled with a <a href="https://melscience.com/en
 Starting today, teens and parents in the United States, United Kingdom and Russia are able to subscribe to MEL Science sets and receive three boxes of <a href="https://melscience.com/en/experiments/"> incredible experiments</a>, with all the necessary reagents and equipment, every month for a year.  Add on the two extra sets in the <a href="https://melscience.com/en/starterkit/"> starter kit</a>, and over a year you get <a href="https://melscience.com/en/chemistry-sets/"> 38 chemistry sets</a> for almost 100 experiments that teens and their parents can easily and safely do together at home, to spend time discovering the world of chemistry and learning how everything works.
 We welcome your feedback – please let us know what you think of our sets by emailing us at support@melscience.com.
 
-<br/>
+<br>
+<br>
+<a href="https://melscience.com/en" class="btn btn-primary btn-lg">Learn more about MEL Chemistry</a>
+<br>
+<br>
 
 <!-- Begin Twitter follow -->
 <a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
