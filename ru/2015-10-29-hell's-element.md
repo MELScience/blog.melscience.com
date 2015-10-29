@@ -50,6 +50,7 @@ S + O<sub>2</sub> → SO<sub>2</sub>
 
 
 <img src="/images/hell5.jpg" width="400" height="400" alt="hell">
+
 <a href="https://www.flickr.com/photos/wild_speedy/5280885221/in/photolist-93DVcc-8zB9UY" style="color:blue; font-family:Helvetica; font-size:0.7em">{Kamchatka 2010 365:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">/ Einar Fredriksen / CC BY 2.0} </span>
 
 Как вы сами можете догадаться, газы в атмосфере ада совершенно не полезны для здоровья: SO<sub>2</sub> очень токсичен. Для отравления диоксидом серы характерны следующие симптомы: раздражение слизистой оболочки, насморк, кашель, хрипота. Не удивительно, что этот газ – фаворит дьявола.
