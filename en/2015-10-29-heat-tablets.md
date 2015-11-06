@@ -19,7 +19,7 @@ Hexamethylenetetramine, also known as hexamine or methenamine, is the main compo
 
 <img src="/images/heat_tablets_1.jpg" width="600" height="450" alt="heat_tablets">
 
-<a href="https://www.flickr.com/photos/everexplore/8510798236/sizes/o/" style="color:blue; font-family:Helvetica; font-size:0.7em">{EverExplore :</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> / CC BY-NC-ND 2.0} </span>
+<a href="https://www.flickr.com/photos/everexplore/8510798236/sizes/o/" style="color:blue; font-family:Helvetica; font-size:0.7em">{EverExplore:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> The camp/ CC BY-NC-ND 2.0} </span>
 
 <img src="/images/heat_tablets_2.jpg" width="600" height="150" alt="heat_tablets">
 
@@ -31,13 +31,13 @@ Back in the days of our childhood, most of us enjoyed spending time in summer ca
 
 <img src="/images/heat_tablets_3.jpg" width="600" height="408" alt="heat_tablets">
 
-<a href="https://commons.wikimedia.org/wiki/File:Beta-minus_Decay.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{Jelle:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">/CC BY-SA 2.0} </span>
+<a href="https://commons.wikimedia.org/wiki/File:Beta-minus_Decay.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{Jelle:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Campfire in Belarus/CC BY-SA 2.0} </span>
 
 To overcome this obstacle modern campers use heat tablets, more often called Esbit. These tablets are ultra-lightweight, portable, burn without smoke, and have a very high energy density. There are some drawbacks though, such as possible allergic reactions  and toxic fumes (formaldehyde, ammonia, nitrogen oxide, hydrogen cyanide). These toxic fumes (red colored) come mainly from the oxidation and decomposition of hexamine. Below you can see some possible hexamine oxidation and decomposition reactions:
 
 <img src="/images/heat_tablets_4.jpg" width="600" height="385" alt="heat_tablets">
 
-{Anton K @ MEL Science: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">/CC0} </span>
+{Anton K @ MEL Science: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Reactions of hexamine/CC0} </span>
 
 # Hexamine as a Food Additive
 
@@ -54,7 +54,7 @@ So, summarizing all the information stated in this article, we can easily draw a
 
 <img src="/images/heat_tablets_6.jpg" width="600" height="600" alt="heat_tablets">
 
-</a> <span style="color:blue; font-family:Helvetica; font-size:0.7em">{Anton K @ MEL Science: <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Example of medicines, containing methenamine as a main component/ CC0} </span>
+<span style="color:blue; font-family:Helvetica; font-size:0.7em">{Anton K @ MEL Science: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Example of medicines, containing methenamine as a main component/ CC0} </span>
 
 
 <a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
