@@ -54,7 +54,7 @@ So, summarizing all the information stated in this article, we can easily draw a
 
 <img src="/images/heat_tablets_6.jpg" width="600" height="600" alt="heat_tablets">
 
-{Anton K @ MEL Science: <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Example of medicines, containing methenamine as a main component/ CC0} </span>
+</a> <span style="color:blue; font-family:Helvetica; font-size:0.7em">{Anton K @ MEL Science: <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Example of medicines, containing methenamine as a main component/ CC0} </span>
 
 
 <a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
