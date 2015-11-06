@@ -21,7 +21,7 @@ Hexamethylenetetramine, also known as hexamine or methenamine, is the main compo
 
 <a href="https://www.flickr.com/photos/everexplore/8510798236/sizes/o/" style="color:blue; font-family:Helvetica; font-size:0.7em">{by EverExplore :</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> / CC BY-NC-ND 2.0} </span>
 
-<img src="/images/heat_tablets_2.jpg" width="1000" height="250" alt="heat_tablets">
+<img src="/images/heat_tablets_2.jpg" width="600" height="150" alt="heat_tablets">
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/9/9f/Synthesis_Hexamine.svg" style="color:blue; font-family:Helvetica; font-size:0.7em">{by Yikrazuul :</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Synthesis of hexamine / CC0} </span>
 
@@ -35,7 +35,7 @@ Back in the days of our childhood, most of us enjoyed spending time in summer ca
 
 To overcome this obstacle modern campers use heat tablets, more often called Esbit. These tablets are ultra-lightweight, portable, burn without smoke, and have a very high energy density. There are some drawbacks though, such as possible allergic reactions  and toxic fumes (formaldehyde, ammonia, nitrogen oxide, hydrogen cyanide). These toxic fumes (red colored) come mainly from the oxidation and decomposition of hexamine. Below you can see some possible hexamine oxidation and decomposition reactions:
 
-<img src="/images/heat_tablets_4.jpg" width="700" height="450" alt="heat_tablets">
+<img src="/images/heat_tablets_4.jpg" width="600" height="385" alt="heat_tablets">
 
 {Anton K.</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">/CC0} </span>
 
