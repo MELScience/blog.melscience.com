@@ -37,7 +37,7 @@ To overcome this obstacle modern campers use heat tablets, more often called Esb
 
 <img src="/images/heat_tablets_4.jpg" width="600" height="385" alt="heat_tablets">
 
-{Anton K @ MEL Science: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Reactions of hexamine/CC0} </span>
+<span style="color:blue; font-family:Helvetica; font-size:0.7em">{Anton K @ MEL Science: </span>  <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Reactions of hexamine/CC0} </span>
 
 # Hexamine as a Food Additive
 
@@ -45,7 +45,7 @@ Hexamine is useful not only for campers, but also for food manufacturers. This s
 
 <img src="/images/heat_tablets_5.jpg" width="600" height="450" alt="heat_tablets">
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/2/25/Maasdam-cheese.jpg" style="color:blue; font-family:Helvetica; font-size:0.7em">{Arz:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;">/CC BY-SA 3.0} </span>
+<a href="https://upload.wikimedia.org/wikipedia/commons/2/25/Maasdam-cheese.jpg" style="color:blue; font-family:Helvetica; font-size:0.7em">{Arz:</a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Maasdam cheese /CC BY-SA 3.0} </span>
 
 # Other Applications of Hexamethylenetetramine 
 
@@ -54,7 +54,7 @@ So, summarizing all the information stated in this article, we can easily draw a
 
 <img src="/images/heat_tablets_6.jpg" width="600" height="600" alt="heat_tablets">
 
-<span style="color:blue; font-family:Helvetica; font-size:0.7em">{Anton K @ MEL Science:<span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Example of medicines, containing methenamine as a main component/ CC0} </span>
+<span style="color:blue; font-family:Helvetica; font-size:0.7em">{Anton K @ MEL Science: </span> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Example of medicines, containing methenamine as a main component/ CC0} </span>
 
 
 <a href="https://twitter.com/mel_science">Subscribe to our Twitter</a>!
