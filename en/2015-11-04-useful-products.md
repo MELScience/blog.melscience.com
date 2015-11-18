@@ -19,7 +19,7 @@ According to the Earth System Research Laboratory, on April 2015 the concentrati
 
 <img src="/images/useful_products_1.jpg" width="600" height="400" alt="useful_products">
 
-<a href="https://www.flickr.com/photos/carbonquilt/8801958875/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{by Carbon Visuals: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Your share of global carbon dioxide/ CC BY 2.0 } </span>
+<a href="https://www.flickr.com/photos/carbonquilt/8801958875/sizes/l" style="color:blue; font-family:Helvetica; font-size:0.7em">{by Carbon Visuals: </a> <span style="color:grey; font-family:Helvetica; font-size:0.7em;"> Your share of global carbon dioxide/ CC BY 2.0} </span>
 
 ## A Serious Problem
 
