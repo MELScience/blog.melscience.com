@@ -1,0 +1,62 @@
+---
+layout: blog-post
+title: How one gesture can make the whole chemistry much easier for kids
+type: blog-post
+author:  Vassili Philippov
+author-id: vassili-philippov
+post-image: <img src="/images/codes.jpg" width="600" height="364" alt="MEL Codes">
+og-image: /images/codes.jpg
+language: en
+post-id: 2016-09-22
+publish-status: published
+
+---
+One of the most abstract, difficult things for kids studying chemistry is connecting two different worlds: our macro world and the micro world of molecules. With the new version of the MEL Chemistry app, which is available for iOS and Android, you can simply hold a bottle up to your smartphone camera and see 3D molecule structures of the substance inside the bottle. 
+<!-- more -->
+
+---
+
+See how it works in this video:
+
+Video here
+
+Usability is very important. It is so easy to use MEL Codes that kids will have fun checking different substances to look at 3D visualizations of their molecule and crystal structures. 
+We initially developed this feature for our MEL Chemistry subscription, but we decided to make it available for all chemistry teachers  around the world. You can download the MEL Chemistry app for free from the MEL Science website:
+
+<a href="http://www.melscience.com/app">http://www.melscience.com/app</a>
+
+
+## How it works
+
+If you have an MEL Chemistry subscription, each bottle you receive from us will have a special code printed on it. Every time you conduct an experiment, place your smartphone or iPad in the special holder to make it your window to the world of molecules. The MEL Chemistry app uses the front camera on your phone or tablet to recognize the codes on the bottles and show the corresponding molecules.
+
+However, this feature is not limited to those with paid MEL Chemistry subscriptions. You can also download and print MEL Codes for any container, whether you are in your lab or in your kitchen. Once you place an MEL Code on a container containing the corresponding substance, use the free MEL Chemistry app to visualize the molecules in 3D. This is a fun way for kids to learn about molecules by seeing what’s inside the container, whether it’s sugar, salt, or water.
+
+## Changing how kids conduct chemistry experiments
+
+Kids love chemistry experiments. But do they really learn the science behind what is happening, or do they just think the experiments are magic? The entire idea behind an MEL Chemistry subscription is to combine fun and education.
+
+We believe that each time you perform an experiment, you should have your smartphone or tablet right next to you. With the MEL Codes, you just need to hold a bottle containing a reagent up to your device’s camera, and the app will bring up a 3D visualization of the molecules inside the bottle. This allows you to easily learn about the molecular properties of a substance without taking off your gloves. This step requires minimal effort, it is fun, and kids love it.
+
+## Any chemistry teacher can use MEL Codes
+
+Chemistry teachers can use this app to help their students learn the molecular properties of the substances they are using in the lab. Teachers simply need to download the MEL codes from the MEL Science website (https://melscience.com/en/reagents), print them, and place the labels on the bottles containing the corresponding reagents. When students conduct experiments at the lab, they can easily use their smartphones to identify the molecule structures of the reagents they are using.
+
+## New code system to enable robust recognition with the front camera 
+
+Why did we create our own set of codes when we could have used an existing code system? The answer lies in the usability of the codes. We wanted to use a code system that would work flawlessly. The system had to recognize codes immediately. In addition, it needed to work with the front camera of a device, and we did not want a system that would require focusing. It is impossible achieve desired behavior with codes that encode a lot of information like QR codes. But we needed to distinguish a few hundred different chemicals, and we needed the system to run like clockwork. Therefore, we developed a new code system especially optimized for encoding a few bits of information that can be recognized by a device’s front camera.
+
+## Why not NFC?
+
+We thought about using NFC, but we discovered that NFC would not work for our purposes. First, many popular devices, including iPads, still do not support NFC. Devices that do support it have NFC readers on their backs, which means that you would need to hold the containers up to the back of your device. This just is not practical when your device is in a stand in front of you. 
+
+Furthermore, printing labels on a printer is much easier for teachers than purchasing special NFC labels.
+
+## About MEL Science
+
+At MEL Science, we have created a standalone educational package that will captivate your child by demonstrating real science principles in all their beauty and depth. We offer a next-generation chemistry set delivered as a monthly subscription. The subscription package includes 38 interactive hands-on chemistry sets. It also contains a mobile app that works as a virtual 3D microscope, enabling your child to better visualize what happens in each experiment at the molecular level. Visit our website to learn more about our sets and experiments.
+
+<!-- Begin Twitter follow -->
+<a href="https://twitter.com/mel_science" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @mel_science</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- End Twitter follow -->
