@@ -6,8 +6,8 @@ author:  Vassili Philippov
 post-image: <img src="/images/melchemistrylaunch.jpg" width="600" height="338" alt="tin">
 og-image: /images/melchemistrylaunch.jpg
 language: ru
-post-id: 2015-10-20
-publish-status: published
+post-id: 2016-10-04
+publish-status: unpublished
 
 ---
 Мы ищем Unity3D разработчика работать над платформой для создания уроков в VR.
