@@ -10,7 +10,7 @@ post-id: 2016-10-04
 publish-status: unpublished
 
 ---
-Мы ищем Unity3D разработчика работать над платформой для создания уроков в VR.
+Мы ищем Unity3D разработчика работать над платформой для создания уроков в VR/AR.
 
 Изменит ли VR мир? Да! Возможно, не так, и не там, где этого ожидают. 
 Но вот для обучения точным наукам VR подходит идеально. 
@@ -19,7 +19,6 @@ publish-status: unpublished
 потрогать. И прямо там "на месте" объяснить что и почему происходит. 
 
 Если вы 3D разработчик - то этот пост для вас. Если нет, то перешлите эту вакансию друзьям 3D разработчикам, возможно, это изменит их жизнь к лучшему.
-
 <!-- more -->
 
 ---
@@ -51,10 +50,3 @@ publish-status: unpublished
 Это так же весело, очень похожие технологии, но намного проще отвечать себе на вопрос "а что полезного я создаю для этого мира?". 
 
 <a class="btn btn-primary btn-lg active" href="http://scijob.ru/vacancy/2783" role="button">Послать свое резюме на позицию Unity3D Developer</a>
-
-<br>
-
-<!-- Begin Twitter follow -->
-<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-<!-- End Twitter follow -->
