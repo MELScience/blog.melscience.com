@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Вакансия: Unity3D developer
+title: Вакансия Unity3D developer
 type: blog-post
 author: Василий Филиппов
 author-id: vassili-philippov
