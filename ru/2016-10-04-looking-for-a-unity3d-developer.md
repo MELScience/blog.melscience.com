@@ -1,15 +1,15 @@
 ---
 layout: blog-post
-title: Вакансия: Unity3D developer
+title: К старту готовы! Поехали!
 type: blog-post
-author: Василий Филиппов
-author-id: vassili-philippov
-post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
+author:  Vassili Philippov
+post-image: <img src="/images/melchemistrylaunch.jpg" width="600" height="338" alt="tin">
+og-image: /images/melchemistrylaunch.jpg
 language: ru
-post-id: 2016-10-04
-publish-status: unpublished
----
+post-id: 2015-10-20
+publish-status: published
 
+---
 Мы ищем Unity3D разработчика работать над платформой для создания уроков в VR.
 
 Изменит ли VR мир? Да! Возможно, не так, и не там, где этого ожидают. 
@@ -18,12 +18,11 @@ publish-status: unpublished
 химической реакции или внутрь клетки и дать ему увидеть все своими глазами, 
 потрогать. И прямо там "на месте" объяснить что и почему происходит. 
 
+Если вы 3D разработчик - то этот пост для вас. Если нет, то перешлите эту вакансию друзьям 3D разработчикам, возможно, это изменит их жизнь к лучшему.
 
 <!-- more -->
 
 ---
-
-Если вы 3D разработчик - то этот пост для вас. Если нет, то перешлите эту вакансию друзьям 3D разработчикам, возможно, это изменит их жизнь к лучшему.
 
 ## Кого мы ищем
 
@@ -31,6 +30,10 @@ publish-status: unpublished
 * Вы умеете и любите программировать. Можете, например, в виде хобби выучить новый язык программирования.
 * В этот раз мы ищем человека с опытом Unity3D. Обычно мы готовы взять хорошего программиста и научить нужным нам технологиям, но сейчас мы хотим найти реально опытного человека, чтобы наша экспертиза Unity3D была расширена новым опытом.
 * Опыт VR не обязателен. Честно говоря, там не так уж много специфики с точки зрения разработчика по сравнению с обычным 3D. Мы быстро этому научим.
+
+* воссозданные в 3D молекулы реагентов можно изучать с помощью очков виртуальной реальности Google Cardboard (входят в стартовый набор); 
+* мы сняли множество видеороликов в режиме макро, чтобы показать ход эксперимента крупным планом;
+* за своим прогрессом в изучении химии дети могут следить в личном кабинете на сайте MEL Science. 
 
 ## Условия
 
@@ -51,4 +54,11 @@ publish-status: unpublished
 Многие из нас раньше разрабатывали игры. А теперь мы разрабатываем уроки химии, физики и биологии в виртуальной реальности. 
 Это так же весело, очень похожие технологии, но намного проще отвечать себе на вопрос "а что полезного я создаю для этого мира?". 
 
-<a class="btn btn-primary btn-lg active" href="http://scijob.ru/vacancy/2783" role="button">Послать свое резюме на позицию Unity3D разработчика</a>
+<a class="btn btn-primary btn-lg active" href="http://scijob.ru/vacancy/2783" role="button">Послать свое резюме на позицию Unity3D Developer</a>
+
+<br>
+
+<!-- Begin Twitter follow -->
+<a href="https://twitter.com/MelScienceRU" class="twitter-follow-button" data-show-count="false" data-lang="ru" data-size="large">Подписывайтесь на наш Твиттер</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<!-- End Twitter follow -->
