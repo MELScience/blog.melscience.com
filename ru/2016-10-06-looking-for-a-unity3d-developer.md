@@ -26,6 +26,8 @@ publish-status: published
 * У вас большой опыт Unity3D. Мы хотим найти реально опытного человека в Unity3D.
 * Опыт работы с VR необязателен. Честно говоря, там не так уж много специфики с точки зрения разработчика по сравнению с обычным 3D. Мы быстро этому научим.
 
+<img src="/images/unity.png" width="600" height="364" alt="Unity3D">
+
 ## Условия
 
 * Зарплата 200,000–250,000 в месяц до уплаты налогов.
@@ -43,4 +45,4 @@ publish-status: published
 
 Многие из нас раньше разрабатывали игры, а теперь мы создаём уроки в виртуальной реальности. Это так же весело, очень похожие технологии, но при этом намного проще отвечать себе на вопрос: «А что полезного я создаю для этого мира?»
 
-<a class="btn btn-primary btn-lg active" href="http://it-dominanta.ru/ru/vacancies/show/582" role="button">Отправить своё резюме на вакансию Unity3D Developer</a>
+<a class="btn btn-primary btn-lg active" href="http://it-dominanta.ru/ru/resume_applications/new?vacancy_id=582" role="button">Отправить своё резюме на вакансию Unity3D Developer</a>
