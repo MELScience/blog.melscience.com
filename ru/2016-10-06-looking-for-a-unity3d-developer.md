@@ -4,10 +4,10 @@ title: Вакансия – Unity3D developer
 type: blog-post
 author: Василий Филиппов
 author-id: vassili-philippov
-post-image: <img src="/images/lifeinsidethecell.jpg" width="600" height="400" alt="Inner life of a cell">
+post-image: <img src="/images/unity.png" width="600" height="364" alt="Unity3D">
 language: ru
-post-id: 2016-10-05
-publish-status: unpublished
+post-id: 2016-10-06
+publish-status: published
 ---
 
 Мы ищем Unity3D-разработчика для работы над платформой по созданию уроков в VR/AR в области естественных наук.
@@ -43,4 +43,4 @@ publish-status: unpublished
 
 Многие из нас раньше разрабатывали игры, а теперь мы создаём уроки в виртуальной реальности. Это так же весело, очень похожие технологии, но при этом намного проще отвечать себе на вопрос: «А что полезного я создаю для этого мира?»
 
-<a class="btn btn-primary btn-lg active" href="http://scijob.ru/vacancy/2783" role="button">Отправить своё резюме на вакансию Unity3D Developer</a>
+<a class="btn btn-primary btn-lg active" href="http://it-dominanta.ru/ru/vacancies/show/582" role="button">Отправить своё резюме на вакансию Unity3D Developer</a>
