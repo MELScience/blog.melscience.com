@@ -6,7 +6,7 @@ author: Василий Филиппов
 author-id: vassili-philippov
 post-image: <img src="/images/performancemarketing.jpg" width="590" height="350" alt="Performance Marketing">
 language: ru
-post-id: 2016-10-15
+post-id: 2016-10-16
 publish-status: published
 ---
 Мы ищем специалиста по peformance-маркетингу – человека, способного перепробовать множество разных каналов привлечения пользователей, оптимизировать и измерить каждый из них и найти наиболее эффективные.
@@ -52,4 +52,4 @@ publish-status: published
 * Участие в конференциях в Англии и США.
 
 
-<a class="btn btn-primary btn-lg active" href="mail-to:hr@melscience.com" role="button">Отправить своё резюме на вакансию «Специалист по performance-маркетингу»</a>
+<a class="btn btn-primary btn-lg active" href="mailto:jobs@melscience.com" role="button">Отправить своё резюме</a>
