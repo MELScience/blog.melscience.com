@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Hiring: performance marketing
+title: Hiring - performance marketing
 type: blog-post
 author: Vassili Philippov
 author-id: vassili-philippov
