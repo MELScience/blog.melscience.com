@@ -1,10 +1,10 @@
----
+﻿---
 layout: blog-post
 title: Вакансия – React Native software developer/product manager
 type: blog-post
 author: Василий Филиппов
 author-id: vassili-philippov
-post-image: <img src="/images/reactnative.jpg" width="590" height="320" alt="React Native">
+post-image: <img src="/images/reactnative2.jpg" width="590" height="332" alt="React Native">
 language: ru
 post-id: 2017-02-17
 publish-status: published
