@@ -1,4 +1,4 @@
-﻿---
+---
 layout: blog-post
 title: Вакансия – React Native software developer/product manager
 type: blog-post
