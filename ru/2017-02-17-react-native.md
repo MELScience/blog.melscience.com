@@ -62,4 +62,4 @@ publish-status: published
 * Неограниченный бюджет на книги и онлайн-курсы.
 * Участие в конференциях в Англии и США.
 
-<a class="btn btn-primary btn-lg active" href="mailto:jobs@melscience.com" role="button">Отправить своё резюме</a>
+<a class="btn btn-primary btn-lg active" href="http://it-dominanta.ru/ru/vacancies/show/620" role="button">Отправить своё резюме</a>
