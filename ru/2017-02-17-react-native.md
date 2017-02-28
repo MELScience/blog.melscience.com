@@ -34,7 +34,7 @@ publish-status: published
 * Опыт работы product manager-ом (подойдет опыт своего продукта)
 * Хорошее знание английского
 
-## Требования
+## Будет преймуществом
 
 * Опыт в React Native
 * Умение работы с Python (наш server-side на Python)
