@@ -38,7 +38,12 @@ Most platforms now operate at 90 frames per second (FPS), which more or less sol
 
 When you move your head left to right or front to back in real life, the picture changes. But in virtual reality, it often does not—even though your mind expects it to. The result is the same seasickness. Devices like Cardboard, Daydream and Gear cannot detect this kind of movement, while the HTC Vive only can because of what is called "room-scale" VR. External sensors and a lot of set-up are needed for the movement to be detected, which isn't viable for mass adoption. 
 
-The solution will come when platforms can detect movement without external sensors—something that's called "inside tracking." Currently, Microsoft is the only company that has released inside tracking, through its HoloLens. Google and Facebook are both working on this as well, though. As a result, I expect that by the end of the year, most platforms will get inside tracking.
+The solution will come when platforms can detect movement without external sensors—something that's called "inside tracking." Currently, Microsoft is the only company that has released inside tracking, through its HoloLens. Google and Facebook are both working on this as well, though. 
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/Qe10ExwzCqk?start=73&rel=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
+As a result, I expect that by the end of the year, most platforms will get inside tracking.
 
 ## Problem 3: Eye focusing
 
@@ -57,7 +62,7 @@ Do you remember how Steve Jobs introduced iPhone 4 with retina display back in 2
 > "It turns out that there’s a magic number right around 300 pixels per inch, that when you hold something
 > around 10 or 12 inches away from your eyes, is the limit of the human retina to differentiate the pixels."
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/j0L3LDabve8?start=2200&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/j0L3LDabve8?start=2200&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 But a smartphone only has to cover about 1% of your view. With virtual reality, reaching "retina display" is much more challenging; the screen is projected to almost your entire retina. That is much, much more than what existing hardware can handle. We do not have screens with such resolutions; we do not have graphics cards that can generate such high-resolution pictures in real time; we do not have cables that can transfer such videos.
@@ -80,13 +85,13 @@ and announced the first iPhone:
 > We’re gonna use a pointing device that we’re all born with – 
 > we’re born with ten of them. We’re gonna use our fingers.
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/9hUIxyE2Ns8?start=405&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/9hUIxyE2Ns8?start=405&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
 
 
-<iframe width="640" height="480" src="http://www.youtube.com/embed/rnlCGw-0R8g?start=18&rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/rnlCGw-0R8g?start=15&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 
