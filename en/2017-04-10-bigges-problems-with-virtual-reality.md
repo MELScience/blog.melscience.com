@@ -19,7 +19,7 @@ A person capable of probing multiple user engagement channels, optimizing each o
 
 Virtual reality, at its core, forces us to believe we are somewhere we're not. We cheat our brain. If the brain detects any falsehood, any gap between what you see and what you expect from your environment, defense mechanisms are triggered. It is the same effect as sea sickness.
 
-> ## Why do we have seasickness?
+> ### Why do we have seasickness?
 > People often say that motion sickness you often experience on a sea cruise is a result of signal mismatch 
 > between what you see with your eyes and signals from your inner ear? If you look at something fixed to a 
 > boat, your eyes see that that object does not move while your internal “g-sensor” feels you are moving left 
@@ -50,7 +50,15 @@ The second solution is called "light field," which is when the picture itself ha
 
 ## Problem 4: Low resolution
 
-The iPhone currently has "retina display," which means the resolution is so high, our eyes would not be able to tell if it got any higher. But a smartphone only has to cover about 1% of your view. With virtual reality, reaching "retina display" is much more challenging; the screen is projected to almost your entire retina. That is much, much more than what existing hardware can handle. We do not have screens with such resolutions; we do not have graphics cards that can generate such high-resolution pictures in real time; we do not have cables that can transfer such videos.
+Do you remember how Steve Jobs introduced iPhone 4 with retina display back in 2010:
+
+> It turns out that there’s a magic number right around 300 pixels per inch, that when you hold something
+> around 10 or 12 inches away from your eyes, is the limit of the human retina to differentiate the pixels.
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/j0L3LDabve8?start=2200&rel=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
+But a smartphone only has to cover about 1% of your view. With virtual reality, reaching "retina display" is much more challenging; the screen is projected to almost your entire retina. That is much, much more than what existing hardware can handle. We do not have screens with such resolutions; we do not have graphics cards that can generate such high-resolution pictures in real time; we do not have cables that can transfer such videos.
 
 I think it will take almost ten years to get retina quality in VR. The good news is that virtual reality can enjoy success without super-high quality. And as it does, demand for improved quality in VR will actually drive progress in computer hardware.
 
@@ -62,7 +70,13 @@ Mobile and wireless VR solve this problem. The problem with wireless platforms i
 
 ## Problem 6: No good input
 
-In the early days of smartphones, everyone used a stylus to write. Then, Steve Jobs reminded everyone that our fingers work just as well, if not better. There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
+In the early days of smartphones, everyone used a stylus to write. Then, Steve Jobs came to the scene 
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/9hUIxyE2Ns8?start=405&rel=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
+
+reminded everyone that our fingers work just as well, if not better. There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
 
 Google Daydream and latest the Gear pointer controllers are two very interesting option, because they allow users to hold their hands in comfortable position. This is important, because holding your hands out in front of you can get tiring. (Try it!) I believe in two to four years, we will get robust hand tracking with built-in cameras. But I also believe we need to find some creative solution for input problem in VR, because even hand-tracking technology doesn't solve the fatigue issue.
 
