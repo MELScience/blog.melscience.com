@@ -44,6 +44,8 @@ The solution will come when platforms can detect movement without external senso
 
 In VR, the screen gives two pictures for your eyes—one display for the left and one for the right. One thing lacking, though, is the ability to focus on different things within those pictures, like you do in real life. The same problem exists in 3D movies, but it's not as big of a deal. From a focusing point of view, something that is 30 feet away doesn't look all that different from something that is 300 feet away. But when the difference is between something that's 30 feet away and something 3 feet away—which happens often in VR—the difference is huge.
 
+<img src="/images/vrproblems-focusung.jpg" width="600" height="269" alt="Focusing on different objects lead to different bluring">
+
 One solution to this is eye tracking, which is where small cameras inside VR headsets track the user's eyes change the picture's focus based on where they are looking. Eye tracking is also useful because rendering objects in peripheral vision in lower quality saves GPU resources. 
 
 The second solution is called "light field," which is when the picture itself has the same light field as an object, so you can focus on different parts. It's kind of like a hologram instead of a picture. People say Magic Leap has light field prototypes working, but those are just rumors; there is no real product yet. I believe we will probably we will see the first commercial light field devices in about two to three years, but that it will take closer to five years to make those products good.
@@ -52,8 +54,8 @@ The second solution is called "light field," which is when the picture itself ha
 
 Do you remember how Steve Jobs introduced iPhone 4 with retina display back in 2010:
 
-> It turns out that there’s a magic number right around 300 pixels per inch, that when you hold something
-> around 10 or 12 inches away from your eyes, is the limit of the human retina to differentiate the pixels.
+> "It turns out that there’s a magic number right around 300 pixels per inch, that when you hold something
+> around 10 or 12 inches away from your eyes, is the limit of the human retina to differentiate the pixels."
 
 <iframe width="640" height="480" src="http://www.youtube.com/embed/j0L3LDabve8?start=2200&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
