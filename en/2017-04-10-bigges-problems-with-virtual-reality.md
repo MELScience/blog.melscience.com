@@ -72,13 +72,23 @@ Mobile and wireless VR solve this problem. The problem with wireless platforms i
 
 ## Problem 6: No good input
 
-In the early days of smartphones, everyone used a stylus to write. Then, Steve Jobs came to the scene 
+In the early days of smartphones, everyone used a stylus to write. Then, Steve Jobs came to the scene in 2007
+and announced the first iPhone:
+
+> "Nobody wants a stylus. So let’s not use a stylus.
+> We’re gonna use the best pointing device in the world. 
+> We’re gonna use a pointing device that we’re all born with – 
+> we’re born with ten of them. We’re gonna use our fingers.
 
 <iframe width="640" height="480" src="http://www.youtube.com/embed/9hUIxyE2Ns8?start=405&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
+There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
 
-reminded everyone that our fingers work just as well, if not better. There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/rnlCGw-0R8g?start=18&rel=0" frameborder="0" allowfullscreen></iframe>
+<br>
+
 
 Google Daydream and latest the Gear pointer controllers are two very interesting option, because they allow users to hold their hands in comfortable position. This is important, because holding your hands out in front of you can get tiring. (Try it!) I believe in two to four years, we will get robust hand tracking with built-in cameras. But I also believe we need to find some creative solution for input problem in VR, because even hand-tracking technology doesn't solve the fatigue issue.
 
