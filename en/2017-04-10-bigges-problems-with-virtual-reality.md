@@ -50,9 +50,9 @@ As a result, I expect that by the end of the year, most platforms will get insid
 
 ## Problem 3: Eye focusing
 
-Let's assume the first two problems are completelly solved. What else can visually hint our brain that it is cheated and this virtual reality is not real?
+<font color="blue">Let's assume the first two problems are completelly solved. What else can visually hint our brain that it is cheated and this virtual reality is not real?</font>
 
-In VR, the screen gives two pictures for your eyes—one display for the left and one for the right. One thing lacking, though, is the ability to focus on different things within those pictures, like you do in real life. When you focus on a close object everything on the background becomes 
+In VR, the screen gives two pictures for your eyes—one display for the left and one for the right. One thing lacking, though, is the ability to focus on different things within those pictures, like you do in real life. <font color="blue">When you focus on a close object everything on the background becomes blured and vice versa:</font>
 
 <img src="/images/vrproblems-focusung.jpg" width="600" height="269" alt="Focusing on different objects lead to different bluring">
 
@@ -65,7 +65,7 @@ The second solution is called "light field," which is when the picture itself ha
 
 ## Problem 4: Low resolution
 
-Do you remember how Steve Jobs introduced iPhone 4 with retina display back in 2010:
+<font color="blue">Do you remember how Steve Jobs introduced iPhone 4 with retina display back in 2010:</font>
 
 > "It turns out that there’s a magic number right around 300 pixels per inch, that when you hold something
 > around 10 or 12 inches away from your eyes, is the limit of the human retina to differentiate the pixels."
@@ -85,8 +85,7 @@ Mobile and wireless VR solve this problem. The problem with wireless platforms i
 
 ## Problem 6: No good input
 
-In the early days of smartphones, everyone used a stylus to write. Then, Steve Jobs came to the scene in 2007
-and announced the first iPhone:
+In the early days of smartphones, everyone used a stylus to write. <font color="blue">Then, Steve Jobs came to the scene in 2007 and announced the first iPhone:</font>
 
 > "Nobody wants a stylus. So let’s not use a stylus.
 > We’re gonna use the best pointing device in the world. 
@@ -98,12 +97,11 @@ and announced the first iPhone:
 
 There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
 
-
 <iframe width="640" height="360" src="http://www.youtube.com/embed/rnlCGw-0R8g?start=15&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
 
-Google Daydream and latest the Gear pointer controllers are two very interesting option, because they allow users to hold their hands in comfortable position. This is important, because holding your hands out in front of you can get tiring. (Try it!) I believe in two to four years, we will get robust hand tracking with built-in cameras. But I also believe we need to find some creative solution for input problem in VR, because even hand-tracking technology doesn't solve the fatigue issue.
+Google Daydream and latest the GearVR pointer controllers are two very interesting option, because they allow users to hold their hands in comfortable position. This is important, because holding your hands out in front of you can get tiring. (Try it!) I believe in two to four years, we will get robust hand tracking with built-in cameras. But I also believe we need to find some creative solution for input problem in VR, because even hand-tracking technology doesn't solve the fatigue issue.
 
 ## Problem 7: Disconnected from the real word
 
@@ -112,3 +110,6 @@ Smartphones are true everyday devices; they have a social aspect and can be used
 This is a fundamental problem of VR that cannot be solved. Instead, the only solution is augmented reality (AR), but that's an entirely different technology, and one with no mass market products available yet. Still, everyone believes that one day they will come. Imagine, for instance, AR through some kind of glasses you could always wear. 
 
 Of course, those glasses will likely come with their own hurdles that we'll need to solve.
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/lK_cdkpazjI?rel=0" frameborder="0" allowfullscreen></iframe>
+<br>
