@@ -15,7 +15,7 @@ A person capable of probing multiple user engagement channels, optimizing each o
 
 ---
 
-## Problem 1: Response time when head turns
+## <font color="blue">Problem 1: Lags</font>
 
 Virtual reality, at its core, forces us to believe we are somewhere we're not. We cheat our brain. If the brain detects any falsehood, any gap between what you see and what you expect from your environment, defense mechanisms are triggered. It is the same effect as sea sickness.
 
@@ -36,9 +36,11 @@ Most platforms now operate at 90 frames per second (FPS), which more or less sol
 
 ## Problem 2: Head tracking
 
+Assuming the first problem is solved and there are no delays
+
 When you move your head left to right or front to back in real life, the picture changes. But in virtual reality, it often does not—even though your mind expects it to. The result is the same seasickness. Devices like Cardboard, Daydream and Gear cannot detect this kind of movement, while the HTC Vive only can because of what is called "room-scale" VR. External sensors and a lot of set-up are needed for the movement to be detected, which isn't viable for mass adoption. 
 
-The solution will come when platforms can detect movement without external sensors—something that's called "inside tracking." Currently, Microsoft is the only company that has released inside tracking, through its HoloLens. Google and Facebook are both working on this as well, though. 
+The solution will come when platforms can detect movement without external sensors—something that's called "inside-out tracking." It is the holy grail of Virtual Reality for 2017. Currently, Microsoft is the only company that has released inside tracking, through its HoloLens. Google and Facebook are both working on this as well, though. 
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/Qe10ExwzCqk?start=73&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
@@ -47,9 +49,14 @@ As a result, I expect that by the end of the year, most platforms will get insid
 
 ## Problem 3: Eye focusing
 
-In VR, the screen gives two pictures for your eyes—one display for the left and one for the right. One thing lacking, though, is the ability to focus on different things within those pictures, like you do in real life. The same problem exists in 3D movies, but it's not as big of a deal. From a focusing point of view, something that is 30 feet away doesn't look all that different from something that is 300 feet away. But when the difference is between something that's 30 feet away and something 3 feet away—which happens often in VR—the difference is huge.
+Let's assume the first two problems are completelly solved. What else can visually hint our brain that it is cheated and this virtual reality is not real?
+
+In VR, the screen gives two pictures for your eyes—one display for the left and one for the right. One thing lacking, though, is the ability to focus on different things within those pictures, like you do in real life. When you focus on a close object everything on the background becomes 
 
 <img src="/images/vrproblems-focusung.jpg" width="600" height="269" alt="Focusing on different objects lead to different bluring">
+
+
+The same problem exists in 3D movies, but it's not as big of a deal. From a focusing point of view, something that is 30 feet away doesn't look all that different from something that is 300 feet away. But when the difference is between something that's 30 feet away and something 3 feet away—which happens often in VR—the difference is huge.
 
 One solution to this is eye tracking, which is where small cameras inside VR headsets track the user's eyes change the picture's focus based on where they are looking. Eye tracking is also useful because rendering objects in peripheral vision in lower quality saves GPU resources. 
 
