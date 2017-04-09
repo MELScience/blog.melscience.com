@@ -15,11 +15,11 @@ A person capable of probing multiple user engagement channels, optimizing each o
 
 ---
 
-## <font color="blue">Problem 1: Lags</font>
+## Problem 1: <font color="blue">Lags</font>
 
-Virtual reality, at its core, forces us to believe we are somewhere we're not. We cheat our brain. If the brain detects any falsehood, any gap between what you see and what you expect from your environment, defense mechanisms are triggered. It is the same effect as sea sickness.
+Virtual reality, at its core, forces us to believe we are somewhere we're not. <font color="blue">We cheat our brain.</font> If the brain detects any falsehood, any gap between what you see and what you expect from your environment, defense mechanisms are triggered. <font color="blue">It is the same effect as sea sickness.</font>
 
-> ### Why do we have seasickness?
+> <font color="blue">### Why do we have seasickness?
 > People often say that motion sickness you often experience on a sea cruise is a result of signal mismatch 
 > between what you see with your eyes and signals from your inner ear? If you look at something fixed to a 
 > boat, your eyes see that that object does not move while your internal “g-sensor” feels you are moving left 
@@ -28,19 +28,20 @@ Virtual reality, at its core, forces us to believe we are somewhere we're not. W
 > It is because in wild-life your body knew only one dangerous situation when you can feel moving when your 
 > eyes tell you are not – poisoning with neurotoxins. So, it is a natural body reaction is to empty your 
 > stomach and save you from such poisoning. Although you are not poisoned on a ship your body wrongly thinks 
-> you are. Now you know science behind motion sickness.
+> you are. Now you know science behind motion sickness.</font>
 
-When you turn your head quickly in virtual reality, the picture's rotation is usually delayed, causing such a gap and your brain thinks you are poisoned.
+<font color="blue">When you turn your head quickly in virtual reality, the picture's rotation is usually delayed, causing such a gap and your brain thinks you are poisoned.</font>
 
 Most platforms now operate at 90 frames per second (FPS), which more or less solves the issue. Only Google's Cardboard and mobile options like Gear VR and Google Daydream don't have the necessary speed. Still, they employ other tricks to minimize the gap. Cardboard has no straps, for instance, so users must hold it with their hands. This means rotating one's head entails rotating one's whole body, which slows down the motion. As VR continues to mature, I don't think this gap will be an issue at all.
 
 ## Problem 2: Head tracking
 
-Assuming the first problem is solved and there are no delays
+<font color="blue">Even if the first problem is solved and there are no delays there is still one situation
+when your brain thinks you are poisoned.</font>.
 
-When you move your head left to right or front to back in real life, the picture changes. But in virtual reality, it often does not—even though your mind expects it to. The result is the same seasickness. Devices like Cardboard, Daydream and Gear cannot detect this kind of movement, while the HTC Vive only can because of what is called "room-scale" VR. External sensors and a lot of set-up are needed for the movement to be detected, which isn't viable for mass adoption. 
+When you move your head left to right or front to back in real life, the picture changes. But in virtual reality, it often does not—even though your mind expects it to. The result is the same seasickness. Devices like Cardboard, Daydream and GearVR cannot detect this kind of movement, while the HTC Vive and Oculus Rift can because of <font color="blue">external sensors that track position</font>. <font color="blue">These</font> external sensors and a lot of set-up are needed for the movement to be detected, which isn't viable for mass adoption. 
 
-The solution will come when platforms can detect movement without external sensors—something that's called "inside-out tracking." It is the holy grail of Virtual Reality for 2017. Currently, Microsoft is the only company that has released inside tracking, through its HoloLens. Google and Facebook are both working on this as well, though. 
+The solution will come when platforms can detect movement without external sensors—something that's called "inside-out tracking." <font color="blue">It is the holy grail of Virtual Reality for 2017.</font> Currently, Microsoft is the only company that has released inside tracking, through its HoloLens. Google and Facebook are both working on this as well, though. <font color="blue">Look for example at this promising technology called Google Tango that can detect device position inside a room:</font>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/Qe10ExwzCqk?start=73&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
