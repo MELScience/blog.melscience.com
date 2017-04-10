@@ -11,7 +11,7 @@ publish-status: not-published
 ---
 Imagine putting on a headset and being able to walk through the floorplan of a not-yet-built building or float through outer space. Pretty awesome, huh? I remember similar excitment back in 2004 when I hold one of the first smartphones or in 2010 when I got my first 3D TV.
 
-Yes, the first smartphones in 2004 and the first 3D TV sets in 2010 had similar early day problems as virtual reality has today. But we believed that they would be solved soon and this technology would conquer the world.
+Yes, the first smartphones in 2004 and the first 3D TV sets in 2010 had many early day problems, similar to the problems virtual reality has today. But we believed that they would be solved soon and this technology would conquer the world.
 
 It happened with smartphones, but has not happen with 3D TV. What will happen with VR? What are the main problems with VR? Will it overcome the significant hurdles it has today or some of these problems will kill VR in the end? 
 <!-- more -->
@@ -23,7 +23,7 @@ It happened with smartphones, but has not happen with 3D TV. What will happen wi
 Virtual reality, at its core, forces us to believe we are somewhere we're not. We cheat our brain. If the brain detects any falsehood, any gap between what you see and what you expect from your environment, defense mechanisms are triggered. It is the same effect as sea sickness.
 
 > ### Why do we have seasickness?
-> People often say that motion sickness you often experience on a sea cruise is a result of signal mismatch 
+> People say that motion sickness you often experience on a sea cruise is a result of signal mismatch 
 > between what you see with your eyes and signals from your inner ear? If you look at something fixed to a 
 > boat, your eyes see that that object does not move while your internal “g-sensor” feels you are moving left 
 > and right. 
@@ -98,13 +98,12 @@ In the early days of smartphones, everyone used a stylus to write. Then, Steve J
 <iframe width="640" height="360" src="http://www.youtube.com/embed/9hUIxyE2Ns8?start=405&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
-There is a similar situation in VR; we use handheld controllers for the HTC Vive and Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
+There is a similar situation in VR; we use handheld controllers for the VR devices like HTC Vive or Oculus Rift. In order for VR to get rid of its stylus equivalent, hand-tracking technology has a ways to go. Leap Motion has hand-tracking technology, but it's still not good enough for the mass market. 
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/rnlCGw-0R8g?start=15&rel=0" frameborder="0" allowfullscreen></iframe>
 <br>
 
-
-Google Daydream and latest the GearVR pointer controllers are two very interesting option, because they allow users to hold their hands in comfortable position. This is important, because holding your hands out in front of you can get tiring. (Try it!) I believe in two to four years, we will get robust hand tracking with built-in cameras. But I also believe we need to find some creative solution for input problem in VR, because even hand-tracking technology doesn't solve the fatigue issue.
+Google Daydream and latest the GearVR pointer controllers are a very interesting option, because they allow users to hold their hands in comfortable position. This is important, because holding your hands out in front of you for an hour can get tiring. (Try it!) I believe in two to four years, we will get robust hand tracking with built-in cameras. But I also believe we need to find some creative solution for input problem in VR, because even hand-tracking technology doesn't solve the fatigue issue.
 
 ## Problem 7: Disconnected from the real word
 
