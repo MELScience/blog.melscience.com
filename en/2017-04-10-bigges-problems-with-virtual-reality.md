@@ -9,8 +9,7 @@ language: en
 post-id: 2017-04-10
 publish-status: not-published
 ---
-We are looking for a performance marketing specialist.
-A person capable of probing multiple user engagement channels, optimizing each of them, measuring their parameters and singling out the best ones.
+Virtual reality was first hyped in the early nineties but is now enjoying a renaissance thanks in part to computing progress driven by the mobile revolution. Still, several problems remain that must be solved in order for VR to reach its full potential.
 <!-- more -->
 
 ---
