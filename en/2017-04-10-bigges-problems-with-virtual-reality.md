@@ -19,8 +19,8 @@ A person capable of probing multiple user engagement channels, optimizing each o
 
 Virtual reality, at its core, forces us to believe we are somewhere we're not. <font color="blue">We cheat our brain.</font> If the brain detects any falsehood, any gap between what you see and what you expect from your environment, defense mechanisms are triggered. <font color="blue">It is the same effect as sea sickness.</font>
 
-> <font color="blue">### Why do we have seasickness?
-> People often say that motion sickness you often experience on a sea cruise is a result of signal mismatch 
+> ### <font color="blue">Why do we have seasickness?</font>
+> <font color="blue">People often say that motion sickness you often experience on a sea cruise is a result of signal mismatch 
 > between what you see with your eyes and signals from your inner ear? If you look at something fixed to a 
 > boat, your eyes see that that object does not move while your internal “g-sensor” feels you are moving left 
 > and right. 
