@@ -9,7 +9,7 @@ language: en
 post-id: 2017-04-10
 publish-status: not-published
 ---
-Imagine putting on a headset and being able to walk through the floorplan of a not-yet-built building or float through outer space. Pretty awesome, huh? I remember similar excitment back in 2004 when I hold one of the first smartphones or in 2010 when I got my first 3D TV.
+Imagine putting on a headset and being able to walk through the floorplan of a not-yet-built building or float through outer space. Pretty awesome, huh? I remember similar excitement back in 2004 when I hold one of the first smartphones or in 2010 when I got my first 3D TV.
 
 Yes, the first smartphones in 2004 and the first 3D TV sets in 2010 had many early day problems, similar to the problems virtual reality has today. But we believed that they would be solved soon and this technology would conquer the world.
 
@@ -35,7 +35,13 @@ Virtual reality, at its core, forces us to believe we are somewhere we're not. W
 
 When you turn your head quickly in virtual reality, the picture's rotation is usually delayed, causing such a gap and your brain thinks you are poisoned.
 
-Most platforms now operate at 90 frames per second (FPS), which more or less solves the issue. Only Google's Cardboard and mobile options like Gear VR and Google Daydream don't have the necessary speed. Still, they employ other tricks to minimize the gap. Cardboard has no straps, for instance, so users must hold it with their hands. This means rotating one's head entails rotating one's whole body, which slows down the motion. As VR continues to mature, I don't think this gap will be an issue at all.
+It seems obvious that response time between your move your head and the picture on the screen changes could not be less than time of one frame. Most of the advanced VR platforms operate at 90 frames per second (FPS) today. Which give us theoretically minimum delay of 1/90 of a second (~11ms). It is a pretty good result and in most cases it is enough.
+
+The mobile phone screens operate at 60 FPS which corresponds to 17ms delay. This delay is already big enough that you feel it. However moderns mobile VR platforms like Daydream have one trick how to reduce this time. In the end of a frame, just before the rendered picture is ready to be placed on the screen the smartphones reads information from the sensors again and slightly move the picture to compensate small head rotation that happened while this frame was calculated.
+
+Only Google's Cardboard has a significant problem here. The delays are huge (could be more than 100ms). That is why Google Cardboards have no straps, so users must hold it with their hands. This means rotating one's head entails rotating one's whole body, which slows down the motion. 
+
+As VR continues to mature, I don't think this gap will be an issue at all.
 
 ## Problem 2: Head tracking
 
