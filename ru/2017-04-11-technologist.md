@@ -22,7 +22,19 @@ publish-status: notpublished
 
 <a href="https://melscience.com/">MEL Chemistry</a> — это подписка на химические опыты. Можно смело сказать, что это самый крутой детский химический набор в мире. Каждый месяц подписчики получают по почте новые наборы с <a href="https://melscience.com/ru/experiments/">интересными опытами</a>. Проект стартовал в октябре 2015 года и быстро растет. Большинство подписчиков — в США и Англии. 
 
-С одной стороны, подписка дает большие преймущестра с образовательной точки зрения. Но с точки зрения производства, подписка - это жесткий режим, когда мы каждый месяц производим два новых набора. Каждый месяц новые спецификации, немного другие процессы. Наша задача построить эффективное, но гибкое производство.
+С одной стороны, подписка дает большие преймущестра с образовательной точки зрения. Но с точки зрения производства, подписка - это жесткий режим, когда мы каждый месяц производим <a href="https://melscience.com/ru/chemistry-sets/">два новых набора</a>. Каждый месяц новые спецификации, немного другие процессы. Наша задача - построить эффективное, но гибкое производство.
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1481532965501784";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-video" data-href="https://www.facebook.com/XinhuaNewsAgency.th/videos/1900496140166399/" data-width="600" data-show-text="false"><blockquote cite="https://www.facebook.com/XinhuaNewsAgency.th/videos/1900496140166399/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/XinhuaNewsAgency.th/videos/1900496140166399/"></a><p>
+</p>Posted by <a href="https://www.facebook.com/XinhuaNewsAgency.th/">China Xinhua News</a> on Sunday, April 9, 2017</blockquote></div>
 
 ## Спектр задач
 * взаимодействие с R&D, обсуждение спецификации наборов с точки зрения производства;
