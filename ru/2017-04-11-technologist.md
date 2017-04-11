@@ -4,7 +4,7 @@ title: Вакансия – Технолог
 type: blog-post
 author: Василий Филиппов
 author-id: vassili-philippov
-post-image: <img src="/images/finance.jpg" width="600" height="361" alt="Финансист">
+post-image: <img src="/images/technologist.jpg" width="600" height="400" alt="Технолог">
 language: ru
 post-id: 2017-04-11
 publish-status: notpublished
