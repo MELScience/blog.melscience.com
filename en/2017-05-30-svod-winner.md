@@ -22,6 +22,6 @@ Two years ago MEL Science set the goal to transform traditional science educatio
 
 "Around 50 years ago almost every US family owned a children's chemistry set. A lot of time has passed since then and things have changed. We've rethought the very approach to conducting home chemistry experiments. We believe that we 've managed to create the chemistry set of the 21st century" - says Vassili Fillipov, the founder of MEL Science, a former Yandex developer and experienced entrepreneur with four sons of his own. 
 
-MEL Science is a UK-based education startup that focuses on VR and science subscriptions. Founded in the autumn of 2015, it closed US$2.5 million in the series A investment round in October 2016 from Sistema VC.
+MEL Science is a UK-based education startup that focuses on VR and science subscriptions. Founded in 2014, it closed US$2.5 million in the series A investment round in October 2016 from Sistema VC.
 
 <a class="btn btn-primary btn-lg active" href="https://melscience.com">Learn more about MEL Chemistry subscription</a>
