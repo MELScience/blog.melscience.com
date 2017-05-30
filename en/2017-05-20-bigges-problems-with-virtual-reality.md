@@ -46,7 +46,7 @@ Only Google’s Cardboard has a significant problem here. The delays are huge (c
 
 As VR continues to mature, I don’t think this gap will be an issue at all.
 
-Problem 2: Head tracking
+## Problem 2: Head tracking
 
 Even if the first problem is solved and no delays occur, one situation still happens when your brain thinks you are poisoned.
 
