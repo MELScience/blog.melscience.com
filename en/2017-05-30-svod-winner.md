@@ -5,7 +5,7 @@ type: blog-post
 author:  MEL Science
 author-id: mel-science
 post-image: <img src="/images/svod-award.jpg" width="600" height="418" alt="SVOD Award">
-og-image: /images/codes.jpg
+og-image: /images/svod-award.jpg
 language: en
 post-id: 2017-05-30
 publish-status: published
