@@ -24,4 +24,4 @@ Two years ago MEL Science set the goal to transform traditional science educatio
 
 MEL Science is a UK-based education startup that focuses on VR and science subscriptions. Founded in 2014, it closed US$2.5 million in the series A investment round in October 2016 from Sistema VC.
 
-<a class="btn btn-primary btn-lg active btn-overflow" href="https://melscience.com">Learn more about MEL Chemistry subscription</a>
+<a class="btn btn-primary btn-lg active btn-overflow" href="https://melscience.com">More about MEL Chemistry</a>
