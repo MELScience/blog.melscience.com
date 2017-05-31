@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: MEL Science wins Audience Award at SVOD '17 conference
+title: MEL Science wins Audience Award at Silicon Valley Open Doors '17 conference
 type: blog-post
 author:  MEL Science
 author-id: mel-science
