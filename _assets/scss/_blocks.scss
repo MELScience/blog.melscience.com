@@ -79,6 +79,16 @@
     font-size: 17px;
     margin-bottom: 10px;
   }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  iframe {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 /* Sidebar modules for boxing content */
