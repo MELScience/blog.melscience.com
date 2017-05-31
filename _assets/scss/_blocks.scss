@@ -107,6 +107,20 @@
   margin-bottom: 0;
 }
 
+/* Fix breadcrumb overflow */
+
+.breadcrumb {
+  width: 100%;
+  max-width: 610px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.breadcrumb li {
+  display: inline;
+}
+
 
 /* Blog post */
 .blog-post {
