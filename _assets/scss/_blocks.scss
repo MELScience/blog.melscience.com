@@ -121,6 +121,14 @@
   display: inline;
 }
 
+/* Overflowing button */
+
+.btn-overflow {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 
 /* Blog post */
 .blog-post {
