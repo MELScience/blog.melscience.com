@@ -7,7 +7,7 @@ author-id: mel-science
 post-image: <img src="/images/vr1.jpg" width="600" height="424" alt="MEL Chemistry VR Lessons">
 og-image: /images/vr1.jpg
 language: en
-post-id: 2017-05-30
+post-id: 2017-06-12
 publish-status: published
 
 ---
