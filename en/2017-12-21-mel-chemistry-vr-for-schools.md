@@ -16,7 +16,7 @@ MEL Science, an education service focused on immersive learning through VR and p
 
 ---
 
-<iframe width="640" height="360" src="http://www.youtube.com/embed/p1vV_VcAN0M?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/p1vV_VcAN0M?rel=0" frameborder="0" allowfullscreen></iframe>
 
 The new “teacher mode” allows teachers to guide a classroom of students through a VR chemistry lesson. Rather than use slides or a whiteboard, the teacher can illustrate concepts with an immersive VR experience that puts students in a virtual lab where they can zoom down to the atomic level, fly through the molecular makeup of chemicals and even build their own atoms.
 
