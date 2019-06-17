@@ -11,16 +11,16 @@ post-id: 2019-06-17
 publish-status: published
 
 ---
-Did you love science at school? Are you passionate about the importance of Science subjects in Education and beyond? We’re looking for a charismatic, natural communicator to join us as our Video Blogger and potentially Content/Copywriter!
+Did you love science at school? Are you passionate about the importance of Science subjects in education and beyond? We’re looking for a charismatic, natural communicator to join us as our video blogger and potentially content/copywriter!
 <!-- more -->
 
 ---
 
 ## About our team
 
-We’re a fast growing VC backed EdTech company, improving science education world-wide. We combine hands-on experiments with Virtual Reality to make our Science Sets completely interactive, bringing Chemistry to life!  
+We’re a <a href="https://melscience.com/en/about">fast growing VC backed EdTech company</a>, improving science education world-wide. We combine hands-on experiments with <a href="https://melscience.com/vr/">virtual reality</a> to make our science sets completely interactive, bringing chemistry to life!  
 
-Our Vlogger will quite literally help to show how Science education can be fun.  You’ll create engaging, interesting, educational vlogs about our exciting products and share them across relevant social media channels. You’ll target our relevant consumer markets including children between the ages of 8 and 12, their parents and of course, schools! 
+Our vlogger will quite literally help to show how science education can be fun.  You’ll create engaging, interesting, educational vlogs about our exciting products and share them across relevant social media channels. You’ll target our relevant consumer markets including children between the ages of 8 and 12, their parents and of course, schools! 
 
 ## Easy But Deep!
 
@@ -29,17 +29,17 @@ We believe that science could be explained in simple words without much compromi
 <iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/XHGKIzCcVa0?rel=0" frameborder="0" allowfullscreen></iframe>
 <iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/spUNpyF58BY?rel=0" frameborder="0" allowfullscreen></iframe>
  
-There is no need for Science to be explained in a boring way.  The fact that we want to provide accurate and deep explanation does not mean we cannot be fun and interesting. Look at some of the greatest Scientists like Richard Feynman, Neil deGrasse Tyson, Brian Cox, Michael Stevens (Vsauce), Derek Muller (Veritasium), Destin Sandlin(SmarterEveryDay), etc. They all know how to combine serious science with engaging and interesting story-telling.
+There is no need for science to be explained in a boring way.  The fact that we want to provide accurate and deep explanation does not mean we cannot be fun and interesting. Look at some of the greatest scientists like <a href="https://www.youtube.com/watch?v=y7h4OtFDnYE">Richard Feynman</a>, <a href="https://www.youtube.com/watch?v=OZUAtUNs8Gk">Neil deGrasse Tyson</a>, <a href="https://www.youtube.com/watch?v=bGjQFgGrBXs">Brian Cox</a>, <a href="https://www.youtube.com/user/Vsauce/videos?view=0&sort=p&flow=grid">Michael Stevens (Vsauce)</a>, <a href="https://www.youtube.com/user/1veritasium/videos?view=0&sort=p&flow=grid">Derek Muller (Veritasium)</a>, <a href="https://www.youtube.com/user/destinws2/videos?view=0&sort=p&flow=grid">Destin Sandlin (SmarterEveryDay)</a>, etc. They all know how to combine serious science with engaging and interesting story-telling.
  
-You should have the skills and desire to explain science simply and attractively. It’s absolutely essential that you have a Science degree, or the equivalent level of Science qualification. We’d love you to have studied Chemistry, Biology, Physics or Biochemistry. You’ll be an avid social media user, passionate about what we do and you’ll be able to create fantastic video content for various platforms! 
+You should have the skills and desire to explain science simply and attractively. It’s absolutely essential that you have a Science degree, or the equivalent level of science qualification. We’d love you to have studied Chemistry, Biology, Physics or Biochemistry. You’ll be an avid social media user, passionate about what we do and you’ll be able to create fantastic video content for various platforms! 
 
 ## What will you do? 
 
-Create compelling vlogs related to our products.  You’ll conduct Science experiments in front of the camera to show how our products work and can improve Science education and explain the science behind those experiments. 
+Create compelling vlogs related to our products.  You’ll conduct science experiments in front of the camera to show how our products work and can improve science education and explain the science behind those experiments. 
 
 ## We have a platform for your talent
 
-With fast growing social media of more than one million followers your talent will have a great platform to make a real impact on science education. You will become a star people recognize.
+With fast growing social media of <a href="https://www.facebook.com/melscience">more than one million followers</a> your talent will have a great platform to make a real impact on science education. You will become a star people recognize.
 
 ## Who would we like? 
 You’ll be a graduate in a Science subject with a passion for Science Education, that’s essential. You’ll have excellent academics.
