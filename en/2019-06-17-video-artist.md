@@ -4,8 +4,8 @@ title: MEL Science video blogger
 type: blog-post
 author:  MEL Science
 author-id: mel-science
-post-image: <img src="/images/vr2.jpg" width="600" height="427" alt="MEL Chemistry VR Lessons">
-og-image: /images/vr2.jpg
+post-image: <img src="/images/youtube.png" width="600" height="388" alt="MEL Science YouTube">
+og-image: /images/youtube.png
 language: en
 post-id: 2019-06-17
 publish-status: published
@@ -16,8 +16,6 @@ Did you love science at school? Are you passionate about the importance of Scien
 
 ---
 
-<iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/p1vV_VcAN0M?rel=0" frameborder="0" allowfullscreen></iframe>
-
 ## About our team
 
 We’re a fast growing VC backed EdTech company, improving science education world-wide. We combine hands-on experiments with Virtual Reality to make our Science Sets completely interactive, bringing Chemistry to life!  
@@ -27,18 +25,20 @@ Our Vlogger will quite literally help to show how Science education can be fun. 
 ## Easy But Deep!
 
 We believe that science could be explained in simple words without much compromise on depth of explanation. Just check some of these examples:
-https://www.youtube.com/watch?v=XRxAn2DRzgI
-https://www.youtube.com/watch?v=XHGKIzCcVa0
-https://www.youtube.com/watch?v=spUNpyF58BY
+<iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/XRxAn2DRzgI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/XHGKIzCcVa0?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/spUNpyF58BY?rel=0" frameborder="0" allowfullscreen></iframe>
  
 There is no need for Science to be explained in a boring way.  The fact that we want to provide accurate and deep explanation does not mean we cannot be fun and interesting. Look at some of the greatest Scientists like Richard Feynman, Neil deGrasse Tyson, Brian Cox, Michael Stevens (Vsauce), Derek Muller (Veritasium), Destin Sandlin(SmarterEveryDay), etc. They all know how to combine serious science with engaging and interesting story-telling.
  
 You should have the skills and desire to explain science simply and attractively. It’s absolutely essential that you have a Science degree, or the equivalent level of Science qualification. We’d love you to have studied Chemistry, Biology, Physics or Biochemistry. You’ll be an avid social media user, passionate about what we do and you’ll be able to create fantastic video content for various platforms! 
 
 ## What will you do? 
+
 Create compelling vlogs related to our products.  You’ll conduct Science experiments in front of the camera to show how our products work and can improve Science education and explain the science behind those experiments. 
 
-We have a platform for your talent
+## We have a platform for your talent
+
 With fast growing social media of more than one million followers your talent will have a great platform to make a real impact on science education. You will become a star people recognize.
 
 ## Who would we like? 
@@ -54,9 +54,4 @@ We offer great progression within a fast-moving, growing environment, as well as
 
 Due to the high nature of applications, we’ll only be able to reply to those with relevant academics and experience! 
 
-<a class="btn btn-primary btn-lg active btn-overflow" href="mailto:nicole@melscience.co.uk>">Send your CV</a>
-
-
-======================
-
-
+<a class="btn btn-primary btn-lg active btn-overflow" href="mailto:nicole@melscience.co.uk">Send your CV to Nicole@melscience.co.uk</a>
