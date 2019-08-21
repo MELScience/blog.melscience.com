@@ -4,7 +4,7 @@ title: MEL Science launches the first AR-powered educational subscription for ki
 type: blog-post
 author:  MEL Science
 author-id: mel-science
-post-image: <img src="/images/melkids.png" width="600" height="400" alt="MEL Kids launch">
+post-image: <img src="/images/melkids.jpg" width="600" height="400" alt="MEL Kids launch">
 og-image: /images/melkids.png
 language: en
 post-id: 2019-08-21
