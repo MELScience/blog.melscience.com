@@ -15,7 +15,8 @@ publish-status: published
 <!-- more -->
 
 ---
-<iframe style="height: 360px" width="640" height="360" src="https://www.youtube.com/watch?v=57gfLvzRyIw&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+
+<iframe style="height: 360px" width="640" height="360" src="http://www.youtube.com/embed/57gfLvzRyIw?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Science for young children
 
