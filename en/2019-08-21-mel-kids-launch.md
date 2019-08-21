@@ -11,7 +11,7 @@ post-id: 2019-08-21
 publish-status: published
 
 ---
-<a href="https://melscience.com/">MEL Science</a>, a UK-based education service focused on immersive learning through technology and practical experiments, today announced the launch of a new product – MEL Kids, a monthly subscription for children 5-10 years of age. The new subscription combines hands-on experiments with AR app to translate difficult science concepts into friendly and comprehensive visuals. The project aims to teach kids to approach and solve real-life problems logically by equipping them with an understanding of the scientific principles behind everyday objects.
+Today, we launch a new product – MEL Kids, a monthly subscription for children 5-10 years of age. The new subscription combines hands-on experiments with AR app to translate difficult science concepts into friendly and comprehensive visuals. The project aims to teach kids to approach and solve real-life problems logically by equipping them with an understanding of the scientific principles behind everyday objects.
 <!-- more -->
 
 ---
