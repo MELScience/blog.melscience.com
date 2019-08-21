@@ -29,3 +29,5 @@ Another issue the new subscription aims to tackle is negative screen time, one o
 ## About MEL Kids
 
 <a href="https://melscience.com/kids">MEL Kids</a> is a science education subscription service that combines hands-on experiments with an in-depth AR explanation aimed at kids ages 5-10. Each monthly kit contains a science-themed project with simple assembly, and an exciting comic book that discusses the underlying principles of the project. The subscription expounds upon topics such as optics, pressure, electricity, and much more. Kids will assemble a variety of projects related to their everyday life, for example they'll build their own camera and make a battery. All lessons include an Augmented Reality experience that practically leaps out of the screen. The subscription costs $24.90 per month and thus far is offered within the US, with other countries soon to come.
+
+<a class="btn btn-primary btn-lg active btn-overflow" href="https://melscience.com/kids">Learn more about MEL Kids now</a>
