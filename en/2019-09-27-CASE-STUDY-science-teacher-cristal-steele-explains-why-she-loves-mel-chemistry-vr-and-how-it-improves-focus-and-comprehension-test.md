@@ -11,12 +11,14 @@ post-id: 2019-09-25
 publish-status: published
 
 ---
-Science teacher, Cristal Steele, explains why she loves MEL Chemistry VR and how it improves focus and comprehension.  Cristal has loved science all her life. She started teaching so she could share her passion for science with the next generation. Now she’s setting up a purpose-built virtual reality and augmented reality science lab and maker space at Beach High School. On the request list was MEL Chemistry VR, a science resource that she first tried in 2018 for her previous school. Here, Cristal shares her experience of bringing VR into the classroom and how it improved focus and comprehension.
+Science teacher, Cristal Steele, explains why she loves MEL Chemistry VR and how it improves focus and comprehension.  
+
+Cristal has loved science all her life. She started teaching so she could share her passion for science with the next generation. Now she’s setting up a purpose-built virtual reality and augmented reality science lab and maker space at Beach High School. On the request list was MEL Chemistry VR, a science resource that she first tried in 2018 for her previous school. Here, Cristal shares her experience of bringing VR into the classroom and how it improved focus and comprehension.
 <!-- more -->
 
 ---
 
-<img src="/images/Cristal-Steele-using-VR-in-school-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
+<img src="/images/Cristal-Steele-from-Islands-High-School-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
 <sub>Cristal’s students trying out their new headsets.</sub>
 
 <h3>Introducing VR to the students</h3>
@@ -29,6 +31,7 @@ Our school got a kit of RedboxVR VR headsets, with the MEL Science VR app pre-in
 The VR headsets were aligned with our classroom textbook, so the lesson was curriculum led but delivered through this exciting new format. One of my students, Kennedi White, said she won't forget the first VR lesson we tried. "My first time doing this, I fell off my chair," she said. "It was hands-on, but not in the way I think of hands-on. It was cool and fun." 
 
 <img src="/images/Kennedi-White-from-Islands-High-School-v3.png" width="298" height="392" alt="Kennedi White from Islands High School">
+
 <sub>Kennedi White, a previous student of Cristal’s.</sub>
 
 I started the first VR lesson by memorizing the periodic table; this is a vital component of my chemistry lessons. Using VR helped me bring the material to life and engaged my students with information they may have previously struggled to engage with and understand. 
