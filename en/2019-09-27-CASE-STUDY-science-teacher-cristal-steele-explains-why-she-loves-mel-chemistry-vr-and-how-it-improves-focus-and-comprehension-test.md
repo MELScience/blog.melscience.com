@@ -4,7 +4,7 @@ title: CASE STUDY - Cristal Steele using MEL Chemistry VR in class
 type: blog-post
 author:  MEL Science
 author-id: mel-science
-post-image: <img src="/images/vr2.jpg" width="600" height="427" alt="MEL Chemistry VR Lessons">
+post-image: <img src="/images/Cristal-Steele-using-VR-in-school-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
 og-image: /images/vr2.jpg
 language: en
 post-id: 2019-09-25
@@ -17,21 +17,18 @@ Science teacher, Cristal Steele, explains why she loves MEL Chemistry VR and how
 ---
 
 <img src="/images/Cristal-Steele-using-VR-in-school-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
+<sub>Cristal’s students trying out their new headsets.</sub>
 
 <h3>Introducing VR to the students</h3>
  
 Our school got a kit of RedboxVR VR headsets, with the MEL Science VR app pre-installed, in preparation for our first VR chemistry lesson. Virtual Reality (VR) is used by wearing a headset or goggles, which immerse you in a virtual world, enabling pupils to experience what they are learning first-hand. In an increasingly technology focused society, it is important that our students engage with contemporary and relevant learning resources. MEL VR lets students experience atomic level interactions, and interact with them at a human scale. This doesn’t just tell them about models, maths and formula, this helps them gain an intuitive understanding of what’s going on. 
 
-<img src="/images/Cristal-Steele-using-VR-in-school-600.jpg" width="600" height="454" alt="Cristal Steele using Virtual Reality in school">
-
-<sub>Cristal’s students trying out their new headsets.</sub>
-
-<blockquote>“Tell me and I forget, teach me and I may remember, involve me and I learn.”</blockquote> ancient Chinese proverb, Xunzi, (also attributed to Benjamin Franklin)
+<blockquote>“Tell me and I forget, teach me and I may remember, involve me and I learn.”</blockquote> 
+<sub>Ancient Chinese proverb, Xunzi, (also attributed to Benjamin Franklin)</sub>
 
 The VR headsets were aligned with our classroom textbook, so the lesson was curriculum led but delivered through this exciting new format. One of my students, Kennedi White, said she won't forget the first VR lesson we tried. "My first time doing this, I fell off my chair," she said. "It was hands-on, but not in the way I think of hands-on. It was cool and fun." 
 
-<img src="/images/Kennedi-White-from-Islands-High-School-v3.jpg" width="298" height="392" alt="Kennedi White from Islands High School v3">
-
+<img src="/images/Kennedi-White-from-Islands-High-School-v3.png" width="298" height="392" alt="Kennedi White from Islands High School">
 <sub>Kennedi White, a previous student of Cristal’s.</sub>
 
 I started the first VR lesson by memorizing the periodic table; this is a vital component of my chemistry lessons. Using VR helped me bring the material to life and engaged my students with information they may have previously struggled to engage with and understand. 
@@ -45,11 +42,12 @@ My class then experienced how the particles of an atom bounce around at differen
 The atom builder function allowed my students to familiarise themselves with the composition of atoms in a completely novel way. “It's like you are part of it, rather than copying it down. It sticks with you," said Jordan Albury, another of my former students. 
 
 <img src="/images/melchemistryvr.jpg" width="600" height="429" alt="mel chemistry virtual reality">
-
 <sub>MEL Science atom builder</sub>
 
 I have found utilising MEL Science VR has increased my students’ focus, which ultimately improves their overall comprehension of the topic. They have even recognised the differences themselves. "You're not just learning it to learn it. You're experiencing it and you understand it fully," said Alexa Morrison, one of my former students. I know this technology is academically beneficial but importantly, my students’ engagement with learning has skyrocketed which is why I believe VR should be adopted more widely. 
 
+
 <i>In summer 2019, MEL Science completed a random control trial with the New Jersey Institute of Technology which showed that VR students scored significantly higher in final exams and class grades.</i>
+
 
 <a class="btn btn-primary btn-lg active btn-overflow" href="https://melscience.com/vr">More about MEL Chemistry VR</a>
