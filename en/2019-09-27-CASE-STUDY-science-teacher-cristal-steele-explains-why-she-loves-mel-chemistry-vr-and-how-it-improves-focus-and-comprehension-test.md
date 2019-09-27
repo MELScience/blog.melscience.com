@@ -4,7 +4,7 @@ title: CASE STUDY - Cristal Steele using MEL Chemistry VR in class
 type: blog-post
 author:  MEL Science
 author-id: mel-science
-post-image: <img src="/images/Cristal-Steele-using-VR-in-school-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
+post-image: <img src="/images/Cristal-Steele-using-VR-in-school-600.png" width="600" height="450" alt="Cristal Steele using VR in school">
 og-image: /images/vr2.jpg
 language: en
 post-id: 2019-09-25
@@ -18,12 +18,15 @@ Cristal has loved science all her life. She started teaching so she could share 
 
 ---
 
-<img src="/images/Cristal-Steele-from-Islands-High-School-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
+<img src="/images/Cristal-Steele-using-VR-in-school-600.png" width="600" height="450" alt="Cristal Steele using VR in School">
 <sub>Cristal’s students trying out their new headsets.</sub>
 
 <h3>Introducing VR to the students</h3>
  
 Our school got a kit of RedboxVR VR headsets, with the MEL Science VR app pre-installed, in preparation for our first VR chemistry lesson. Virtual Reality (VR) is used by wearing a headset or goggles, which immerse you in a virtual world, enabling pupils to experience what they are learning first-hand. In an increasingly technology focused society, it is important that our students engage with contemporary and relevant learning resources. MEL VR lets students experience atomic level interactions, and interact with them at a human scale. This doesn’t just tell them about models, maths and formula, this helps them gain an intuitive understanding of what’s going on. 
+
+<img src="/images/Cristal-Steele-from-Islands-High-School-600.png" width="600" height="450" alt="Cristal Steele from Islands High School">
+<sub>Cristal Steele from Islands High School.</sub>
 
 <blockquote>“Tell me and I forget, teach me and I may remember, involve me and I learn.”</blockquote> 
 <sub>Ancient Chinese proverb, Xunzi, (also attributed to Benjamin Franklin)</sub>
