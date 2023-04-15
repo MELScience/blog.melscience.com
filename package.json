@@ -23,7 +23,7 @@
     "gulp-sourcemaps": "^1.5.1",
     "gulp-util": "^3.0.4",
     "gulp-watch": "^4.2.0",
-    "postcss": "^4.0.6",
+    "postcss": "^7.0.36",
     "postcss-epub": "^2.2.5",
     "requirejs": "^2.1.16",
     "run-sequence": "^1.0.2"
